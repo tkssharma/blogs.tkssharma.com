@@ -1,5 +1,5 @@
-# kumartarun.github.io
+# tkssharma.github.io
 
-This is the official repo for @tkssharma, the official blog of Tarun Sahrma, Developer at UnitedHealth Group.
+This is the official repo for @tkssharma, the official blog of Tarun Sahrma, Developer at Srijan Technologies.
 
-Based on[Fork this repository](https://github.com/kumartarun)
+Based on[Fork this repository](https://github.com/tksshrma.github.io)
