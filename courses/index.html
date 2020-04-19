@@ -1,14 +1,13 @@
 ---
 layout: default
-page_id: 'home'
-cover: /assets/images/codemobile.jpg
+page_id: courses
+cover: /assets/images/videos.jpg
+summary: Online courses and training by @tarun sharma
 ---
-
 <main class="post-list content" role="main">
-    {% for post in paginator.posts %}
+    {% for post in site.categories.courses %}
     <article class="post-item">
       <div class="post-meta">
-        {% include post_categories.html %}
         <span class="post-date">
         {% if post.conference_date %}
           {{post.conference_date}}
@@ -32,10 +31,12 @@ cover: /assets/images/codemobile.jpg
         <section class="post-description">
           <a href="{{ post.url }}"><img class="list-thumb" src="{{ post.heroimage }}" alt="{{ course.Title }} thumbnail"></a><span class="list-description">{{ post.summary | strip_html | truncatewords: 50 }}</span>
         </section>
-        {% include post_links.html %}
+      {% include post_links.html %}
       {% endif %}<!-- Is it a course or something else -->
       </article>
     {% endfor %}
+
+    {% if paginator.next_page %}
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
         <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-circle-o-left"></i></a>
@@ -49,4 +50,5 @@ cover: /assets/images/codemobile.jpg
         {% endif %}
       {% endif %}
     </nav>
+    {% endif %}
 </main>

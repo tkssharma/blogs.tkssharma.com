@@ -1,0 +1,36 @@
+---
+category: courses
+---
+<!DOCTYPE html>
+{% for course in site.data.courselist %}
+{% if course.id == page.courseid %}
+<html ng-app="searchApp">
+<head>
+  {% include head.html %}
+</head>
+<body class="post">
+
+<a href="{{ site.url }}" class="floating-logo">
+  <span class="logo" style="background-image: url({{ site.logo }})"></span>
+</a>
+<header class="header">
+{% include header_posts.html %}
+</header>
+<main class="content" role="main">
+	{% include breadcrumbs.html %}
+<!-- Course Information -->
+  {% include post_links.html %}
+  <div class="post-video"><iframe class='video' src='https://www.youtube.com/embed/{{ course.WelcomeVideoId }}?list={{ course.WelcomeVideoId }}' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe></div>
+  <div class="course-description">{{ course.Description }}</div>
+  <div class="content">{{ content }}</div>
+  {% include post_tags.html %}
+</main><!-- main class="content" -->
+
+<footer class="site-footer">
+  {% include footer.html %}
+</footer>
+{% include scriptloader.html %}
+</body>
+</html>
+{% endif %} 
+{% endfor %} 

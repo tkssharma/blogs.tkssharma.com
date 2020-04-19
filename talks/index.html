@@ -1,41 +1,28 @@
 ---
 layout: default
-page_id: 'home'
-cover: /assets/images/codemobile.jpg
+page_id: talks
+cover: /assets/images/microphone.jpg
+summary: Upcoming talks, training sessions and conference appearances from speaker tarun sharma
 ---
 
 <main class="post-list content" role="main">
-    {% for post in paginator.posts %}
+    {% for post in site.categories.talks %}
     <article class="post-item">
       <div class="post-meta">
-        {% include post_categories.html %}
-        <span class="post-date">
-        {% if post.conference_date %}
-          {{post.conference_date}}
-        {% else %}
-          {{ post.date | date: '%B %-d, %Y' }}
-        {% endif %}
-        </span>
+        <span class="post-date">{{ post.conference_date }}</span>
       </div><!-- post-meta -->
-      {% if post.courseid %}
-        {% for course in site.data.courselist %}
-          {% if course.id == post.courseid %}
-            <h2 class="post-title"><a href="{{ post.url }}">{{ course.snippet.title }}</a></h2>
-            <section class="post-description">
-              <a href="{{ post.url }}"><img class="list-thumb" src="{{ course.snippet.thumbnails.medium.url }}" alt="Thumbnail for {{ course.snippet.title}}"></a><span class="list-description">{{ course.snippet.description | strip_html | truncatewords: 50 }}</span>
-            </section>
-            {% include post_links.html %}
-          {% endif %}
-        {% endfor %}
-      {% else %}
         <h2 class="post-title"><a href="{{ post.url }}">{{ post.Title }}</a></h2>
         <section class="post-description">
           <a href="{{ post.url }}"><img class="list-thumb" src="{{ post.heroimage }}" alt="{{ course.Title }} thumbnail"></a><span class="list-description">{{ post.summary | strip_html | truncatewords: 50 }}</span>
         </section>
-        {% include post_links.html %}
-      {% endif %}<!-- Is it a course or something else -->
+        <ul>
+          <li><a href="{{ post.url }}"><i class="fa fa-arrow-circle-right"></i> read more</a></li>
+        </ul>
       </article>
     {% endfor %}
+
+
+    {% if paginator.next_page %}
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
         <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-circle-o-left"></i></a>
@@ -49,4 +36,6 @@ cover: /assets/images/codemobile.jpg
         {% endif %}
       {% endif %}
     </nav>
+    {% endif %}
+
 </main>

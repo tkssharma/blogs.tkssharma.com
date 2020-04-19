@@ -1,0 +1,64 @@
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", 'tables', "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+sass:
+  style: expanded
+# Site settings
+title: "@tkssharma | tkssharma.github.io"
+tagline: "Learn Code in Javascript"
+description: "The website from Tarun Sharma, helping improve lives by teaching front-end web skills with a clear, practical style. I am Publisher, Trainer Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql "
+email: tarun.softengg@gmail.com
+twitteruser: "@tkssaharma"
+logo: "/assets/images/powship.png" #blog logo
+cover: "/assets/images/hero.jpg" # blog cover
+
+author:
+  firstname: "Tarun"
+  name: "Tarun Sharma"
+  bio: "I am Publisher, Trainer Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql "
+author_image: "/assets/images/author.jpg"
+ldcjsonfeed: http://planetoftheweb.com/i/courses.php?author=832401&limit=0&filter.includes=Title,ShortDescription,DurationInSeconds,URLs,ID,WelcomeVideoId,Thumbnails.filename
+paginate:	20
+
+url: "http://kumartarun.github.io" # the base hostname & protocol for your site
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/tkssharma
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: facebook
+    url:  https://facebook.com/viewsource
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon: linkedin
+    url:  https://in.linkedin.com/in/tarun-sharma-03790254
+    desc: Connect with me on LinkedIn
+
+  - icon:	github
+    url:	https://github.com/tkssharma
+    desc:	Fork me on github
+
+  - icon:	google-plus
+    url:	https://plus.google.com/107471860931223719295/
+    desc:	Add me on google+
+
+  - icon:	dribbble
+    url:	#
+    desc:	Follow me on dribbble
+
+  - icon:	flickr
+    url:	#
+    desc:	My flickr portfolio
+
+  - icon:	youtube
+    url:	https://www.youtube.com/user/vibbbbbba/playlists
+    desc:	Subscribe to my youtube channel
