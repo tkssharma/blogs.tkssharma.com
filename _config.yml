@@ -5,7 +5,7 @@ redcarpet:
 sass:
   style: expanded
 # Site settings
-title: "@tkssharma | tkssharma.github.io"
+title: "@tkssharma"
 tagline: "Learn Code in Javascript"
 description: "The website from Tarun Sharma, helping improve lives by teaching front-end web skills with a clear, practical style. I am Publisher, Trainer Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql "
 email: tarun.softengg@gmail.com
