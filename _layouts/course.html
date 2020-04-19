@@ -20,8 +20,8 @@ category: courses
 	{% include breadcrumbs.html %}
 <!-- Course Information -->
   {% include post_links.html %}
-  <div class="post-video"><iframe class='video' src='https://www.youtube.com/embed/{{ course.WelcomeVideoId }}?list={{ course.WelcomeVideoId }}' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe></div>
-  <div class="course-description">{{ course.Description }}</div>
+  <div class="post-video"><iframe class='video' src='https://www.youtube.com/embed/videoseries?list={{ course.id }}' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe></div>
+  <div class="course-description">{{ course.snippet.description }}</div>
   <div class="content">{{ content }}</div>
   {% include post_tags.html %}
 </main><!-- main class="content" -->
