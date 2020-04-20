@@ -1,4 +1,4 @@
-# tkssharma.github.io
+# blog.tkssharma.com
 
 This is the official repo for @tkssharma, the official blog of Tarun Sahrma, Developer at Srijan Technologies.
 
