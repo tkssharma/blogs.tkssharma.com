@@ -7361,7 +7361,7 @@
     "publishedAt": "2016-11-28T13:45:09.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Node JS Advance Topics",
-    "description": "",
+    "description": "Node Advannced: Here's one of the most common interview questions you'll face when looking for a Node job: Can you explain Node's Event Loop? There are two types of engineers: those who can describe the Event Loop and those who cannot!  This course will ensure that you are incredibly well prepared to answer that most important question.  Besides being critical for interviews, knowledge of the Event Loop will give you a better understanding of how Node works internally.  Many engineers know not to 'block' the Event Loop, but they don't necessarily understand why.  You will be one of the engineers who can clearly articulate the performance profile of Node and its Event Loop. Caching with Redis: We'll also supercharge the performance of database queries by implementing caching backed by Redis.  No previous experience of Redis is required!  Redis is an in-memory data store purpose built for solving caching needs.  By adding caching to your application, you can decrease the amount of time that any given request takes, improving the overall response time of your app",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/ISGcrzG5vH0/default.jpg",
@@ -7410,7 +7410,7 @@
     "publishedAt": "2016-11-28T13:21:32.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Angular 2.0 Final Training",
-    "description": "",
+    "description": "Angular 9 simply is the latest version of Angular 2, you will learn this amazing framework from the ground up in this course! Join the most comprehensive, popular and bestselling Angular course on Udemy and benefit not just from a proven course concept but from a huge community as well!  From Setup to Deployment, this course covers it all! You'll learn all about Components, Directives, Services, Forms, Http Access, Authentication, Optimizing an Angular App with Modules and Offline Compilation and much more - and in the end: You'll learn how to deploy an application",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/5DaiugPbVPY/default.jpg",
@@ -7459,7 +7459,7 @@
     "publishedAt": "2016-11-28T12:39:57.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Learn React JS from Bottom to Top",
-    "description": "",
+    "description": "Learn React fast with this best-selling course. Make your own functioning Hacker News app. Text-based course with hands-on exercises to make learning quick and efficient.",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/GaSHCoJXxCs/default.jpg",
@@ -7508,7 +7508,7 @@
     "publishedAt": "2016-11-28T12:27:50.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Understanding ES6 ES2015 Features",
-    "description": "",
+    "description": "This essay will give you a quick introduction to ES6. If you don’t know what is ES6, it’s a new JavaScript implementation. If you’re a busy JavaScript software engineer (and who is not?), then proceed reading to learn the best 10 features of the new generation of the most popular programming language—JavaScript.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/I03wqvGQ8mk/default.jpg",
@@ -7557,7 +7557,7 @@
     "publishedAt": "2016-11-28T11:51:02.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Training series on Angular 2.0 Fundamentals",
-    "description": "",
+    "description": "Angular 2 is a massively popular JavaScript framework built to take advantage of component development in web apps. In Angular 2 , author Joseph D. Booth will guide you through setting up a development environment, interacting with the Angular CLI, building Hello World",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/SrYU63AgRA0/default.jpg",
@@ -7655,7 +7655,7 @@
     "publishedAt": "2016-11-28T10:41:59.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Webcast On Angular 2.0 Development",
-    "description": "",
+    "description": "Angular 2 is a massively popular JavaScript framework built to take advantage of component development in web apps. In Angular 2 , author Joseph D. Booth will guide you through setting up a development environment, interacting with the Angular CLI, building Hello World",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/dBgluk49FK8/default.jpg",
@@ -7704,7 +7704,7 @@
     "publishedAt": "2016-11-28T10:11:14.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "React js with ES6 ES2015 Webpack",
-    "description": "",
+    "description": "Knowledge of ES6 is important when building React applications. ES6 brought a lot of cool syntax changes to JavaScript that make writing JavaScript much easier.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/c3icyoA3dgc/default.jpg",
