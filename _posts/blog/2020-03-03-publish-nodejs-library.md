@@ -3,7 +3,7 @@ layout: blog
 category: blog
 Title: Publish Node JS librray as Github Module
 summary: Publish Node JS librray as Github Module
-heroimage: "http://www.cronj.com/blog/wp-content/uploads/2016/03/Node-difference.jpg"
+heroimage: "https://code.support/wp-content/uploads/2016/04/js.png"
 tags :
 - nodejs
 - javascript
