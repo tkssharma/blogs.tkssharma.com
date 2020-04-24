@@ -208,7 +208,7 @@ Here is the full code for our index.html.
     </html>
 
 Now if you view your index.html in the browser, you’ll see the h1 tag we created rendered to the DOM.
-> # *The method we just used for loading JavaScript libraries into a static HTML page and rendering the React and Babel on the fly is not efficient, and is hard to maintain.*
+###  method we just used for loading JavaScript libraries into a static HTML page and rendering the React and Babel on the fly is not efficient, and is hard to maintain.*
 > # If you are planning to build a fully fledged, integrated React app, i would highly suggest to do complete setup on your PC/Laptop using create-react-app.
 
 ## “Create React App” via npm
@@ -222,7 +222,7 @@ Fortunately, Facebook has created [Create React App](https://github.com/facebook
 To set up create-react-app, run the following code in your terminal, one directory up from where you want the project to live. Make sure you have 5.2 or higher in Node.js.
 
     npx create-react-app my-app
-> npm create-react-app command is deprecated
+    npm create-react-app command is deprecated
 
 Once that finishes installing, move to the newly created directory and start the project.
 
@@ -384,7 +384,8 @@ Most widely props are passed from the parent component to child component via at
 ## Component State:
 
 The behavior of the app/component at a given moment in time is defined by the state. Components data will be stored in the component’s State. This state can be modified based on user action or other action.
-> # When a component state is changed, React will re-render the component to the browser.
+
+When a component state is changed, React will re-render the component to the browser.
 
     class App extends Component {
         state = {
