@@ -6772,8 +6772,8 @@
    "snippet": {
     "publishedAt": "2016-12-09T13:02:49.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-    "title": "If you’re just getting started with Node.js and want to try your hand at building a web app, things can often get a little overwhelming. Once you get beyond the “Hello, World!” tutorials, much of the material out there has you copy-pasting code, with little or no explanation as to what you’re doing or why. This means that, by the time you’ve finished, you’ve built something nice and shiny, but you also have relatively few takeaways that you can apply to your next project. In this tutorial, I’m going to take a slightly different approach. Starting from the ground up, I’ll demonstrate how to build a no-frills web app using Node.js, but instead of focusing on the end result, I’ll focus on a range of things you’re likely to encounter when building a real-world app. These include routing, templating, dealing with forms, interacting with a database and even basic authentication.",
-    "description": "",
+    "title": "MongoDB",
+    "description": "If you’re just getting started with Node.js and want to try your hand at building a web app, things can often get a little overwhelming. Once you get beyond the “Hello, World!” tutorials, much of the material out there has you copy-pasting code, with little or no explanation as to what you’re doing or why. This means that, by the time you’ve finished, you’ve built something nice and shiny, but you also have relatively few takeaways that you can apply to your next project. In this tutorial, I’m going to take a slightly different approach. Starting from the ground up, I’ll demonstrate how to build a no-frills web app using Node.js, but instead of focusing on the end result, I’ll focus on a range of things you’re likely to encounter when building a real-world app. These include routing, templating, dealing with forms, interacting with a database and even basic authentication.",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/rPswZKXzLHs/default.jpg",
@@ -7116,7 +7116,7 @@
     "publishedAt": "2016-11-29T07:17:23.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "JavaScript Training Course",
-    "description": "",
+    "description": "This is a truly complete JavaScript course, that goes beyond what other JavaScript courses out there teach you. I will take you from a complete JavaScript beginner to an advanced developer. You will not just learn the JavaScript language itself, you will also learn how to program. How to solve problems. How to structure and organize code using common JavaScript patterns. Come with me on a journey with the goal of truly understanding the JavaScript language. And I explain everything on the way with great detail!",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/sspsG1yeX90/default.jpg",
@@ -7165,7 +7165,7 @@
     "publishedAt": "2016-11-29T05:41:49.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Hapi js API development with Swagger",
-    "description": "",
+    "description": "Building APIs with the right logic and functionality fully in tune with the design can be challenging. Swagger Codegen can autogenerate your API’s boilerplate code in 20+ languages from your API’s design, allowing you to only focus on your API’s core business logic. In case your development teams need to work on different modules of code together, you can always use SwaggerHub’s code-generator for collaborative API development.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/90Kdph_jA-w/default.jpg",
@@ -7213,7 +7213,7 @@
    "snippet": {
     "publishedAt": "2016-11-29T01:51:20.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-    "title": "Hapi JS Node Framework",
+    "title": "At Brave, developing web services with hapi allows us to focus on the many problems to be solved, not on the details of the tool being used. hapi provides the right set of core APIs and extensible plugins to support the requirements of a modern service - session management, security, connectivity, and testing.",
     "description": "",
     "thumbnails": {
      "default": {
@@ -7263,7 +7263,7 @@
     "publishedAt": "2016-11-28T14:11:04.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Understanding React JS With Flux Architecture",
-    "description": "",
+    "description": "Flux is a pattern for managing how data flows through a React application. As we've seen, the preferred method of working with React components is through passing data from one parent component to it's children components. The Flux pattern makes this model the default method for handling data.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/A85F6dwGvEU/default.jpg",
@@ -7312,7 +7312,7 @@
     "publishedAt": "2016-11-28T14:06:17.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "React JS Testing using JEST Shallow Rendering",
-    "description": "",
+    "description": "Testing with Jest, Jest got introduced by Facebook for testing JavaScript and especially React applications. It's one of the most popular ways to test React components nowadays. Since it comes with its own test runner, you can simply call Jest from the command line to run all your tests. All your tests are defined as test suites (e.g. describe-block) and test cases (e.g. it-block or test-block). The Jest setup allows you to add optional configuration, to introduce a setup routine yourself, or to define custom npm scripts to run your Jest tests. In this tutorial, you will learn how to perform all of it. Aside from all the setup, Jest comes with a rich API for test assertions (e.g. true to equal true). The tutorial will show you how to use these test assertions for your React components and JavaScript functions. Also you will learn about Snapshot Tests to test your React components.",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/EUd21JqnRSo/default.jpg",
@@ -7606,7 +7606,7 @@
     "publishedAt": "2016-11-28T11:04:27.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Angular 2.0 for Beginners",
-    "description": "",
+    "description": "Angular is one of the best frameworks for Web Development. Surveys have shown that the number of skilled Angular developers are much less than the number of jobs available for it. The best way to land you a good job with a handsome salary in this domain is to get an Angular Certification. However, if you are still unaware of this technology, here is a complete Angular 8 Tutorial that will help you learn Angular 8 from scratch.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/SPDIHLFhB2c/default.jpg",
