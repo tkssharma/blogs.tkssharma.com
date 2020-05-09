@@ -6577,7 +6577,7 @@
     "publishedAt": "2016-12-12T06:58:02.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Angular 2.0 Webcasts",
-    "description": "",
+    "description": "Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop. Build features quickly with simple, declarative templates. Extend the template language with your own components and use a wide array of existing components. Get immediate Angular-specific help and feedback with nearly every IDE and editor. All this comes together so you can focus on building amazing apps rather than trying to make the code work.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/AV490ZawnX4/default.jpg",
@@ -6626,7 +6626,7 @@
     "publishedAt": "2016-12-12T06:26:06.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Screen-cast On React apps with Redux",
-    "description": "Screen-cast On React apps with Redux",
+    "description": "Redux is a predictable state container for JavaScript apps.It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. You can use Redux together with React, or with any other view library. It is tiny (2kB, including dependencies), but has a large ecosystem of addons available.",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/1_z_1GhCEm4/default.jpg",
@@ -6675,7 +6675,7 @@
     "publishedAt": "2016-12-12T06:00:57.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "DevOps for Beginners",
-    "description": "DevOps for Beginners",
+    "description": "DevOps is a set of practices that works to automate and integrate the processes between software development and IT teams, so they can build, test, and release software faster and more reliably.    ",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/_CVHKLlrMvM/default.jpg",
@@ -6772,7 +6772,7 @@
    "snippet": {
     "publishedAt": "2016-12-09T13:02:49.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-    "title": "Mongodb with JavaScript apps",
+    "title": "If you’re just getting started with Node.js and want to try your hand at building a web app, things can often get a little overwhelming. Once you get beyond the “Hello, World!” tutorials, much of the material out there has you copy-pasting code, with little or no explanation as to what you’re doing or why. This means that, by the time you’ve finished, you’ve built something nice and shiny, but you also have relatively few takeaways that you can apply to your next project. In this tutorial, I’m going to take a slightly different approach. Starting from the ground up, I’ll demonstrate how to build a no-frills web app using Node.js, but instead of focusing on the end result, I’ll focus on a range of things you’re likely to encounter when building a real-world app. These include routing, templating, dealing with forms, interacting with a database and even basic authentication.",
     "description": "",
     "thumbnails": {
      "default": {
@@ -6821,7 +6821,7 @@
    "snippet": {
     "publishedAt": "2016-12-09T12:53:15.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-    "title": "JavaScript  Hidden parts",
+    "title": "JavaScript Hidden parts",
     "description": "",
     "thumbnails": {
      "default": {
@@ -6920,7 +6920,7 @@
     "publishedAt": "2016-12-09T05:31:26.000Z",
     "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
     "title": "Responsive Web using Bootstrap",
-    "description": "",
+    "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/1zJRYNiQYHA/default.jpg",
