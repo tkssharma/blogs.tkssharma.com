@@ -876,55 +876,6 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/4J--LUt8kMlXXsoJXw1GxbrVJ2U\"",
-      "id": "PLIGDNOJWiL1_ih6ThFDEVBchiAXuoXgFx",
-      "snippet": {
-        "publishedAt": "2018-07-09T04:32:57.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 5 Webinar Series",
-        "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/M9Dl83c7ozY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/M9Dl83c7ozY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/M9Dl83c7ozY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/M9Dl83c7ozY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/M9Dl83c7ozY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular 5 Webinar Series",
-          "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/pQVTuyy9I4xXkgdl2eElzX1t_lE\"",
       "id": "PLIGDNOJWiL1-yXldxEX7eKuhgg-gLy0J-",
       "snippet": {
