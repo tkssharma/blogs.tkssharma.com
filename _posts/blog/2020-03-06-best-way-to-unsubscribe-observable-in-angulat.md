@@ -5,7 +5,7 @@ Title: Best way to unsubscribe Observable in Angular
 summary: Best way to unsubscribe Observable in Angular
 heroimage: "https://res.cloudinary.com/indepth-dev/image/fetch/w_1000,f_auto/https://admin.indepth.dev/content/images/2020/04/1_CKxgGcXWq_4Whp8cH3eWbQ.png"
 tags :
-- angularjs
+- angular
 - javascript
 ---
 
