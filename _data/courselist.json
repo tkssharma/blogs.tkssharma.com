@@ -1,4 +1,47 @@
-[
+[   
+  {
+    "kind": "youtube#playlist",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LfrmLSsAAZtonaVsY6okyTvaEQU\"",
+    "id": "PLIGDNOJWiL1_ih6ThFDEVBchiAXuoXgFx",
+    "snippet": {
+      "publishedAt": "2020-05-09T04:50:04.000Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular  Webinar Series | Weekend webcasts",
+      "description": "Angular  brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
+        "description": ""
+      }
+    }
+    },
     {
       "kind": "youtube#playlist",
       "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LfrmLSsAAZtonaVsY6okyTvaEQU\"",
