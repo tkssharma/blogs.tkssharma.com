@@ -347,31 +347,31 @@
       "snippet": {
         "publishedAt": "2019-03-24T07:01:13.000Z",
         "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Web development Course - 30 Days",
+        "title": "Web development Bootcamp | HTML5 | Web Design",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RQ2Ae0q5pSs/default.jpg",
+            "url": "https://i.ytimg.com/vi/uWPkwkvz770/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RQ2Ae0q5pSs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uWPkwkvz770/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RQ2Ae0q5pSs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uWPkwkvz770/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RQ2Ae0q5pSs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uWPkwkvz770/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RQ2Ae0q5pSs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uWPkwkvz770/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
