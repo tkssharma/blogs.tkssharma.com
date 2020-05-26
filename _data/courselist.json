@@ -1,10 +1,951 @@
 [   
   {
     "kind": "youtube#playlist",
-    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LfrmLSsAAZtonaVsY6okyTvaEQU\"",
+    "etag": "PoZ__F_LdjLL4v9cMUjLPk2Jj3c",
+    "id": "PLIGDNOJWiL1-eFfnY4bAyCI8bsIOHmNtE",
+    "snippet": {
+      "publishedAt": "2020-05-26T17:29:35Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS with Typescript & TypeORM",
+      "description": "TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8). Its goal is to always support the latest JavaScript features and provide additional features that help you to develop any kind of application that uses databases - from small applications with a few tables to large scale enterprise applications with multiple databases.\n\nTypeORM supports both Active Record and Data Mapper patterns, unlike all other JavaScript ORMs currently in existence, which means you can write high quality, loosely coupled, scalable, maintainable applications the most productive way.\n\nTypeORM is highly influenced by other ORMs, such as Hibernate, Doctrine and Entity Framework.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UxiTsvUuYFA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UxiTsvUuYFA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UxiTsvUuYFA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UxiTsvUuYFA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UxiTsvUuYFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Node JS with Typescript & TypeORM",
+        "description": "TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8). Its goal is to always support the latest JavaScript features and provide additional features that help you to develop any kind of application that uses databases - from small applications with a few tables to large scale enterprise applications with multiple databases.\n\nTypeORM supports both Active Record and Data Mapper patterns, unlike all other JavaScript ORMs currently in existence, which means you can write high quality, loosely coupled, scalable, maintainable applications the most productive way.\n\nTypeORM is highly influenced by other ORMs, such as Hibernate, Doctrine and Entity Framework."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "GCrUXrX9CgOssy6gBS_t-GP0mgM",
+    "id": "PLIGDNOJWiL1_AhUGgmwz7RhyXwX5aVLj4",
+    "snippet": {
+      "publishedAt": "2020-05-26T07:12:33Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "NestJS Tutorial for Beginners (Crash Course)",
+      "description": "NestJS is a server-side (backend) application framework beautifully crafted to support developers productivity and make their lives happier. Well, it's not only a framework, it's an enabler of entering the world of advanced engineering concepts such as Domain Driven Design, Event Sourcing, Microservices architecture",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8d75-sTi4UI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8d75-sTi4UI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8d75-sTi4UI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8d75-sTi4UI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8d75-sTi4UI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "NestJS Tutorial for Beginners (Crash Course)",
+        "description": "NestJS is a server-side (backend) application framework beautifully crafted to support developers productivity and make their lives happier. Well, it's not only a framework, it's an enabler of entering the world of advanced engineering concepts such as Domain Driven Design, Event Sourcing, Microservices architecture"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "gW5InEy6035Iafqe3VAAXh6SFWA",
+    "id": "PLIGDNOJWiL19Nylkg_DJtKpBB-t6tVuRg",
+    "snippet": {
+      "publishedAt": "2020-05-26T05:37:26Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Graphql Client & Server using Apollo",
+      "description": "Why GraphQL?\nGraphQL and Apollo help you ship features faster\nManaging data in modern applications is challenging. Most applications require:\n\nDistinct front-end clients for multiple platforms (web, iOS, etc.), each with different data requirements\nA backend that serves data to clients from multiple sources (Postgres, Redis, etc.)\nComplex state and cache management for both the frontend and the backend\nBy adopting GraphQL and Apollo, you can reduce these challenges considerably. GraphQL's declarative model helps you create a consistent, predictable API you can use across all of your clients. As you add, remove, and migrate back-end data stores, that API doesn't change from the client's perspective.\n\nEven with many other advantages, GraphQL's single greatest benefit is the developer experience it provides. It's straightforward to add new types and fields to your API, and similarly straightforward for your clients to begin using those fields. This helps you design, develop, and deploy features quickly.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d8g2ESwn3XA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d8g2ESwn3XA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d8g2ESwn3XA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d8g2ESwn3XA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d8g2ESwn3XA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Graphql Client & Server using Apollo",
+        "description": "Why GraphQL?\nGraphQL and Apollo help you ship features faster\nManaging data in modern applications is challenging. Most applications require:\n\nDistinct front-end clients for multiple platforms (web, iOS, etc.), each with different data requirements\nA backend that serves data to clients from multiple sources (Postgres, Redis, etc.)\nComplex state and cache management for both the frontend and the backend\nBy adopting GraphQL and Apollo, you can reduce these challenges considerably. GraphQL's declarative model helps you create a consistent, predictable API you can use across all of your clients. As you add, remove, and migrate back-end data stores, that API doesn't change from the client's perspective.\n\nEven with many other advantages, GraphQL's single greatest benefit is the developer experience it provides. It's straightforward to add new types and fields to your API, and similarly straightforward for your clients to begin using those fields. This helps you design, develop, and deploy features quickly."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "5AJyP5SCPvI364Xvv2I3BtyZqL8",
+    "id": "PLIGDNOJWiL18nmstvsa12vXoKE3YcwGpg",
+    "snippet": {
+      "publishedAt": "2020-05-09T04:50:04Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
+      "description": "Web Development Webinars | Webcasts | UI/UX | Styling",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
+        "description": "Web Development Webinars | Webcasts | UI/UX | Styling"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "UEeby3rLIz86A3kRl3W2lSagwt0",
+    "id": "PLIGDNOJWiL1_NGrjLWqXNupsRnsdsAo-9",
+    "snippet": {
+      "publishedAt": "2020-05-09T04:47:10Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Application Architecture and Micro-services | Webinar | Webcasts",
+      "description": "Application architecture is a map of how an organization's software applications are assembled as part of its overarching enterprise architecture and how those applications interact with each other to meet business or user requirements.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oaz4blE_WQU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oaz4blE_WQU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oaz4blE_WQU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oaz4blE_WQU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oaz4blE_WQU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Application Architecture and Micro-services | Webinar | Webcasts",
+        "description": "Application architecture is a map of how an organization's software applications are assembled as part of its overarching enterprise architecture and how those applications interact with each other to meet business or user requirements."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "QF_j0pCc1_6n4-G1-scp4YV0aXQ",
+    "id": "PLIGDNOJWiL193FJoXjtDQHH3Gejl-imVI",
+    "snippet": {
+      "publishedAt": "2020-05-09T04:40:40Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Javascript Webinars | Weekend Webcasts | Javascript World",
+      "description": "I do have a session every weekend on Javascript, I will keep adding More VideoS here",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Javascript Webinars | Weekend Webcasts | Javascript World",
+        "description": "I do have a session every weekend on Javascript, I will keep adding More VideoS here"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "wdsABWU2HkSyxJJvYZA4cAp2LCw",
+    "id": "PLIGDNOJWiL18y43xxYj3y2Hx7v4Yo5aCo",
+    "snippet": {
+      "publishedAt": "2020-05-09T04:38:42Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "React JS Weekend Webinars | Webcasts",
+      "description": "I will be adding More webinars on React JS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "React JS Weekend Webinars | Webcasts",
+        "description": "I will be adding More webinars on React JS"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "nP7TGjnJ9LCwkf_8QwI6jfLu4Yw",
+    "id": "PLIGDNOJWiL18KaYJnBXDCqf8C2tW-nURD",
+    "snippet": {
+      "publishedAt": "2020-05-09T04:36:18Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS Webinars | Webcasts",
+      "description": "I will be adding all different webinars on Node JS and  API Development",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g3qX9eQSog4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g3qX9eQSog4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g3qX9eQSog4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g3qX9eQSog4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g3qX9eQSog4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Node JS Webinars | Webcasts",
+        "description": "I will be adding all different webinars on Node JS and  API Development"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "vtNTXBO4m1R9cDI5bmMk7i_y3xI",
+    "id": "PLIGDNOJWiL1-gNIfWht3OJxD0Iw2WgbMZ",
+    "snippet": {
+      "publishedAt": "2020-02-20T02:48:38Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "React Advance | Hooks | Context APIs",
+      "description": "Hooks are functions that let you “hook into” React state and lifecycle features from function components. Hooks don't work inside classes — they let you use React without classes. (We don't recommend rewriting your existing components overnight but you can start using Hooks in the new ones if you'd like.)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "React Advance | Hooks | Context APIs",
+        "description": "Hooks are functions that let you “hook into” React state and lifecycle features from function components. Hooks don't work inside classes — they let you use React without classes. (We don't recommend rewriting your existing components overnight but you can start using Hooks in the new ones if you'd like.)"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "5Gi46bSwDFvRLUBALmNhFIpiGdc",
+    "id": "PLIGDNOJWiL197a76oG1PE-5z8MYJwzHLg",
+    "snippet": {
+      "publishedAt": "2019-05-05T06:29:23Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Javascript Hacks with ES6-ES7",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AvJskB54Q20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AvJskB54Q20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AvJskB54Q20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AvJskB54Q20/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AvJskB54Q20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Javascript Hacks with ES6-ES7",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Lq4OQiibgbdMIokVwCqSn8AWN-k",
+    "id": "PLIGDNOJWiL19pUs7mEs4F90zzjQQftLtP",
+    "snippet": {
+      "publishedAt": "2019-04-29T08:25:04Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Crack Javascript Interview in 10 Min",
+      "description": "Crack Javascript Interview in 10 Min",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Crack Javascript Interview in 10 Min",
+        "description": "Crack Javascript Interview in 10 Min"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "WBRwDvmF-vvtxVgHjHj_e9zjGdA",
+    "id": "PLIGDNOJWiL1-eexM6Af88VCAQStHZ-rhp",
+    "snippet": {
+      "publishedAt": "2019-03-24T07:01:13Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn html5 Full Crash Course | HTML5 | Web Design",
+      "description": "HTML5 is the latest version of Hypertext Markup Language, the code that describes web pages. It's actually three kinds of code: HTML, which provides the structure; Cascading Style Sheets (CSS), which take care of presentation; and JavaScript, which makes things happen\n\nThis Bootcamp we are covering all about HTML5",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uWPkwkvz770/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uWPkwkvz770/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uWPkwkvz770/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uWPkwkvz770/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uWPkwkvz770/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Learn html5 Full Crash Course | HTML5 | Web Design",
+        "description": "HTML5 is the latest version of Hypertext Markup Language, the code that describes web pages. It's actually three kinds of code: HTML, which provides the structure; Cascading Style Sheets (CSS), which take care of presentation; and JavaScript, which makes things happen\n\nThis Bootcamp we are covering all about HTML5"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "cJhU3Bm_5N7SiF9r8aDB_BMBlQw",
+    "id": "PLIGDNOJWiL19yoowEtDCOrENRBHH3qLty",
+    "snippet": {
+      "publishedAt": "2018-11-04T06:22:04Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn Typescript in Depth",
+      "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Learn Typescript in Depth",
+        "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer)."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "CvEye-9ifVnmyF1Brwqv5y1liFU",
+    "id": "PLIGDNOJWiL19ybjwD69t3G2yrQ9a0Pbij",
+    "snippet": {
+      "publishedAt": "2018-10-30T09:50:00Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Design Pattern in Javascript",
+      "description": "In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jW7SEl17odc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jW7SEl17odc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jW7SEl17odc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jW7SEl17odc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jW7SEl17odc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Design Pattern in Javascript",
+        "description": "In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "kysXShDgeZ9E594mD1qz_Mc9JaM",
+    "id": "PLIGDNOJWiL1_sgonvGpUwv93MOz0dmcnY",
+    "snippet": {
+      "publishedAt": "2018-10-16T13:33:58Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular 5 Interview Questions",
+      "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Angular 5 Interview Questions",
+        "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "As0HUJp1i5IrpiYeJuPbhdRoldI",
+    "id": "PLIGDNOJWiL1_yLcirFqgAxlNFL3tsdxrM",
+    "snippet": {
+      "publishedAt": "2018-10-07T02:08:56Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Top-50 Node JS Interview Questions - Crack Interview",
+      "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Top-50 Node JS Interview Questions - Crack Interview",
+        "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "wnPiwvgyTkHZhdLLq3idjOEettM",
+    "id": "PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-",
+    "snippet": {
+      "publishedAt": "2018-10-06T17:57:50Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn Docker for Development - Beginner Course",
+      "description": "Building and deploying new applications is faster with containers. Docker containers wrap up software and its dependencies into a standardized unit for software development that includes everything it needs to run: code, runtime, system tools and libraries. This guarantees that your application will always run the same and makes collaboration as simple as sharing a container image.\n\nDocker containers whether Windows or Linux are backed by Docker tools and APIs and help you build better software:",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Learn Docker for Development - Beginner Course",
+        "description": "Building and deploying new applications is faster with containers. Docker containers wrap up software and its dependencies into a standardized unit for software development that includes everything it needs to run: code, runtime, system tools and libraries. This guarantees that your application will always run the same and makes collaboration as simple as sharing a container image.\n\nDocker containers whether Windows or Linux are backed by Docker tools and APIs and help you build better software:"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "GO-cLsznbwQ3UjdErziTEEN6LuA",
+    "id": "PLIGDNOJWiL19-aWzk7C2cNl0c32_Gqd5L",
+    "snippet": {
+      "publishedAt": "2018-10-05T03:08:05Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn Typescript",
+      "description": "What is JavaScript? A Brief History\nJavaScript started as a simple scripting language available in browsers. When the language was first invented, writing more than a few dozen lines of JavaScript (JS) in a webpage would have been somewhat unusual. Over time, though, JS became more common and web developers used more and more JS in their webpages to create interactive experiences. Early web browsers executed JS very slowly and this sometimes led to laggy, unresponsive pages.\n\nWeb browser developers saw the increased use of JS and started to optimize their browsers to run JS more quickly. Web developers responded by using JS even more to increase the interactivity of their pages. On modern websites, you might be running tens or even hundreds of thousands of lines of JS code. The web, which started as a simple network of static pages, has evolved into a platform for rich applications of all kinds.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Learn Typescript",
+        "description": "What is JavaScript? A Brief History\nJavaScript started as a simple scripting language available in browsers. When the language was first invented, writing more than a few dozen lines of JavaScript (JS) in a webpage would have been somewhat unusual. Over time, though, JS became more common and web developers used more and more JS in their webpages to create interactive experiences. Early web browsers executed JS very slowly and this sometimes led to laggy, unresponsive pages.\n\nWeb browser developers saw the increased use of JS and started to optimize their browsers to run JS more quickly. Web developers responded by using JS even more to increase the interactivity of their pages. On modern websites, you might be running tens or even hundreds of thousands of lines of JS code. The web, which started as a simple network of static pages, has evolved into a platform for rich applications of all kinds."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "SKQuZBs5n4vjcJ60tt9JGYnsGxo",
+    "id": "PLIGDNOJWiL1-42-wM9jfgN364lzxwFFI2",
+    "snippet": {
+      "publishedAt": "2018-09-02T11:57:37Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn Javascript Crash Course | All About Javascript",
+      "description": "JavaScript Development Suite is a comprehensive training program that equips candidates with an exhaustive grounding of Ajax development fundamentals, JavaScript fundamentals, advanced JavaScript and fundamentals.\n\nJavaScript is dynamic programming language, which is multi-paradigm and supports object-oriented, functional and imperative programming styles. It is basically a client-side scripting language that is used in creating interactive effects among the web browsers.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Learn Javascript Crash Course | All About Javascript",
+        "description": "JavaScript Development Suite is a comprehensive training program that equips candidates with an exhaustive grounding of Ajax development fundamentals, JavaScript fundamentals, advanced JavaScript and fundamentals.\n\nJavaScript is dynamic programming language, which is multi-paradigm and supports object-oriented, functional and imperative programming styles. It is basically a client-side scripting language that is used in creating interactive effects among the web browsers."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "WPEd2q6pkMOKV8SdZOhAClGqxTY",
+    "id": "PLIGDNOJWiL1-emaCcKTmh9-D7xWS7i7tz",
+    "snippet": {
+      "publishedAt": "2018-08-07T14:07:05Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "React JS interview Questions",
+      "description": "Top 100 React Interview Questions & Answers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "React JS interview Questions",
+        "description": "Top 100 React Interview Questions & Answers"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "RkwPEVdhZrF90zkkVKQ5hHoJDWI",
+    "id": "PLIGDNOJWiL18m9eEwA6K5GqFx6C6-eht8",
+    "snippet": {
+      "publishedAt": "2018-08-06T02:59:18Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "JS Interview Questions",
+      "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "JS Interview Questions",
+        "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer)."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "cFQNzg1Mzaw-Bfrc55zWQQz21Tc",
+    "id": "PLIGDNOJWiL19EaWIeLExtZG0FK6VGjk3U",
+    "snippet": {
+      "publishedAt": "2018-07-17T09:18:56Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "React JS in 30 Hours",
+      "description": "React is a library for building composite user interfaces. It encourages the creation of reusable UI components which present data those changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding. Development. Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Redux is majorly used with React.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "React JS in 30 Hours",
+        "description": "React is a library for building composite user interfaces. It encourages the creation of reusable UI components which present data those changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding. Development. Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Redux is majorly used with React."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "mWFryaStMByuU9nf_bIezHZkvTE",
     "id": "PLIGDNOJWiL1_ih6ThFDEVBchiAXuoXgFx",
     "snippet": {
-      "publishedAt": "2020-05-09T04:50:04.000Z",
+      "publishedAt": "2018-07-09T04:32:57Z",
       "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
       "title": "Angular  Webinar Series | Weekend webcasts",
       "description": "Angular  brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
@@ -37,2125 +978,1131 @@
       },
       "channelTitle": "tkssharma Code Labs",
       "localized": {
-        "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
+        "title": "Angular  Webinar Series | Weekend webcasts",
+        "description": "Angular  brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "3oNHUKeFpJv-7Oitn03QhGtPMlU",
+    "id": "PLIGDNOJWiL1-yXldxEX7eKuhgg-gLy0J-",
+    "snippet": {
+      "publishedAt": "2018-07-08T09:59:17Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS Webinar Series",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
+        "title": "Node JS Webinar Series",
         "description": ""
       }
     }
   },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LfrmLSsAAZtonaVsY6okyTvaEQU\"",
-      "id": "PLIGDNOJWiL18nmstvsa12vXoKE3YcwGpg",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:50:04.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
-        "description": "I do have a session every weekend on Web development and New technologies in Web , I will keep adding More Videos here",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MNG9VJiWYQU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MNG9VJiWYQU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MNG9VJiWYQU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MNG9VJiWYQU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MNG9VJiWYQU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+  {
+    "kind": "youtube#playlist",
+    "etag": "n7g8S6GmmWfRJKGTw05REEshWc4",
+    "id": "PLIGDNOJWiL1_u4QyI0WAqiTUzt8HgpdRT",
+    "snippet": {
+      "publishedAt": "2018-06-04T02:47:39Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "webpack 4 with Angular 6",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "tkssharma Code Labs",
-        "localized": {
-          "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OJoQ6q1-3aMvBoShiebJN9Kpkuk\"",
-      "id": "PLIGDNOJWiL1_NGrjLWqXNupsRnsdsAo-9",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:47:10.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Application Architecture and Micro-services | Webinar | Webcasts",
-        "description": "Application Architecture and Micro-services | Webinar | Webcasts, I will cover different topics on Micro service Architecture",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V2i7eettCYo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V2i7eettCYo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V2i7eettCYo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/V2i7eettCYo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/V2i7eettCYo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
         },
-        "channelTitle": "tkssharma Code Labs",
-        "localized": {
-          "title": "Application Architecture and Micro-services | Webinar | Webcasts",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nhEEay7cOnKYyclYb7jRNToibjI\"",
-      "id": "PLIGDNOJWiL193FJoXjtDQHH3Gejl-imVI",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:40:40.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Javascript Webinars | Weekend Webcasts | Javascript World",
-        "description": "I do have a session every weekend on Javascript, I will keep adding More Videos here",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/M6InbSMLIdw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/M6InbSMLIdw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/M6InbSMLIdw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
+        "high": {
+          "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
         },
-        "channelTitle": "tkssharma Code Labs",
-        "localized": {
-          "title": "Javascript Webinars | Weekend Webcasts | Javascript World",
-          "description": "I do have a session every weekend on Javascript, I will keep adding More VideoS here"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/1v9dFOwEsb8XiWubglYGUHQauiw\"",
-      "id": "PLIGDNOJWiL18y43xxYj3y2Hx7v4Yo5aCo",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:38:42.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React JS Weekend Webinars | Webcasts",
-        "description": "I will be adding More webinars on React JS and new things coming in React JS world",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7iTfcF1kNxc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7iTfcF1kNxc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7iTfcF1kNxc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7iTfcF1kNxc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/sddefault.jpg",
+          "width": 640,
+          "height": 480
         },
-        "channelTitle": "tkssharma Code Labs",
-        "localized": {
-          "title": "React JS Weekend Webinars | Webcasts",
-          "description": "I will be adding More webinars on React JS"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zkCCFHB_LX6PRbY5z6-O31awJSI\"",
-      "id": "PLIGDNOJWiL18KaYJnBXDCqf8C2tW-nURD",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:36:18.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Webinars | Webcasts",
-        "description": "I will be adding all different webinars on Node JS and  API Development using different platform and frameworks",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "tkssharma Code Labs",
-        "localized": {
-          "title": "Node JS Webinars | Webcasts",
-          "description": "I will be adding all different webinars on Node JS and  API Development"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Dwkfz_rBcZrX2EjusYCsovSQvVc\"",
-      "id": "PLIGDNOJWiL197a76oG1PE-5z8MYJwzHLg",
-      "snippet": {
-        "publishedAt": "2019-05-05T06:29:23.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Javascript Hacks with ES6-ES7",
-        "description": "If you have spent anytime coding in JavaScript, you have heard about ES6, ECMAScript, or ES2015. Maybe it was an obnoxious co-worker trying to put you down, another course course keeps mentioning it, or you saw it on a Stack Overflow answer. If you're not familiar with it, or are still wondering what the difference is between ECMAScript and Javascript, it's the update that occurred in 2015 and subsequent years. Considering the history of JavaScript (which started in 1995), there was no update between 2000 and 2008, then again after that from 2008 until 2015, ECMAScript 2015 it is a BIG deal. It modernizes JavaScript. Smaller, but still important changes were released in ES7 (2016) and ES8 (2017).",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Javascript Hacks with ES6-ES7",
-          "description": ""
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 22
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/wPWTTTGdkajupjITIt_MChEjywo\"",
-      "id": "PLIGDNOJWiL19pUs7mEs4F90zzjQQftLtP",
-      "snippet": {
-        "publishedAt": "2019-04-29T08:25:04.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Crack Javascript Interview in 10 Min",
-        "description": "The JavaScript(JS) interviews are not easy. I accept it, you accept it and, everyone does. The number of possibilities of questions could be asked in a JavaScript interview are high. How one will be able to crack a JS interview? Where to start? This article is an effort to instruct all aspiring JavaScript developers to deepen their JS knowledge by knowing the fundamental concepts. These are baby steps to be taken at least to face a JS interview. If I am a candidate, I prepare for these concepts well. If I am an interviewer, I presume you know these vital things to proceed further.     ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ga8rmlzgiVQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Crack Javascript Interview in 10 Min",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 11
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Xk5UHsq3b_hG_5dJSaMNCfiZwC8\"",
-      "id": "PLIGDNOJWiL1-eexM6Af88VCAQStHZ-rhp",
-      "snippet": {
-        "publishedAt": "2019-03-24T07:01:13.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Web development Bootcamp | HTML5 | Web Design",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uWPkwkvz770/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uWPkwkvz770/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uWPkwkvz770/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uWPkwkvz770/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uWPkwkvz770/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Web development Course - 30 Days",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 4
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7l-Pv8jR-wA6ULr1EMBFkwwNeSU\"",
-      "id": "PLIGDNOJWiL19yoowEtDCOrENRBHH3qLty",
-      "snippet": {
-        "publishedAt": "2018-11-04T06:22:04.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Learn Typescript in Depth",
-        "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer).",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4H7rKh8v0Ig/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Learn Typescript in Depth",
-          "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer)."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 35
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aNdGqlPBOClibmt8e9F28eCJLOk\"",
-      "id": "PLIGDNOJWiL19ybjwD69t3G2yrQ9a0Pbij",
-      "snippet": {
-        "publishedAt": "2018-10-30T09:50:00.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Design Pattern in Javascript",
-        "description": "In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jW7SEl17odc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jW7SEl17odc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jW7SEl17odc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jW7SEl17odc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jW7SEl17odc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Design Pattern in Javascript",
-          "description": "In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 14
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rvWhBMgvQ2-qv3lQTRyEiJC7ZrM\"",
-      "id": "PLIGDNOJWiL1_sgonvGpUwv93MOz0dmcnY",
-      "snippet": {
-        "publishedAt": "2018-10-16T13:33:58.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 5 Interview Questions",
-        "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular 5 Interview Questions",
-          "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/S79jR2m__dUEQWtP00bzDjLKjlo\"",
-      "id": "PLIGDNOJWiL1_yLcirFqgAxlNFL3tsdxrM",
-      "snippet": {
-        "publishedAt": "2018-10-07T02:08:56.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Top-50 Node JS Interview Questions - Crack Interview",
-        "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3hvKjGgVgg4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Top-50 Node JS Interview Questions - Crack Interview",
-          "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 9
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/14Ak6AO42qGmJf13IO1yOkfKaHk\"",
-      "id": "PLIGDNOJWiL1_3cIiT9Z5qxlA7PXEtlUa-",
-      "snippet": {
-        "publishedAt": "2018-10-06T17:57:50.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Learn Docker for Development - Beginner Course",
-        "description": "Building and deploying new applications is faster with containers. Docker containers wrap up software and its dependencies into a standardized unit for software development that includes everything it needs to run: code, runtime, system tools and libraries. This guarantees that your application will always run the same and makes collaboration as simple as sharing a container image.\n\nDocker containers whether Windows or Linux are backed by Docker tools and APIs and help you build better software:",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/d0uU5I9Z3Vc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Learn Docker for Development - Beginner Course",
-          "description": "Building and deploying new applications is faster with containers. Docker containers wrap up software and its dependencies into a standardized unit for software development that includes everything it needs to run: code, runtime, system tools and libraries. This guarantees that your application will always run the same and makes collaboration as simple as sharing a container image.\n\nDocker containers whether Windows or Linux are backed by Docker tools and APIs and help you build better software:"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 18
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tVZt5BkwHYhUdcgdpAIHGNZURtQ\"",
-      "id": "PLIGDNOJWiL19-aWzk7C2cNl0c32_Gqd5L",
-      "snippet": {
-        "publishedAt": "2018-10-05T03:08:05.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Learn Typescript",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gVkMFLotVHQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Learn Typescript",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 8
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/GHO0Se4qbGbM6Zds53D3XfS0R9M\"",
-      "id": "PLIGDNOJWiL1-42-wM9jfgN364lzxwFFI2",
-      "snippet": {
-        "publishedAt": "2018-09-02T11:57:37.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Javascript Training : All in One",
-        "description": "JavaScript Development Suite is a comprehensive training program that equips candidates with an exhaustive grounding of Ajax development fundamentals, JavaScript fundamentals, advanced JavaScript and fundamentals.\n\nJavaScript is dynamic programming language, which is multi-paradigm and supports object-oriented, functional and imperative programming styles. It is basically a client-side scripting language that is used in creating interactive effects among the web browsers.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9KdbzcIbC_Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Javascript Training : All in One",
-          "description": "JavaScript Development Suite is a comprehensive training program that equips candidates with an exhaustive grounding of Ajax development fundamentals, JavaScript fundamentals, advanced JavaScript and fundamentals.\n\nJavaScript is dynamic programming language, which is multi-paradigm and supports object-oriented, functional and imperative programming styles. It is basically a client-side scripting language that is used in creating interactive effects among the web browsers."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 101
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jqbm3fVcgbk18wz5UdhwhHY7cj4\"",
-      "id": "PLIGDNOJWiL1-emaCcKTmh9-D7xWS7i7tz",
-      "snippet": {
-        "publishedAt": "2018-08-07T14:07:05.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React JS interview Questions",
-        "description": "Top 100 React Interview Questions & Answers",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qakSpVD2Bnk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "React JS interview Questions",
-          "description": "Top 100 React Interview Questions & Answers"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 11
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/siLZFtNJuSs0V-0ZTjDmMqFbRao\"",
-      "id": "PLIGDNOJWiL18m9eEwA6K5GqFx6C6-eht8",
-      "snippet": {
-        "publishedAt": "2018-08-06T02:59:18.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "JS Interview Questions",
-        "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer).",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3E-TVJMHZ1Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "JS Interview Questions",
-          "description": "TypeScript starts from the same syntax and semantics that millions of JavaScript developers know today. Use existing JavaScript code, incorporate popular JavaScript libraries, and call TypeScript code from JavaScript.\n\nTypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer)."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 12
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/sPQtMwLourqcRbX48dtJf_BZem0\"",
-      "id": "PLIGDNOJWiL19EaWIeLExtZG0FK6VGjk3U",
-      "snippet": {
-        "publishedAt": "2018-07-17T09:18:56.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React JS in 30 Hours",
-        "description": "React is a library for building composite user interfaces. It encourages the creation of reusable UI components which present data those changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding. Development. Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Redux is majorly used with React.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "React JS in 30 Hours",
-          "description": "React is a library for building composite user interfaces. It encourages the creation of reusable UI components which present data those changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding. Development. Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Redux is majorly used with React."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 23
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/pQVTuyy9I4xXkgdl2eElzX1t_lE\"",
-      "id": "PLIGDNOJWiL1-yXldxEX7eKuhgg-gLy0J-",
-      "snippet": {
-        "publishedAt": "2018-07-08T09:59:17.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Webinar Series",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS Webinar Series",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 9
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/i-n-4wFMvXDM9J7yYTRywEcpyEQ\"",
-      "id": "PLIGDNOJWiL1_u4QyI0WAqiTUzt8HgpdRT",
-      "snippet": {
-        "publishedAt": "2018-06-04T02:47:39.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "webpack 4 with Angular 6",
-        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "QZwq_i5EaUmjOd6Vn_96RovxHGY",
+    "id": "PLIGDNOJWiL1_Sqmx9Oxr6PLyUHi5cg4S0",
+    "snippet": {
+      "publishedAt": "2018-05-14T08:37:48Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS Advance Training",
+      "description": "Hello, and welcome to Advanced Node.js, part of the Node.js Learning Path here at Pluralsight. My name is Samer Buna, and I’m looking forward to helping you understand how the Node runtime work and learn about all the powerful built-in features that you can use in every Node process. Along the way, you’re going to be learning about things like modules management, V8, concurrency and event loop, streams, child processes, and clusters. You’ll also be using npm and Node's event-driven modules for networking and HTTP web servers. You’ll want to make sure you’re already up to speed on modern JavaScript and the basics of Node.js. So if you’re ready to get started, Advanced Node.js is waiting for you.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "webpack 4 with Angular 6",
-          "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 19
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/hcVTe7Kz8Ze8AQYatvZS5VmHejg\"",
-      "id": "PLIGDNOJWiL1_Sqmx9Oxr6PLyUHi5cg4S0",
-      "snippet": {
-        "publishedAt": "2018-05-14T08:37:48.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Node JS Advance Training",
-        "description": "Hello, and welcome to Advanced Node.js, part of the Node.js Learning Path here at Pluralsight. My name is Samer Buna, and I’m looking forward to helping you understand how the Node runtime work and learn about all the powerful built-in features that you can use in every Node process. Along the way, you’re going to be learning about things like modules management, V8, concurrency and event loop, streams, child processes, and clusters. You’ll also be using npm and Node's event-driven modules for networking and HTTP web servers. You’ll want to make sure you’re already up to speed on modern JavaScript and the basics of Node.js. So if you’re ready to get started, Advanced Node.js is waiting for you.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "Hello, and welcome to Advanced Node.js, part of the Node.js Learning Path here at Pluralsight. My name is Samer Buna, and I’m looking forward to helping you understand how the Node runtime work and learn about all the powerful built-in features that you can use in every Node process. Along the way, you’re going to be learning about things like modules management, V8, concurrency and event loop, streams, child processes, and clusters. You’ll also be using npm and Node's event-driven modules for networking and HTTP web servers. You’ll want to make sure you’re already up to speed on modern JavaScript and the basics of Node.js. So if you’re ready to get started, Advanced Node.js is waiting for you."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "wY3jJv7T4bqQatGYDEaQ_rfVaHw",
+    "id": "PLIGDNOJWiL1_16CP3lI0YfErRmRIVGktG",
+    "snippet": {
+      "publishedAt": "2018-05-11T03:50:20Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "ELK Stack-Elastic Search Kibana & Logstash",
+      "description": "So, what is the ELK Stack? \"ELK\" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a \"stash\" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aUT1i21pZD4/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS Advance Training",
-          "description": "Hello, and welcome to Advanced Node.js, part of the Node.js Learning Path here at Pluralsight. My name is Samer Buna, and I’m looking forward to helping you understand how the Node runtime work and learn about all the powerful built-in features that you can use in every Node process. Along the way, you’re going to be learning about things like modules management, V8, concurrency and event loop, streams, child processes, and clusters. You’ll also be using npm and Node's event-driven modules for networking and HTTP web servers. You’ll want to make sure you’re already up to speed on modern JavaScript and the basics of Node.js. So if you’re ready to get started, Advanced Node.js is waiting for you."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aUT1i21pZD4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aUT1i21pZD4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aUT1i21pZD4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aUT1i21pZD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/wltKDf3HrWMfhapOWn6wVRTtjAg\"",
-      "id": "PLIGDNOJWiL1_16CP3lI0YfErRmRIVGktG",
-      "snippet": {
-        "publishedAt": "2018-05-11T03:50:20.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "ELK Stack-Elastic Search Kibana & Logstash",
-        "description": "So, what is the ELK Stack? \"ELK\" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a \"stash\" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "So, what is the ELK Stack? \"ELK\" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a \"stash\" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "AYRklLIrFIZcNbOQAV1kpkoFRoo",
+    "id": "PLIGDNOJWiL1-OJp8ZWBO2838ENa0tsy6H",
+    "snippet": {
+      "publishedAt": "2018-03-04T14:59:47Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS with Sequelize ORM",
+      "description": "At the core of developing any website or application is database management. In this course, Introduction to Sequelize ORM for Node.js, you will learn the skills needed to create high-quality Node.js apps that use SQL as their database. First, you will learn how to include Sequelize into a Node.js project configured with SQLite. Next, you will explore how to customize models, perform CRUD operations, and form associations. Finally, you will put it all together to build a full-stack JavaScript application using Angular on the frontend. When you're finished with this course, you will have a foundational understanding of how to use Sequelize in Node.js to create high-performing applications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "ELK Stack-Elastic Search Kibana & Logstash",
-          "description": "So, what is the ELK Stack? \"ELK\" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a \"stash\" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/j6H-f9NVF1hCbtagFTcK_Iv8PRI\"",
-      "id": "PLIGDNOJWiL1-OJp8ZWBO2838ENa0tsy6H",
-      "snippet": {
-        "publishedAt": "2018-03-04T14:59:47.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Node JS with Sequelize ORM",
-        "description": "At the core of developing any website or application is database management. In this course, Introduction to Sequelize ORM for Node.js, you will learn the skills needed to create high-quality Node.js apps that use SQL as their database. First, you will learn how to include Sequelize into a Node.js project configured with SQLite. Next, you will explore how to customize models, perform CRUD operations, and form associations. Finally, you will put it all together to build a full-stack JavaScript application using Angular on the frontend. When you're finished with this course, you will have a foundational understanding of how to use Sequelize in Node.js to create high-performing applications.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WFX3jsNp4Tg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "At the core of developing any website or application is database management. In this course, Introduction to Sequelize ORM for Node.js, you will learn the skills needed to create high-quality Node.js apps that use SQL as their database. First, you will learn how to include Sequelize into a Node.js project configured with SQLite. Next, you will explore how to customize models, perform CRUD operations, and form associations. Finally, you will put it all together to build a full-stack JavaScript application using Angular on the frontend. When you're finished with this course, you will have a foundational understanding of how to use Sequelize in Node.js to create high-performing applications."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "K9obWkMMp97iS-MBMjOTk7YNMFw",
+    "id": "PLIGDNOJWiL19ZQzdF7JvWoYuqeZgk_Bgf",
+    "snippet": {
+      "publishedAt": "2018-03-03T15:59:57Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular 5 complete Training Program",
+      "description": "QuickStart\nGood tools make application development quicker and easier to maintain than if you did everything by hand.\n\nThe Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.\n\nThe goal in this guide is to build and run a simple Angular application in TypeScript, using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.\n\nBy the end of the chapter, you'll have a basic understanding of development with the CLI and a foundation for both these documentation samples and for real world applications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TphWB-QrayA/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS with Sequelize ORM",
-          "description": "At the core of developing any website or application is database management. In this course, Introduction to Sequelize ORM for Node.js, you will learn the skills needed to create high-quality Node.js apps that use SQL as their database. First, you will learn how to include Sequelize into a Node.js project configured with SQLite. Next, you will explore how to customize models, perform CRUD operations, and form associations. Finally, you will put it all together to build a full-stack JavaScript application using Angular on the frontend. When you're finished with this course, you will have a foundational understanding of how to use Sequelize in Node.js to create high-performing applications."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TphWB-QrayA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TphWB-QrayA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TphWB-QrayA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TphWB-QrayA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 22
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/0q6O3C4oVO4I9CWADeYc0xgctkA\"",
-      "id": "PLIGDNOJWiL19ZQzdF7JvWoYuqeZgk_Bgf",
-      "snippet": {
-        "publishedAt": "2018-03-03T15:59:57.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Angular 5 complete Training Program",
-        "description": "QuickStart\nGood tools make application development quicker and easier to maintain than if you did everything by hand.\n\nThe Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.\n\nThe goal in this guide is to build and run a simple Angular application in TypeScript, using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.\n\nBy the end of the chapter, you'll have a basic understanding of development with the CLI and a foundation for both these documentation samples and for real world applications.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "QuickStart\nGood tools make application development quicker and easier to maintain than if you did everything by hand.\n\nThe Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.\n\nThe goal in this guide is to build and run a simple Angular application in TypeScript, using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.\n\nBy the end of the chapter, you'll have a basic understanding of development with the CLI and a foundation for both these documentation samples and for real world applications."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "3_s8o_VmzMBbL6ElSAQfnJY31-A",
+    "id": "PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7",
+    "snippet": {
+      "publishedAt": "2018-03-03T14:48:19Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Crack Node JS Interview",
+      "description": "Node.js Interview Questions to Crack interviews\n\nWhat is an error-first callback?\nHow can you avoid callback hells?\nWhat are Promises?\nWhen should you npm and when yarn?\nWhat's a test pyramid? Give an example!\nWhat's your favorite HTTP framework and why?\nHow can you secure your HTTP cookies against XSS attacks?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular 5 complete Training Program",
-          "description": "QuickStart\nGood tools make application development quicker and easier to maintain than if you did everything by hand.\n\nThe Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.\n\nThe goal in this guide is to build and run a simple Angular application in TypeScript, using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.\n\nBy the end of the chapter, you'll have a basic understanding of development with the CLI and a foundation for both these documentation samples and for real world applications."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 20
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Eei8Q5U5vMR1xXAQkUVSPncneEE\"",
-      "id": "PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7",
-      "snippet": {
-        "publishedAt": "2018-03-03T14:48:19.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Crack Node JS Interview",
-        "description": "Node.js Interview Questions to Crack interviews\n\nWhat is an error-first callback?\nHow can you avoid callback hells?\nWhat are Promises?\nWhen should you npm and when yarn?\nWhat's a test pyramid? Give an example!\nWhat's your favorite HTTP framework and why?\nHow can you secure your HTTP cookies against XSS attacks?",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8ILYB2-tgNE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "Node.js Interview Questions to Crack interviews\n\nWhat is an error-first callback?\nHow can you avoid callback hells?\nWhat are Promises?\nWhen should you npm and when yarn?\nWhat's a test pyramid? Give an example!\nWhat's your favorite HTTP framework and why?\nHow can you secure your HTTP cookies against XSS attacks?"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Gg5DHkFl4vFHaCAiyF3eU-5lIRY",
+    "id": "PLIGDNOJWiL1_YYoljCssnpcC1xXHNWm4s",
+    "snippet": {
+      "publishedAt": "2018-02-13T04:16:49Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Vue JS Learning Beginners",
+      "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Crack Node JS Interview",
-          "description": "Node.js Interview Questions to Crack interviews\n\nWhat is an error-first callback?\nHow can you avoid callback hells?\nWhat are Promises?\nWhen should you npm and when yarn?\nWhat's a test pyramid? Give an example!\nWhat's your favorite HTTP framework and why?\nHow can you secure your HTTP cookies against XSS attacks?"
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 25
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/9PNkfYSgikV6VImbuWsTU-cHMB4\"",
-      "id": "PLIGDNOJWiL1_YYoljCssnpcC1xXHNWm4s",
-      "snippet": {
-        "publishedAt": "2018-02-13T04:16:49.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Vue JS Learning Beginners",
-        "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Bo0KaR7wHKoTEJHisYMzN_iQHHk",
+    "id": "PLIGDNOJWiL18mTeG1sM4uDHTcTYEHG_rn",
+    "snippet": {
+      "publishedAt": "2018-02-12T05:27:10Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular 5 Advance Topics",
+      "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications. ... TL;DR: Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hyCSnSestFs/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Vue JS Learning Beginners",
-          "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable"
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hyCSnSestFs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hyCSnSestFs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hyCSnSestFs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hyCSnSestFs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LEWtp0JVXfgqFUY-CWoLI7PCRCA\"",
-      "id": "PLIGDNOJWiL18mTeG1sM4uDHTcTYEHG_rn",
-      "snippet": {
-        "publishedAt": "2018-02-12T05:27:10.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Angular 5 Advance Topics",
-        "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications. ... TL;DR: Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications. ... TL;DR: Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "6q6z_bpguR8eEhkeVpXZUuMb7e8",
+    "id": "PLIGDNOJWiL1_JOOm6MU2prB30eVzwyKPe",
+    "snippet": {
+      "publishedAt": "2017-07-17T04:45:51Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "JavaScript Interview Question",
+      "description": "JavaScript interview questions and answers for provides a list of top 100  interview questions. The frequently asked JavaScript interview questions with answers for beginners and professionals are given below.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NDLVyqVoY40/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular 5 Advance Topics",
-          "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications. ... TL;DR: Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications"
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NDLVyqVoY40/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NDLVyqVoY40/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NDLVyqVoY40/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 9
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/g8GIepU7UTXcA3Q9DjIItOWH1pw\"",
-      "id": "PLIGDNOJWiL1_JOOm6MU2prB30eVzwyKPe",
-      "snippet": {
-        "publishedAt": "2017-07-17T04:45:51.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "JavaScript Interview Question",
-        "description": "JavaScript interview questions and answers for provides a list of top 100  interview questions. The frequently asked JavaScript interview questions with answers for beginners and professionals are given below.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "description": "JavaScript interview questions and answers for provides a list of top 100  interview questions. The frequently asked JavaScript interview questions with answers for beginners and professionals are given below."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "RRtBbH8lWnbrrHF87bQrOzgk3JY",
+    "id": "PLIGDNOJWiL1-CV9jbdl9cpp4LH48owUBY",
+    "snippet": {
+      "publishedAt": "2017-07-16T01:17:15Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Ionic App with Firebase",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jrlIMi7mm40/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "JavaScript Interview Question",
-          "description": "JavaScript interview questions and answers for provides a list of top 100  interview questions. The frequently asked JavaScript interview questions with answers for beginners and professionals are given below."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jrlIMi7mm40/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jrlIMi7mm40/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jrlIMi7mm40/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jrlIMi7mm40/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 20
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XEm3JRhHsogAHhf5xieBHOfWCVE\"",
-      "id": "PLIGDNOJWiL1-CV9jbdl9cpp4LH48owUBY",
-      "snippet": {
-        "publishedAt": "2017-07-16T01:17:15.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Ionic App with Firebase",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "RfV1s4GeTxGHkmEgd8EclhHM-r8",
+    "id": "PLIGDNOJWiL1_Oy59tu4r4q_pOQ5T3RUCu",
+    "snippet": {
+      "publishedAt": "2017-07-15T03:18:38Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "DevOps Training : Tools",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Ionic App with Firebase",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 14
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/r8y3qm_IpwyRFD_7WVcgiFoqZjA\"",
-      "id": "PLIGDNOJWiL1_Oy59tu4r4q_pOQ5T3RUCu",
-      "snippet": {
-        "publishedAt": "2017-07-15T03:18:38.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "DevOps Training : Tools",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "dbhxpEQUlkXqn-o-DlXKdXlRNkI",
+    "id": "PLIGDNOJWiL18V2lVD2guCbPY9Q0E0NwMf",
+    "snippet": {
+      "publishedAt": "2017-06-12T12:10:41Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn Angular 2.0",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "DevOps Training : Tools",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/3732SWcD4GXDOstf7rjZp-yhW24\"",
-      "id": "PLIGDNOJWiL18V2lVD2guCbPY9Q0E0NwMf",
-      "snippet": {
-        "publishedAt": "2017-06-12T12:10:41.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Learn Angular 2.0",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "NSZgFgIzl1q_pyGVTn6cgMyp-Ss",
+    "id": "PLIGDNOJWiL18CKY0UMae_pGgesBTlhW_Q",
+    "snippet": {
+      "publishedAt": "2017-04-16T03:47:56Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Learn in 2017",
+      "description": "Things to Learn 2017 :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/smaezmo0yXk/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Learn Angular 2.0",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/smaezmo0yXk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/smaezmo0yXk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/smaezmo0yXk/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 18
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/8getsiCqsUIiSWBcqfBndtxyVE4\"",
-      "id": "PLIGDNOJWiL18CKY0UMae_pGgesBTlhW_Q",
-      "snippet": {
-        "publishedAt": "2017-04-16T03:47:56.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Learn in 2017",
-        "description": "Things to Learn 2017 :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "description": "Things to Learn 2017 :)"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "9o2QoJy1lYE8NXbCNkBPS7VAH-Y",
+    "id": "PLIGDNOJWiL1__hSiOYwxtr3X2WWY9j2zg",
+    "snippet": {
+      "publishedAt": "2017-04-09T12:16:08Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular JS Testing",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Learn in 2017",
-          "description": "Things to Learn 2017 :)"
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 4
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/crZp5B6PRv6RK3Mr1uOHXvcrL4k\"",
-      "id": "PLIGDNOJWiL1__hSiOYwxtr3X2WWY9j2zg",
-      "snippet": {
-        "publishedAt": "2017-04-09T12:16:08.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Angular JS Testing",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "v7Bq9FGoW9aKqjbxNLPkVjhyetI",
+    "id": "PLIGDNOJWiL1-SALMYwNWxWZUGcPjhhSRs",
+    "snippet": {
+      "publishedAt": "2017-04-04T09:45:28Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular 1.5 With ES6 Features",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular JS Testing",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 5
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Uw4kyJ-mR5Z-flKwtsAGIMEDb4I\"",
-      "id": "PLIGDNOJWiL1-SALMYwNWxWZUGcPjhhSRs",
-      "snippet": {
-        "publishedAt": "2017-04-04T09:45:28.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Angular 1.5 With ES6 Features",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "EpqodL2tIct-C8HdjvX-PJ5w20Y",
+    "id": "PLIGDNOJWiL19nAuqIbJOUcXqxRnSn6IGD",
+    "snippet": {
+      "publishedAt": "2017-03-26T03:23:44Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular js Hacks",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular 1.5 With ES6 Features",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 8
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jxwkupKnfWT1K3CxDm8GMj4zvaU\"",
-      "id": "PLIGDNOJWiL19nAuqIbJOUcXqxRnSn6IGD",
-      "snippet": {
-        "publishedAt": "2017-03-26T03:23:44.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Angular js Hacks",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "IDSPsGE-5tqJlfCra6JnxKG4PRo",
+    "id": "PLIGDNOJWiL18YPRskrNOqqSarHlzTYoIC",
+    "snippet": {
+      "publishedAt": "2017-03-20T11:09:02Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS for Intermediate  Level - Part 02",
+      "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vga4mSPjFkY/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular js Hacks",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vga4mSPjFkY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vga4mSPjFkY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vga4mSPjFkY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vga4mSPjFkY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 9
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/n35KKzAdWzLXN3ZmBXUsLcs4qsE\"",
-      "id": "PLIGDNOJWiL18YPRskrNOqqSarHlzTYoIC",
-      "snippet": {
-        "publishedAt": "2017-03-20T11:09:02.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Node JS for Intermediate  Level - Part 02",
-        "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "p2CQ-NBvjIe7SM3RCGIsFi1nqTQ",
+    "id": "PLIGDNOJWiL19KUzIYt6Ctgy0eOEQUeICC",
+    "snippet": {
+      "publishedAt": "2017-03-20T09:14:49Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node js absolute  beginners -Recorded Training sessions",
+      "description": "Node JS a powerful tool for controlling web servers, building applications, and creating event-driven programming and it brings JavaScript, a language familiar to all web developers, into an environment independent of web browsers. Learn all about Node JS and start creating JavaScript applications in this course with me. I show how to install Node JS on Mac, Windows, and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.\n\nNode JS makes it possible to write JavaScript applications without a web browser. In this course, I will be showing you how to install Node JS on Mac, Windows, how to use frameworks to start web servers and generate HTML output, how to unit test your code to reduce bugs and errors. We will also learn how to stream data and create command line tools in node.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS for Intermediate  Level - Part 02",
-          "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 16
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/diARcXOvCaW7j3Cf8gYzcERX8BU\"",
-      "id": "PLIGDNOJWiL19KUzIYt6Ctgy0eOEQUeICC",
-      "snippet": {
-        "publishedAt": "2017-03-20T09:14:49.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Node js absolute  beginners -Recorded Training sessions",
-        "description": "Node JS a powerful tool for controlling web servers, building applications, and creating event-driven programming and it brings JavaScript, a language familiar to all web developers, into an environment independent of web browsers. Learn all about Node JS and start creating JavaScript applications in this course with me. I show how to install Node JS on Mac, Windows, and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.\n\nNode JS makes it possible to write JavaScript applications without a web browser. In this course, I will be showing you how to install Node JS on Mac, Windows, how to use frameworks to start web servers and generate HTML output, how to unit test your code to reduce bugs and errors. We will also learn how to stream data and create command line tools in node.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "Node JS a powerful tool for controlling web servers, building applications, and creating event-driven programming and it brings JavaScript, a language familiar to all web developers, into an environment independent of web browsers. Learn all about Node JS and start creating JavaScript applications in this course with me. I show how to install Node JS on Mac, Windows, and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.\n\nNode JS makes it possible to write JavaScript applications without a web browser. In this course, I will be showing you how to install Node JS on Mac, Windows, how to use frameworks to start web servers and generate HTML output, how to unit test your code to reduce bugs and errors. We will also learn how to stream data and create command line tools in node."
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "gBxxhHX97_2FfDbJ5eL6H-UxDzQ",
+    "id": "PLIGDNOJWiL1_57jPiF6K-j9kHOnMw5tAp",
+    "snippet": {
+      "publishedAt": "2017-03-17T05:21:04Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node JS API Testing Mocha",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node js absolute  beginners -Recorded Training sessions",
-          "description": "Node JS a powerful tool for controlling web servers, building applications, and creating event-driven programming and it brings JavaScript, a language familiar to all web developers, into an environment independent of web browsers. Learn all about Node JS and start creating JavaScript applications in this course with me. I show how to install Node JS on Mac, Windows, and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.\n\nNode JS makes it possible to write JavaScript applications without a web browser. In this course, I will be showing you how to install Node JS on Mac, Windows, how to use frameworks to start web servers and generate HTML output, how to unit test your code to reduce bugs and errors. We will also learn how to stream data and create command line tools in node."
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 10
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/PDCVdfHmWeIjIUklaxj3n6Rga8Y\"",
-      "id": "PLIGDNOJWiL1_57jPiF6K-j9kHOnMw5tAp",
-      "snippet": {
-        "publishedAt": "2017-03-17T05:21:04.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Node JS API Testing Mocha",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "5Kuyts_089uezt0qsOWX_ryEeXY",
+    "id": "PLIGDNOJWiL1-5bgZ7IUPXRQkyBNkD5W5S",
+    "snippet": {
+      "publishedAt": "2017-02-20T07:58:12Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Angular 1.5 Components",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hcmHJeplkfg/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS API Testing Mocha",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hcmHJeplkfg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hcmHJeplkfg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hcmHJeplkfg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hcmHJeplkfg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 7
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jxVV45VxNuuOTAX-DTTc6Iz-xB0\"",
-      "id": "PLIGDNOJWiL1-5bgZ7IUPXRQkyBNkD5W5S",
-      "snippet": {
-        "publishedAt": "2017-02-20T07:58:12.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Angular 1.5 Components",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "nrZc2p3MrLGNPPs-hgcba7yGT6M",
+    "id": "PLIGDNOJWiL189T2ypOkMr-54AHMNI_Vfq",
+    "snippet": {
+      "publishedAt": "2017-02-19T11:17:09Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "NPM Scripts and NPM Package Manager",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular 1.5 Components",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 17
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/3bsOrE2_F0KCLhXXxGjJA7fUdFg\"",
-      "id": "PLIGDNOJWiL189T2ypOkMr-54AHMNI_Vfq",
-      "snippet": {
-        "publishedAt": "2017-02-19T11:17:09.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "NPM Scripts and NPM Package Manager",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "YbgOCwFrI3stAnQQTVjccqd5Fv4",
+    "id": "PLIGDNOJWiL1-VE00DZABx1D-4oPIGcjeD",
+    "snippet": {
+      "publishedAt": "2017-02-19T08:57:41Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Webpack Bundler Tool",
+      "description": "webpack takes modules with dependencies and generates static assets representing those modules and work as universal bundler to bundle css, fonts,js,typescript and many more..\n\nWhy another module bundler?\n\nExisting module bundlers are not well suited for big projects (big single page applications). The most pressing reason for developing another module bundler was Code Splitting and that static assets should fit seamlessly together through modularization.\n\n\nLets Do Deep dive with Webpack",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/schixSOiM5M/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "NPM Scripts and NPM Package Manager",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/schixSOiM5M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/schixSOiM5M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/schixSOiM5M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/schixSOiM5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 6
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XXbt_YqZwyxtdTmA5TdIl7kNwV4\"",
-      "id": "PLIGDNOJWiL1-VE00DZABx1D-4oPIGcjeD",
-      "snippet": {
-        "publishedAt": "2017-02-19T08:57:41.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Webpack Bundler Tool",
-        "description": "webpack takes modules with dependencies and generates static assets representing those modules and work as universal bundler to bundle css, fonts,js,typescript and many more..\n\nWhy another module bundler?\n\nExisting module bundlers are not well suited for big projects (big single page applications). The most pressing reason for developing another module bundler was Code Splitting and that static assets should fit seamlessly together through modularization.\n\n\nLets Do Deep dive with Webpack",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": "webpack takes modules with dependencies and generates static assets representing those modules and work as universal bundler to bundle css, fonts,js,typescript and many more..\n\nWhy another module bundler?\n\nExisting module bundlers are not well suited for big projects (big single page applications). The most pressing reason for developing another module bundler was Code Splitting and that static assets should fit seamlessly together through modularization.\n\n\nLets Do Deep dive with Webpack"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "2Gc7f6oBBW3FKMTn1JxfDEMK3Kc",
+    "id": "PLIGDNOJWiL1_qj1G0CI11OAscfHHHYr2g",
+    "snippet": {
+      "publishedAt": "2016-11-26T15:02:05Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Progressive Web Apps PWA WorkShop",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Webpack Bundler Tool",
-          "description": "webpack takes modules with dependencies and generates static assets representing those modules and work as universal bundler to bundle css, fonts,js,typescript and many more..\n\nWhy another module bundler?\n\nExisting module bundlers are not well suited for big projects (big single page applications). The most pressing reason for developing another module bundler was Code Splitting and that static assets should fit seamlessly together through modularization.\n\n\nLets Do Deep dive with Webpack"
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 8
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ptaNdsVb6LB0cYyV08aljbVs7nY\"",
-      "id": "PLIGDNOJWiL1_qj1G0CI11OAscfHHHYr2g",
-      "snippet": {
-        "publishedAt": "2016-11-26T15:02:05.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Progressive Web Apps PWA WorkShop",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "27d2XhiaMQKqrZF-xmkaHKOyTlA",
+    "id": "PLIGDNOJWiL1-Il08Frlt32wYlwnjRLoEK",
+    "snippet": {
+      "publishedAt": "2016-11-16T15:52:38Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Node js Debugging.Deploying.securing.Logging App",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Progressive Web Apps PWA WorkShop",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 4
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xniJRnUyydwQjOEmHAfNiID_YgY\"",
-      "id": "PLIGDNOJWiL1-Il08Frlt32wYlwnjRLoEK",
-      "snippet": {
-        "publishedAt": "2016-11-16T15:52:38.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Node js Debugging.Deploying.securing.Logging App",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "UuqXr51_PodXWVfCf2VamMBvcgI",
+    "id": "PLIGDNOJWiL19ik9k_nfeXnGUCpjDOA5Pq",
+    "snippet": {
+      "publishedAt": "2016-11-16T06:37:44Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "Understanding Angular 2.0 RC2",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d2CWav4xGUY/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node js Debugging.Deploying.securing.Logging App",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d2CWav4xGUY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d2CWav4xGUY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d2CWav4xGUY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d2CWav4xGUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 16
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2zDYijVkubQgsQ5C03m_rptkNb8\"",
-      "id": "PLIGDNOJWiL19ik9k_nfeXnGUCpjDOA5Pq",
-      "snippet": {
-        "publishedAt": "2016-11-16T06:37:44.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "Understanding Angular 2.0 RC2",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Hvdsx_k11zN1Omb8ptzKHXnAMwU",
+    "id": "PLIGDNOJWiL18uEhAQo-cM1fJnRKcd_bqL",
+    "snippet": {
+      "publishedAt": "2016-11-16T05:31:22Z",
+      "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "title": "React with Flux Advance",
+      "description": "Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/default.jpg",
+          "width": 120,
+          "height": 90
         },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Understanding Angular 2.0 RC2",
-          "description": ""
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 22
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2cjn3m4dqqSEFqDxC0n-rjtpAqQ\"",
-      "id": "PLIGDNOJWiL18uEhAQo-cM1fJnRKcd_bqL",
-      "snippet": {
-        "publishedAt": "2016-11-16T05:31:22.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+      "channelTitle": "tkssharma Code Labs",
+      "localized": {
         "title": "React with Flux Advance",
-        "description": "Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nGkZlHl3F_Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "React with Flux Advance",
-          "description": "Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 13
+        "description": "Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code."
       }
+    }
     },
     {
       "kind": "youtube#playlist",
@@ -3427,55 +3374,6 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6l6gjVcaRyusPj6TFPMlobwsN5s\"",
-      "id": "PLIGDNOJWiL18nB4NpFw20I5g6K34hEgZW",
-      "snippet": {
-        "publishedAt": "2016-03-02T10:58:44.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Grunt Tasks build system",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9XJ7NwNlrEc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9XJ7NwNlrEc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9XJ7NwNlrEc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9XJ7NwNlrEc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9XJ7NwNlrEc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Grunt Tasks build system",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 8
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/gxxs6wqBjGGQF-BP8nEZuQjB0fE\"",
       "id": "PLIGDNOJWiL18oDFsYEUrie5pNZO4ZQmed",
       "snippet": {
@@ -3646,148 +3544,6 @@
         "localized": {
           "title": "Angular Best Practices",
           "description": "Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.\n\nhttps://github.com/tkssharma/Angular-Common"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 14
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ZGlGgnmrdHvq1we6ocUsEICIGYo\"",
-      "id": "PLIGDNOJWiL18-QnXuAaXnOm4XazcrV0m-",
-      "snippet": {
-        "publishedAt": "2016-02-12T08:51:32.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Ice Breaker",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/de6KwxKyHWY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/de6KwxKyHWY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/de6KwxKyHWY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/de6KwxKyHWY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/de6KwxKyHWY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS Ice Breaker",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 11
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5QTOS8yA8mkRZ6-CQ5Zx0jmfl0M\"",
-      "id": "PLIGDNOJWiL1_ZiPcc0MmuDBxczqofgipj",
-      "snippet": {
-        "publishedAt": "2016-02-08T18:53:34.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Express application",
-        "description": "JavaScript is the language for adding interactivity to a website, but there's so much more it can do. Enter Node.js and Express.js, two technologies that extend the capabilities of JavaScript. The Node platform allows you to develop server-side applications with JavaScript that you can then easily publish as websites with the Express framework. In this course, Ray Villalobos walks through the entire process of creating a website on a server with Node.js and Express.js.\n\nNote: This course is intended for intermediate front-end web developers who are familiar with creating web projects and understand JavaScript basics.\nTopics include:\nInstalling Node.js and Express.js\nExploring the node package manager (npm)\nCreating and modularizing routes\nUsing templates\nAdding partials\nUsing the Express Generator\nPreparing your site structure\nAdding static content\nImporting your data\nPassing custom data through routes\nPublishing your application",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jUvGpV5v-A4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jUvGpV5v-A4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jUvGpV5v-A4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jUvGpV5v-A4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jUvGpV5v-A4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Node JS Express application",
-          "description": "JavaScript is the language for adding interactivity to a website, but there's so much more it can do. Enter Node.js and Express.js, two technologies that extend the capabilities of JavaScript. The Node platform allows you to develop server-side applications with JavaScript that you can then easily publish as websites with the Express framework. In this course, Ray Villalobos walks through the entire process of creating a website on a server with Node.js and Express.js.\n\nNote: This course is intended for intermediate front-end web developers who are familiar with creating web projects and understand JavaScript basics.\nTopics include:\nInstalling Node.js and Express.js\nExploring the node package manager (npm)\nCreating and modularizing routes\nUsing templates\nAdding partials\nUsing the Express Generator\nPreparing your site structure\nAdding static content\nImporting your data\nPassing custom data through routes\nPublishing your application"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 19
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Vw733c19R-wmoW5ieU3feeKlHpM\"",
-      "id": "PLIGDNOJWiL19HepuwTrf8Q1hEcbKOkO5j",
-      "snippet": {
-        "publishedAt": "2016-02-08T17:12:25.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "AJAX With Jquery",
-        "description": "The ability to read data and communicate information asynchronously is fundamental to modern web applications. In this course, author Ray Villalobos takes a look at integrating AJAX (Asynchronous JavaScript and XML) with JavaScript and jQuery—a combination that makes it easy to work with dynamic data and reduces the number of requests to the server. The course first explains what AJAX is, and shows how to load and reload pages with pure JavaScript, update the DOM, and read and parse data in the XML and JSON formats. Next, \nWhat is AJAX?\nMaking requests asynchronous\nUpdating the DOM with getElementById\nReading JSON files\nWorking with jQuery and AJAX\nSending and searching JSON data\nIncorporating CSS transitions",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1y_yLVLj69M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1y_yLVLj69M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1y_yLVLj69M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1y_yLVLj69M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "AJAX With Jquery",
-          "description": "The ability to read data and communicate information asynchronously is fundamental to modern web applications. In this course, author Ray Villalobos takes a look at integrating AJAX (Asynchronous JavaScript and XML) with JavaScript and jQuery—a combination that makes it easy to work with dynamic data and reduces the number of requests to the server. The course first explains what AJAX is, and shows how to load and reload pages with pure JavaScript, update the DOM, and read and parse data in the XML and JSON formats. Next, \nWhat is AJAX?\nMaking requests asynchronous\nUpdating the DOM with getElementById\nReading JSON files\nWorking with jQuery and AJAX\nSending and searching JSON data\nIncorporating CSS transitions"
         }
       },
       "status": {
@@ -3980,55 +3736,6 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5VbObsw7i_fWnGfZQIpdHflP6wA\"",
-      "id": "PLIGDNOJWiL18vzVelXE7qbNYuJCkdg9Wp",
-      "snippet": {
-        "publishedAt": "2015-11-24T10:43:51.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "JQuery and AJAX calls",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/17gpncrCKV8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/17gpncrCKV8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/17gpncrCKV8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/17gpncrCKV8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/17gpncrCKV8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "JQuery and AJAX calls",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 14
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Cpw52jMXLgH1LViC74pH5xdrOTg\"",
       "id": "PLIGDNOJWiL19j9WHGKz_YlDsctZjvsrhi",
       "snippet": {
@@ -4205,55 +3912,6 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/mvalMTP8f35GcKp4HjE27-AAcuI\"",
-      "id": "PLIGDNOJWiL1-cNk-f2fFysgesRQ8l9dSw",
-      "snippet": {
-        "publishedAt": "2015-10-26T07:31:21.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "DevOps for Developers",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/W2jz_Bu0CR0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/W2jz_Bu0CR0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/W2jz_Bu0CR0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/W2jz_Bu0CR0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/W2jz_Bu0CR0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "DevOps for Developers",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 15
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Exfnr2100oFNjhKrK2m5ZfRUiRc\"",
       "id": "PLIGDNOJWiL19vi9ZX3IiXnDb9Yb95Pzh8",
       "snippet": {
@@ -4332,50 +3990,6 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/r1bmHrh9vqDRiXL7LwAja9fmC2E\"",
-      "id": "PLIGDNOJWiL18IgDrDzKw4xJYYtHg2FOuO",
-      "snippet": {
-        "publishedAt": "2015-03-01T05:40:05.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular & Node",
-        "description": "It consist of Angular tutorials series for beginner developers",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code Lab",
-        "localized": {
-          "title": "Angular & Node",
-          "description": "It consist of Angular tutorials series for beginner developers"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 39
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Njkd0QswoJ89OLdNNH8QlIaStHY\"",
       "id": "PLIGDNOJWiL18N92FUi5-UdYet9km0PKHF",
       "snippet": {
@@ -4412,53 +4026,7 @@
       "contentDetails": {
         "itemCount": 9
       }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KYq2b66wl03fYRZv4aK4SLWC3CY\"",
-      "id": "FLS1NeZF0Or2E1RAV9hQJz3g",
-      "snippet": {
-        "publishedAt": "2010-11-24T04:52:05.000Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Favorites",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MuPW017Tmwc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code Lab",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Favorites",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 39
-      }
-    },
-
+    },  
     {
       "kind": "youtube#playlist",
       "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/mxAN63YDtUwJU0h6gPmymZRISpg\"",
