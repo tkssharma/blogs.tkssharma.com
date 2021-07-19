@@ -1,14 +1,14 @@
 ---
-date: 2020-04-12
-title: 'Graphql handbook for developer Beginners'
-template: post
-featured:  '../thumbnails/graphql.png'
-thumbnail: '../thumbnails/graphql.png'
+layout: blog
+category: blog
 slug: graphql-handbook-for-developers
-categories:
-  - Popular
+Title: graphql handbook fro developers
+summary: graphql handbook for developers
 tags:
   - Graphql
+  - nestjs
+  - nodejs
+  - express
 ---
 
 

@@ -1,14 +1,14 @@
 ---
-date: 2020-04-11
-title: 'CSS handbook for developer'
-template: post
-featured:  '../thumbnails/css.png'
-thumbnail: '../thumbnails/css.png'
+layout: blog
+category: blog
 slug: css-handbook-for-developers
-categories:
-  - Popular
+Title: css handbook fro developers
+summary: css handbook for developers
 tags:
-  - React
+  - css
+  - html
+  - nodejs
+  - express
 ---
 
 How do you learn CSS? CSS is a vast subject, with many different layers to learn about covering all different aspects of manipulating the display of elements on a page.
@@ -27,27 +27,27 @@ And finally, if you're looking for ways to stay up to date, the newsletters port
 
 ### Table Of Contents
 
-*   [CSS Selectors](#css-selectors)
-*   [CSS Box Model](#css-box-model)
-*   [CSS Layout](#css-layout)
-*   [Styling Text with CSS](#styling-text)
-*   [Styling Boxes with CSS](#styling-boxes)
-*   [CSS Units](#css-units)
-*   [CSS Colors and Gradients](#css-colors-and-gradients)
-*   [CSS Transitions and Animations](#css-transitions-and-animations)
-*   [CSS Transforms](#css-transforms)
-*   [CSS Pseudo-classes and Pseudo-elements](#css-pseudo)
-*   [CSS At-Rules (e.g. Media Queries)](#css-at-rules)
-*   [CSS Specificity](#css-specificity)
-*   [CSS Preprocessors](#css-preprocessors)
-*   [CSS Naming Systems and Architecture](#css-naming-systems-and-architecture)
-*   [Common CSS Practices](#common-css-practices)
-*   [CSS Walkthroughs and Examples](#css-walkthroughs-and-examples)
-*   [Comprehensive CSS Resources](#comprehensive-resources)
-*   [CSS Frameworks](#css-frameworks)
-*   [Free CSS Courses](#free-courses)
-*   [Paid CSS Courses](#paid-courses)
-*   [CSS Newsletters](#css-newsletters)
+- [CSS Selectors](#css-selectors)
+- [CSS Box Model](#css-box-model)
+- [CSS Layout](#css-layout)
+- [Styling Text with CSS](#styling-text)
+- [Styling Boxes with CSS](#styling-boxes)
+- [CSS Units](#css-units)
+- [CSS Colors and Gradients](#css-colors-and-gradients)
+- [CSS Transitions and Animations](#css-transitions-and-animations)
+- [CSS Transforms](#css-transforms)
+- [CSS Pseudo-classes and Pseudo-elements](#css-pseudo)
+- [CSS At-Rules (e.g. Media Queries)](#css-at-rules)
+- [CSS Specificity](#css-specificity)
+- [CSS Preprocessors](#css-preprocessors)
+- [CSS Naming Systems and Architecture](#css-naming-systems-and-architecture)
+- [Common CSS Practices](#common-css-practices)
+- [CSS Walkthroughs and Examples](#css-walkthroughs-and-examples)
+- [Comprehensive CSS Resources](#comprehensive-resources)
+- [CSS Frameworks](#css-frameworks)
+- [Free CSS Courses](#free-courses)
+- [Paid CSS Courses](#paid-courses)
+- [CSS Newsletters](#css-newsletters)
 
 </div>
 
@@ -645,6 +645,6 @@ A once–weekly roundup of the best front-end news, articles and tutorials. HTML
 [HeyDesigner](https://heydesigner.com/newsletter/)  
 Covers HTML, CSS, and SCSS, but also a range of other topics interesting to designers. Published weekly by [Tamas Sari](https://twitter.com/tamassari?lang=en).
 
-* * *
+---
 
 P.S. - If you're interested in these types of topics, I send out a weekly newsletter called the 'Friday Frontend'. Every Friday I send out 15 links to the best articles, tutorials, and announcements in CSS/SCSS, JavaScript, and assorted other awesome Front-end News. Sign up now!

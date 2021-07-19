@@ -1,12 +1,9 @@
 ---
-date: 2020-04-13
-title: 'Nestjs handbook for developer Beginners'
-template: post
-featured:  '../thumbnails/nestjs.png'
-thumbnail: '../thumbnails/nestjs.png'
+layout: blog
+category: blog
 slug: nestjs-handbook-for-developers
-categories:
-  - Popular
+Title: nestjs handbook fro developers
+summary: nestjs handbook for developers
 tags:
   - Graphql
   - nestjs

@@ -1,14 +1,14 @@
 ---
-date: 2020-04-10
-title: 'React Redux Handbook and StyleGuide'
-template: post
-featured:  '../thumbnails/react.png'
-thumbnail: '../thumbnails/react.png'
-slug: React-redux-handbook-styleguide
-categories:
-  - Popular
+layout: blog
+category: blog
+slug: react-redux-handbook-for-developers
+Title: react-redux handbook fro developers
+summary: react-redux handbook for developers
 tags:
-  - React
+  - react
+  - redux
+  - nodejs
+  - express
 ---
 
 # React/Redux Style Guide

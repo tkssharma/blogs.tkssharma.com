@@ -1,19 +1,18 @@
 ---
-date: 2020-01-26
-title: 'Making API calls using React Components'
-template: post
-thumbnail: '../thumbnails/react.png'
-slug: making-api-calls-using-hooks-and-lifecycle-methods-reactjs
-categories:
-  - Popular
+layout: blog
+category: blog
+Title: making api calls from components
+summary: making api calls from components
 tags:
-  - Javascript
+  - Graphql
+  - nestjs
+  - nodejs
+  - express
 ---
 
 With the new updates coming up in the React library, it's indeed impossible to use all the new React features in your application. It’s been 6 months since the official release of React Hooks which was released with React 16.8.0 (February 6, 2019)
 
 This article will help you take the baby steps in using React Hooks, it will explain all the basic approach which you can take to make the most out of this beautiful feature.
-
 
 Let’s start with Quick Introduction to React Hooks
 
@@ -21,9 +20,9 @@ Hooks are functions that let you “hook into” React state and lifecycle featu
 
 ### useState 😄
 
-useState is a *Hook,* We call it inside a function component when we want to add some local state to it. The good thing about this is that the state will be preserved during re-rendering.
+useState is a _Hook,_ We call it inside a function component when we want to add some local state to it. The good thing about this is that the state will be preserved during re-rendering.
 
-useState returns a pair: the ***current state value*** and a ***function*** that lets you update your component. Calling a function will work similarly to this.setState where it will update the values of the state, except it will not merge old and new state.
+useState returns a pair: the **_current state value_** and a **_function_** that lets you update your component. Calling a function will work similarly to this.setState where it will update the values of the state, except it will not merge old and new state.
 
 ### useEffect 😄
 
@@ -45,7 +44,7 @@ If there are multiple items in the array, React will re-run the effect even if j
 
 Let’s look at the example of how we can get the same behavior as a class component in a function component using Hooks.
 
-***Example:*** Consider an example where you need to make API calls and fetch the data and populate in our component and clicking on the *load* more button would fetch more data from the server.
+**_Example:_** Consider an example where you need to make API calls and fetch the data and populate in our component and clicking on the _load_ more button would fetch more data from the server.
 
 Until the Release of React 16.8.0(Hooks), it wasn't possible to achieve these using functional components as lifecycle methods aren’t accessible in the functional component and it wasn’t possible to manage the state inside a functional component.
 
@@ -53,24 +52,24 @@ For making API calls we will use Github APIs [https://developer.github.com/v3/se
 
 Here is what a typical React code looks like for both ordinary class component and functional component using Hooks.
 
-![API call code [ Icon Credit — R[oundicons](https://www.flaticon.com/authors/roundicons) ]](https://cdn-images-1.medium.com/max/3576/1*e58rQldTQyOijWVWQtp8wQ.png)*API call code [ Icon Credit — R[oundicons](https://www.flaticon.com/authors/roundicons) ]*
+![API call code [ Icon Credit — R[oundicons](https://www.flaticon.com/authors/roundicons) ]](https://cdn-images-1.medium.com/max/3576/1*e58rQldTQyOijWVWQtp8wQ.png)_API call code [ Icon Credit — R[oundicons](https://www.flaticon.com/authors/roundicons) ]_
 
 Whenever API calls are involved we need multiple state values —
 
-* Holding that data that is to be rendered
+- Holding that data that is to be rendered
 
-* Page count to make API call
+- Page count to make API call
 
-* Loading state (show loading screen/component until the data is received from server)
+- Loading state (show loading screen/component until the data is received from server)
 
-* Error state (show error message when something goes wrong while fetching data)
+- Error state (show error message when something goes wrong while fetching data)
 
 Thus above image with Class component and the functional component does the same thing of loading the commits from the Github. Thus this simple example will help you understand how easy it is to start using hook into your application. With hooks, you can use write code neatly and sort.
 
-![API Calls with React Hooks](https://cdn-images-1.medium.com/max/2000/1*1fkxwuCQl8hzxukGHPB8tA.gif)*API Calls with React Hooks*
+![API Calls with React Hooks](https://cdn-images-1.medium.com/max/2000/1*1fkxwuCQl8hzxukGHPB8tA.gif)_API Calls with React Hooks_
 
 **Code Snippet
- —** Class Component API calling Code
+—** Class Component API calling Code
 
 ```javascript
 import React from "react";
@@ -84,7 +83,7 @@ class GithubCommit extends React.Component {
     this.state = {
       commitHistory: [],
       page: 1,
-      isLoading: true
+      isLoading: true,
     };
     this.loadMoreCommit = this.loadMoreCommit.bind(this);
   }
@@ -97,7 +96,7 @@ class GithubCommit extends React.Component {
     const { page } = this.state;
     this.setState(
       {
-        page: page + 1
+        page: page + 1,
       },
       () => this.loadCommitHistory()
     );
@@ -111,15 +110,15 @@ class GithubCommit extends React.Component {
       {
         method: "GET",
         headers: new Headers({
-          Accept: "application/vnd.github.cloak-preview"
-        })
+          Accept: "application/vnd.github.cloak-preview",
+        }),
       }
     )
-      .then(res => res.json())
-      .then(response =>
+      .then((res) => res.json())
+      .then((response) =>
         this.setState({ commitHistory: response.items, isLoading: false })
       )
-      .catch(error => console.log(error));
+      .catch((error) => console.log(error));
   }
 
   render() {
@@ -158,6 +157,7 @@ class GithubCommit extends React.Component {
 const rootElement = document.getElementById("root");
 ReactDOM.render(<GithubCommit />, rootElement);
 ```
+
 — Hooks API calling Code
 
 ```javascript
@@ -181,16 +181,16 @@ function GithubCommit() {
       {
         method: "GET",
         headers: new Headers({
-          Accept: "application/vnd.github.cloak-preview"
-        })
+          Accept: "application/vnd.github.cloak-preview",
+        }),
       }
     )
-      .then(res => res.json())
-      .then(response => {
+      .then((res) => res.json())
+      .then((response) => {
         setCommitHistory(response.items);
         setIsLoading(false);
       })
-      .catch(error => console.log(error));
+      .catch((error) => console.log(error));
   }, [page]);
 
   return (
@@ -238,6 +238,7 @@ Here are the rules you should keep in mind while working with React Hooks
 Thus this is how React Hooks can be useful in making API calls, sometimes we have to convert a functional component into a class component only because of not being able to manage the state inside the functional component.
 
 **Reference**
+
 - [https://reactjs.org/](https://reactjs.org/)
 
 Happy Learning 💻 😄

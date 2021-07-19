@@ -1,18 +1,14 @@
 ---
-date: 2020-03-23
-title: 'Publishing Github package as NPM Module'
-template: post
-thumbnail: '../thumbnails/github.png'
-slug: publishing-github-package-with-actions
-categories:
-  - Popular
-  - Typescript
-  - Javascript
+layout: blog
+category: blog
+Title: publish typescript module to github
+summary: publish typescript module to github
 tags:
-  - Typescript
-  - Javascript
+  - Graphql
+  - nestjs
+  - nodejs
+  - express
 ---
-
 
 Github package repository is where you can publish npm, gem, mvn, nuget, gradle, docker packages and is currently now in beta. In this tutorial, we will see how we can publish an npm package to the github package respository.
 
@@ -20,17 +16,16 @@ Github package repository is where you can publish npm, gem, mvn, nuget, gradle,
 
 - Create a github repository in which you will be publishing the package.
 
-
-Lets make your package.json ready
----------------------------------
+## Lets make your package.json ready
 
 Amend the repository to the ssh URL of the repo (e.g. git@github.com:tkssharma/package-name.git). You can find this by using the ‘Clone or download’ button using the ‘Clone with SSH’ option.
 
 Update the name of the package. This must match the repo URL but with @tksssharma rather than just tkssharma (e.g. git@github.com:tkssharma/package-name.git becomes @tkssharma/package-name).
 
-``Add a description for the package``.
+`Add a description for the package`.
 
-You must not change or remove the URL in publishConfig. That ensures that the package is published on ``GitHub rather than npmjs.com``.
+You must not change or remove the URL in publishConfig. That ensures that the package is published on `GitHub rather than npmjs.com`.
+
 ```json
   "name": "@tkssharma/package-name",
   "publishConfig": {
@@ -39,7 +34,7 @@ You must not change or remove the URL in publishConfig. That ensures that the pa
   "repository": {
     "url": "git@github.com:tkssharma/package-name.git"
   }
-```  
+```
 
 - Lets check on package.json
 
@@ -52,10 +47,7 @@ You must not change or remove the URL in publishConfig. That ensures that the pa
     "@types/node": "^13.9.0",
     "typescript": "^3.8.3"
   },
-  "keywords": [
-    "typescript",
-    "package"
-  ],
+  "keywords": ["typescript", "package"],
   "main": "lib/index.js",
   "name": "@tkssharma/package-name",
   "publishConfig": {
@@ -73,28 +65,30 @@ You must not change or remove the URL in publishConfig. That ensures that the pa
   "version": "1.0.0"
 }
 ```
+
 Login to the github npm registry from the console using the below command
+
 ```bash
     npm login --registry=https://npm.pkg.github.com --scope=@tkssharma
 ```
+
 @tkssharma is the username of your github account.
 Executing this query will ask for username and password. Username is your github username. Password is Personal Access Token which can be generated from your github account settings page.
 
 Run npm publish command from the project directory. This will publish your node.js project as npm module to github repository. The github repository link is @tkssharma/packages . The module will be published in the scoped mode.
 
-
 Now the module can be installed by anyone from this repository. To do this, the user who intends to install the module should set the npm registry in .npmrc file as registry=https://npm.pkg.github.com/github_user . Once this configuration is done, the npm module can be installed by running the command npm install @tkssharma/npm_module_name
 
+- host npm source code in GitHub
 
-* host npm source code in GitHub
+- host npm package (both publicly and privately) in [Github Packages](https://github.com/features/packages)
 
-* host npm package (both publicly and privately) in [Github Packages](https://github.com/features/packages)
+- build, version and publish a npm package via [GitHub Actions](https://github.com/features/actions)
 
-* build, version and publish a npm package via [GitHub Actions](https://github.com/features/actions)
-
-* Install GitHub hosted npm package in your project
+- Install GitHub hosted npm package in your project
 
 We will use yarn as the package management tool (in most of the cases). You can replace it with npm and get the same result.
+
 ### Host NPM package in Github Packages
 
 The NPM package hosted by GitHub is [scoped](https://docs.npmjs.com/about-scopes) with your GitHub account name: @github-username/package-name. This can be set by the name attribute in package.json.
@@ -102,18 +96,20 @@ The NPM package hosted by GitHub is [scoped](https://docs.npmjs.com/about-scopes
 It supports both public and private package (based on your GitHub repo is public or private).
 
 The NPM publishing destination (rather than the default npmjs.com) is controlled by publishConfig setting in package.json:
+
 ```json
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
       }
 ```
+
 If you want to publish from your local machine, please follow the steps:
 
-1. You need a **Personal access token** from GitHub to be used as password on command line. It can be generated from *Settings > Developer settings > Personal access tokens* with correct permissions (at least read:packages, write:packages and repo, delete:packages optional).
+1. You need a **Personal access token** from GitHub to be used as password on command line. It can be generated from _Settings > Developer settings > Personal access tokens_ with correct permissions (at least read:packages, write:packages and repo, delete:packages optional).
 
-1. Run ``npm login --registry=https://npm.pkg.github.com`` and follow the prompt. (Note that yarn login doesn’t support specifying registry :( )
+1. Run `npm login --registry=https://npm.pkg.github.com` and follow the prompt. (Note that yarn login doesn’t support specifying registry :( )
 
-1. Run ``yarn publish``
+1. Run `yarn publish`
 
 (You only need to do steps 1 and 2 once and the authentication details will be stored in your ~/.npmrc).
 
@@ -125,10 +121,10 @@ If you want to publish from your local machine, please follow the steps:
 
 1. You cannot delete a public package yourself (similarly, npmjs only supports to delete a public package within 72 hours).
 
-
 ### Build, Version and Publish NPM package via GitHub Actions
 
 Place this publish.yml under .github/workflows/publish.yml:
+
 ```yaml
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
 # For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
@@ -136,9 +132,9 @@ Place this publish.yml under .github/workflows/publish.yml:
 name: Node.js Package deploy
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   build:
@@ -167,8 +163,8 @@ jobs:
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
 ```
+
 **Notes**:
 
 1. Remember to replace scope with your own GitHub account name
@@ -183,7 +179,7 @@ jobs:
 
 ### Install GitHub hosted NPM package in your project
 
-A project level ``.npmrc`` is required, so package manager knows where to download the package:
+A project level `.npmrc` is required, so package manager knows where to download the package:
 
     @tkssharma:registry=https://npm.pkg.github.com
 
