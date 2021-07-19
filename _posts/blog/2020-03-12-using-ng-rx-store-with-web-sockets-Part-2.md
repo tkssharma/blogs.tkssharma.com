@@ -1,5 +1,5 @@
 ---
-date: 2020-03-012
+date: 2020-03-12
 title: 'Using ngRx/Store with WebSockets | Angular Application-Part-2'
 template: post
 thumbnail: '../thumbnails/angular.png'
