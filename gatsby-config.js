@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'tkssharma',
+    title: 'Tarun Sharma',
     author: {
-      name: 'tkssharma',
+      name: 'Tarun Sharma',
     },
     pathPrefix: '/',
     siteUrl: 'https://www.tkssharma.com',
