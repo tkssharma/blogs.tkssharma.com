@@ -1,5 +1,5 @@
 ---
-date: 2019-12-23
+date: 2019-01-01
 title: 'My experience of taking Javascript Interviews | How to be a good Developer for Jobs'
 topic: 'My experience of taking Javascript Interviews | How to be a good Developer for Jobs'
 description: 'My experience of taking Javascript Interviews | How to be a good Developer for Jobs'
