@@ -10,7 +10,7 @@ export default function Nav() {
             <Link to="/" className="brand">
               <span className="emoji">
               </span>{' '}
-              tkssharma
+              Tarun Sharma
             </Link>
           </div>
 
@@ -52,7 +52,7 @@ export default function Nav() {
               }}
             >
               {typeof window !== 'undefined' &&
-              localStorage.getItem('theme') === 'dark'
+                localStorage.getItem('theme') === 'dark'
                 ? '☀️'
                 : '🌙'}
             </button>
