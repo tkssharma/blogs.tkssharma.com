@@ -55,7 +55,7 @@ export default function BlogIndex({ data }) {
     <Layout>
       <Helmet title={config.siteTitle} />
       <SEO />
-      <Blurb title="I'm tkssharma.">
+      <Blurb title="I'm Tarun.">
         <p>
           I'm a software engineer and writer. This website is my digital garden
           &mdash; a compendium of the things I've learned and created over the
