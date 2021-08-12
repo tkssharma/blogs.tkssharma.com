@@ -1,8 +1,8 @@
 ---
 date: 2019-01-05
 title: 'Learn typescript from basics'
-topic: 'Learn typescript from basics''
-description: 'Learn typescript from basics''
+topic: 'Learn typescript from basics'
+description: 'Learn typescript from basics'
 template: post
 thumbnail: '../thumbnails/js.png'
 slug: typescript-style-guide-developers
