@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tarun Sharma',
+    title: 'Blogs from Tarun Sharma',
     author: {
-      name: 'Tarun Sharma',
+      name: 'Blogs from Tarun Sharma',
     },
     pathPrefix: '/',
-    siteUrl: 'https://www.tkssharma.com',
+    siteUrl: 'https://blogs.tkssharma.com',
     description:
       'Software engineer and open-source creator. This is my digital garden.',
-    feedUrl: 'https://www.tkssharma.com/rss.xml',
-    logo: 'https://www.tkssharma.com/logo.png',
+    feedUrl: 'https://blogs.tkssharma.com/rss.xml',
+    logo: 'https://blogs.tkssharma.com/logo.png',
   },
   plugins: [
     // ===================================================================================
