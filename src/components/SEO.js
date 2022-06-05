@@ -19,8 +19,13 @@ export default function SEO({
     title = postMeta.title
     description = postNode.excerpt
 
+
     if (postMeta.thumbnail) {
       image = postMeta.thumbnail.childImageSharp.fixed.src
+    }
+
+    if (postMeta.featuredImage) {
+      image = postMeta.featuredImage.childImageSharp.fixed.src
     }
 
     postURL = `${config.siteUrl}${postPath}`

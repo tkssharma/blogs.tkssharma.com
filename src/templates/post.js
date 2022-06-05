@@ -13,6 +13,7 @@ import { slugify } from '../utils/helpers'
 
 export default function PostTemplate({ data, pageContext }) {
   const post = data.markdownRemark
+  console.log(post);
   const { previous, next } = pageContext
   const { tags, thumbnail, title, description, date } = post.frontmatter
   const commentBox = React.createRef()
@@ -137,6 +138,13 @@ export const pageQuery = graphql`
         thumbnail {
           childImageSharp {
             fixed(width: 150, height: 150) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+        }
+        featuredImage {
+          childImageSharp {
+            fixed(width: 800, height: 400) {
               ...GatsbyImageSharpFixed
             }
           }
