@@ -2,7 +2,7 @@
 date: 2022-06-01
 title: 'unbox react 18 features, what is new'
 topic: 'unbox react 18 features, what is new'
-description: 'Let's explore react 18 features'
+description: 'Lets explore react 18 features'
 template: post
 thumbnail: '../thumbnails/react.png'
 slug: react-18-features-list
