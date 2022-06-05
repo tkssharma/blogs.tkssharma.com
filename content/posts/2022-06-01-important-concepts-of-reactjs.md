@@ -7,7 +7,7 @@ template: post
 thumbnail: '../thumbnails/react.png'
 slug: concepts-you-should-know-react-js
 categories:
-  - post
+  - Guides
 tag:
   - Javascript
   - react

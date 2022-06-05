@@ -7,7 +7,7 @@ template: post
 thumbnail: '../thumbnails/react.png'
 slug: react-18-features-list
 categories:
-  - post
+  - Guides
 tag:
   - Javascript
   - react
