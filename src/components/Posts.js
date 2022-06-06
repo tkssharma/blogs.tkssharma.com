@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react'
 import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 
 const Cell = ({ node }) => {
   const date = new Date(node.date)
@@ -25,6 +26,12 @@ const Cell = ({ node }) => {
     <div className="post" key={node.id}>
       <Link to={node.slug}>
         <div className="post-row">
+          {node.thumbnail && (
+            <Img
+              fixed={node.thumbnail}
+              style={{ marginRight: '1rem', minWidth: '25px' }}
+            />
+          )}
           {formattedDate && <time>{formattedDate}</time>}
           <h3>{node.title}</h3>
         </div>

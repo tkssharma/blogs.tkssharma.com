@@ -22,6 +22,8 @@ export default function BlogIndex({ data }) {
   const simplifiedPopular = useMemo(() => getSimplifiedPosts(popular), [
     popular,
   ])
+  console.log(simplifiedLatest);
+  console.log(simplifiedPopular);
 
   useEffect(() => {
     async function getGithubAPI() {
@@ -141,6 +143,13 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             tags
+            thumbnail {
+              childImageSharp {
+                fixed(width: 25, height: 25) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+            }
           }
         }
       }
@@ -160,6 +169,13 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             tags
+            thumbnail {
+              childImageSharp {
+                fixed(width: 25, height: 25) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+            }
           }
         }
       }
