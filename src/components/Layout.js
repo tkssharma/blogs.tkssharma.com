@@ -11,6 +11,8 @@ export default function Layout({ children }) {
   return (
     <>
       <Helmet>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4650067392768536"
+          crossorigin="anonymous"></script>
       </Helmet>
       <Nav />
       <main>{children}</main>

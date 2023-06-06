@@ -13,22 +13,6 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-sitemap',
-    {
-      resolve: `gatsby-plugin-advanced-sitemap`,
-      options: {
-        exclude: [
-          `/dev-404-page`,
-          `/404`,
-          `/404.html`,
-          `/tags`,
-          `/assets`,
-          `/loading`,
-          `/offline-plugin-app-shell-fallback`,
-        ],
-        createLinkInHead: true,
-        addUncaughtPages: true,
-      }
-    },
     // ===================================================================================
     // Meta
     // ===================================================================================
