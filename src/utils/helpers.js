@@ -1,7 +1,5 @@
 export function getSimplifiedPosts(posts, options = {}) {
   return posts.map((post) => {
-    console.log(post.node.frontmatter);
-
     return ({
       id: post.node.id,
       date: post.node.frontmatter.date,

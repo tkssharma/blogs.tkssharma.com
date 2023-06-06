@@ -1,5 +1,7 @@
 const path = require('path')
 
+const siteConfig = require('./data/SiteConfig');
+const publicationsData = require('./data/publications');
 const createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
@@ -7,7 +9,113 @@ const createPages = async ({ graphql, actions }) => {
   const pagePage = path.resolve('./src/templates/page.js')
   const tagPage = path.resolve('./src/templates/tag.js')
   const categoryPage = path.resolve('./src/templates/category.js')
+  const publications = path.resolve('src/templates/youtube.js')
+  const publicationVideo = path.resolve('src/templates/youtubeVideo.js')
+  const YouTubeVideoData = require('./content/json/masterData.json');
 
+  const postNodes = []
+  const replaceAll = (searchString, replaceString, str) => {
+    return str.split(searchString).join(replaceString);
+  }
+
+  const transform = str => {
+    const title = str
+      .replace(/[^a-zA-Z0-9 ]/g, '')
+      .toLowerCase().replace(/\s+/g, ' ')
+      .trim()
+    return title.split(' ').join('-');
+  }
+
+  function addSiblingNodes(createNodeField) {
+    postNodes.sort(({ frontmatter: { date: date1 } }, { frontmatter: { date: date2 } }) => {
+      const dateA = moment(date1, siteConfig.dateFromFormat)
+      const dateB = moment(date2, siteConfig.dateFromFormat)
+
+      if (dateA.isBefore(dateB)) return 1
+      if (dateB.isBefore(dateA)) return -1
+
+      return 0
+    })
+
+    for (let i = 0; i < postNodes.length; i += 1) {
+      const nextID = i + 1 < postNodes.length ? i + 1 : 0
+      const prevID = i - 1 >= 0 ? i - 1 : postNodes.length - 1
+      const currNode = postNodes[i]
+      const nextNode = postNodes[nextID]
+      const prevNode = postNodes[prevID]
+
+      createNodeField({
+        node: currNode,
+        name: 'nextTitle',
+        value: nextNode.frontmatter.title,
+      })
+
+      createNodeField({
+        node: currNode,
+        name: 'nextSlug',
+        value: nextNode.fields.slug,
+      })
+
+      createNodeField({
+        node: currNode,
+        name: 'prevTitle',
+        value: prevNode.frontmatter.title,
+      })
+
+      createNodeField({
+        node: currNode,
+        name: 'prevSlug',
+        value: prevNode.fields.slug,
+      })
+    }
+  }
+
+  exports.onCreateNode = ({ node, actions, getNode }) => {
+    const { createNodeField } = actions
+    let slug
+
+    if (node.internal.type === 'MarkdownRemark') {
+      const fileNode = getNode(node.parent)
+      const parsedFilePath = path.parse(fileNode.relativePath)
+
+      if (
+        Object.prototype.hasOwnProperty.call(node, 'frontmatter') &&
+        Object.prototype.hasOwnProperty.call(node.frontmatter, 'title')
+      ) {
+        slug = `/${kebabCase(node.frontmatter.title)}/`
+      } else if (parsedFilePath.name !== 'index' && parsedFilePath.dir !== '') {
+        slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`
+      } else if (parsedFilePath.dir === '') {
+        slug = `/${parsedFilePath.name}/`
+      } else {
+        slug = `/${parsedFilePath.dir}/`
+      }
+
+      if (Object.prototype.hasOwnProperty.call(node, 'frontmatter')) {
+        if (Object.prototype.hasOwnProperty.call(node.frontmatter, 'slug'))
+          slug = `/${node.frontmatter.slug}/`
+        if (Object.prototype.hasOwnProperty.call(node.frontmatter, 'date')) {
+          const date = new Date(node.frontmatter.date)
+
+          createNodeField({
+            node,
+            name: 'date',
+            value: date.toISOString(),
+          })
+        }
+      }
+      createNodeField({ node, name: 'slug', value: slug })
+      postNodes.push(node)
+    }
+  }
+
+  exports.setFieldsOnGraphQLNodeType = ({ type, actions }) => {
+    const { name } = type
+    const { createNodeField } = actions
+    if (name === 'MarkdownRemark') {
+      addSiblingNodes(createNodeField)
+    }
+  }
   const result = await graphql(
     `
       {
@@ -113,6 +221,34 @@ const createPages = async ({ graphql, actions }) => {
       context: {
         category,
       },
+    })
+  })
+  publicationsData.YouTube.forEach((tag, index) => {
+    const key = tag.snippet.title && transform(tag.snippet.title);
+    const id = tag.id;
+    createPage({
+      path: `/${key}`,
+      component: publications,
+      context: {
+        key,
+        id
+      },
+    })
+  })
+  YouTubeVideoData.forEach((tag) => {
+    const values = tag.value;
+    values.forEach((page, index) => {
+      if (page && page.snippet && page.snippet.title) {
+        const key = page.snippet.title && transform(page.snippet.title);
+        createPage({
+          path: `/${key}`,
+          component: publicationVideo,
+          context: {
+            key,
+            data: page
+          },
+        })
+      }
     })
   })
 }

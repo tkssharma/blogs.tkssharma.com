@@ -18,7 +18,9 @@ export default function Nav() {
             <Link to="/blog">Blog</Link>
             <Link to="/guides">Guides</Link>
             <Link to="/projects">Projects</Link>
+            <Link to="/tutorials">Sessions</Link>
             <Link to="/resume/">Resume</Link>
+
           </div>
 
           <div className="button-item">

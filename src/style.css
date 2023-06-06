@@ -1656,3 +1656,245 @@ kbd {
   background: #3b5bdb;
   color: white;
 }
+
+.youtube {
+  display: flex;
+  list-style: none;
+  margin-bottom: 10px;
+  position: relative;
+  margin: 0px;
+  padding: 10px;
+  flex-basis: 33%;
+}
+.youtube::before {
+  content: '';
+}
+.youtube:hover {
+  border-bottom: 1px solid transparent;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
+}
+.youtube__content {
+  text-align: center;
+  flex: 1 1;
+}
+.youtube__content__description {
+  font-size: 1rem;
+  padding: 0.75rem 0;
+  margin: 0;
+}
+.youtube__item {
+  text-align: center;
+}
+.youtube__img {
+  width: 80%;
+  margin: 20px;
+}
+.youtube-container .channel-banner {
+  -ms-flex-preferred-size: 16vw;
+  -ms-flex-pack: end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  background-size: cover;
+  display: -ms-flexbox;
+  display: flex;
+  flex-basis: 16vw;
+  height: 300px;
+  justify-content: flex-end;
+  padding: 1.6rem
+}
+
+
+
+.youtube-container .card-container {
+  -webkit-box-shadow: 0 1px 1px 0 #ccc;
+  box-shadow: 0 1px 1px 0 #ccc;
+  color: #000;
+  display: inline-block;
+  font-size: 16px;
+  margin: 26px auto 0;
+  max-width: 308px;
+  min-width: 230px;
+  overflow: hidden;
+  position: relative;
+  text-align: left;
+  width: 100%
+}
+
+.youtube-container .card-container * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .25s ease;
+  transition: all .25s ease
+}
+
+.youtube-container .card-container:before {
+  bottom: 10px;
+  content: "";
+  left: 10px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  -webkit-transition: all .25s ease;
+  transition: all .25s ease;
+  -webkit-transition-delay: .25s;
+  transition-delay: .25s
+}
+
+.youtube-container .card-container a {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1
+}
+
+.youtube-container .card {
+  -webkit-box-shadow: 0 1px 1px 0 #ccc;
+  box-shadow: 0 1px 1px 0 #ccc;
+  height: 323px;
+  padding: 0
+}
+
+.youtube-container .card-hero-img {
+  height: 163px;
+  width: 100%
+}
+
+.youtube-container .card-heading-container {
+  -ms-flex-align: center;
+  align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 19px 19px 0
+}
+
+.youtube-container .card-social-icon {
+  border-radius: 50px;
+  max-width: 45px;
+  padding: 0
+}
+
+.youtube-container .card-title-container {
+  padding-left: 10px;
+  text-align: left
+}
+
+.youtube-container h3.card-title {
+  color: #3a3a3a;
+  font-family: arial;
+  font-size: 23px;
+  font-weight: 700;
+  margin: 0
+}
+
+.youtube-container .card-sub-title {
+  color: #adadad;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 0
+}
+
+.youtube-container .icon-container {
+  bottom: 0;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  width: 100%
+}
+
+.youtube-container .card-text-container {
+  position: relative
+}
+
+.youtube-container .card-text {
+  color: #3a3a3a;
+  font-family: arial;
+  font-size: 12px;
+  line-height: 1.584;
+  margin: 0;
+  padding: 19px;
+  text-align: left
+}
+
+.youtube-container .far.fa-heart,
+.youtube-container .fas.fa-heart {
+  color: #2a8631;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 0 19px 19px;
+  z-index: 9999999
+}
+
+.youtube-container .far.fa-heart,
+.youtube-container .fas.fa-heart:hover {
+  cursor: pointer
+}
+
+.youtube-container .heart-liked-text {
+  color: #f6f6f6;
+  display: inline-block;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 1px 0 0;
+  padding-left: 10px;
+  text-transform: uppercase;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out
+}
+
+.youtube-container .liked {
+  color: #ed1965
+}
+
+@media(max-width:800px) {
+  .youtube-container h3.card-title {
+    font-size: 18px
+  }
+
+  .youtube-container .card-sub-title,
+  .youtube-container .card-text {
+    font-size: 12px
+  }
+}
+
+.youtube-container .youtube-bg {
+  height: 300px
+}
+
+@media screen and (max-width:480px) {
+  .youtube-container .youtube-bg {
+    height: 200px !important
+  }
+}
+
+.youtube-container .carousel {
+  margin: auto
+}
+
+@media(min-width:400px) {
+  .youtube-container .carousel {
+    max-width: 300px
+  }
+}
+
+.mt-20 {
+  margin-top: 20px !important;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+@media(min-width:620px) {
+  .youtube-container .carousel {
+    max-width: 700px
+  }
+}
+
+@media(min-width:1200px) {
+  .youtube-container .carousel {
+    max-width: 1024px
+  }
+}
