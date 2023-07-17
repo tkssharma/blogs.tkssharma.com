@@ -22,7 +22,7 @@ export default function Guides({ data, frontPage, includeTime }) {
         return (
           <div className="guide" key={guide.id}>
             <div className="guide-section">
-              <Link to={`/${key}`} key={key}>
+              <Link to={`/course-on-${key}`} key={key}>
                 <h2>{guide.snippet.title}</h2>
                 {includeTime && <time>{guide.date}</time>}
                 {guide.tags && (
@@ -41,7 +41,7 @@ export default function Guides({ data, frontPage, includeTime }) {
               </Link>
               {guide.snippet.description && <p>{guide.snippet.description.substring(0, 200)}</p>}
             </div>
-            <Link to={`/${key}`} key={key} className="image-section">
+            <Link to={`/course-on-${key}`} key={key} className="image-section">
               {guide.snippet?.thumbnails?.high?.url ? (
                 <img
                   src={guide.snippet?.thumbnails?.high?.url}

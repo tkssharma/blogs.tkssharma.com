@@ -227,7 +227,7 @@ const createPages = async ({ graphql, actions }) => {
     const key = tag.snippet.title && transform(tag.snippet.title);
     const id = tag.id;
     createPage({
-      path: `/${key}`,
+      path: `/course-on-${key}`,
       component: publications,
       context: {
         key,
@@ -241,7 +241,7 @@ const createPages = async ({ graphql, actions }) => {
       if (page && page.snippet && page.snippet.title) {
         const key = page.snippet.title && transform(page.snippet.title);
         createPage({
-          path: `/${key}`,
+          path: `/course-on-${key}`,
           component: publicationVideo,
           context: {
             key,
