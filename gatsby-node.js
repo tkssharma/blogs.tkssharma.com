@@ -235,23 +235,24 @@ const createPages = async ({ graphql, actions }) => {
       },
     })
   })
-
-  YouTubeVideoData.forEach((tag) => {
-    const values = tag.value;
-    values.forEach((page, index) => {
-      if (page && page.snippet && page.snippet.title) {
-        const key = page.snippet.title && transform(page.snippet.title);
-        createPage({
-          path: `/course-on-${key}`,
-          component: publicationVideo,
-          context: {
-            key,
-            data: page
-          },
-        })
-      }
-    })
-  })
+  /*
+ YouTubeVideoData.forEach((tag) => {
+   const values = tag.value;
+   values.forEach((page, index) => {
+     if (page && page.snippet && page.snippet.title) {
+       const key = page.snippet.title && transform(page.snippet.title);
+       createPage({
+         path: `/course-on-${key}`,
+         component: publicationVideo,
+         context: {
+           key,
+           data: page
+         },
+       })
+     }
+   })
+ })
+ */
 }
 
 const createNode = ({ node, actions, getNode }) => {
