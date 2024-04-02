@@ -235,6 +235,7 @@ const createPages = async ({ graphql, actions }) => {
       },
     })
   })
+
   YouTubeVideoData.forEach((tag) => {
     const values = tag.value;
     values.forEach((page, index) => {
