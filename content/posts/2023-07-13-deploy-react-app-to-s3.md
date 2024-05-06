@@ -1,5 +1,5 @@
 ---
-date: 2023-12-11
+date: 2023-12-13
 title: 'How to Deploy React App to S3 Bucket'
 template: post
 featuredImage: '../thumbnails/aws.png'

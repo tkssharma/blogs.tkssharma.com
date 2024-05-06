@@ -1,5 +1,5 @@
 ---
-date: 2023-06-01
+date: 2023-06-04
 title: 'Building REST APIs using Mongo DB and Nest JS Part-1'
 template: post
 featuredImage: '../thumbnails/nestjs.png'

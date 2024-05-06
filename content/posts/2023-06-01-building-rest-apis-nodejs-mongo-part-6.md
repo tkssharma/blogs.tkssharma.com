@@ -1,5 +1,5 @@
 ---
-date: 2023-06-06
+date: 2023-06-01
 title: 'Nest JS User registration with Sendgrid email Integration Part-6 '
 template: post
 featuredImage: '../thumbnails/nestjs.png'

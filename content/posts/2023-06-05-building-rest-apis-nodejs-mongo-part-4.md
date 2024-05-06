@@ -1,5 +1,5 @@
 ---
-date: 2023-06-04
+date: 2023-06-05
 title: 'Nest JS with Mongo DB Managing Relationships Part-4'
 template: post
 thumbnail: '../thumbnails/nestjs.png'

@@ -1,5 +1,5 @@
 ---
-date: 2023-12-10
+date: 2023-12-12
 title: 'How To Work With Multiple Github Accounts on a single Machine'
 template: post
 featuredImage: '../thumbnails/github.png'

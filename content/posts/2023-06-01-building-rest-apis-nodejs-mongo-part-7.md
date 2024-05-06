@@ -1,5 +1,5 @@
 ---
-date: 2023-06-07
+date: 2023-06-01
 title: 'Nest JS Writing Test cases for controller and services Part-7'
 template: post
 featuredImage: '../thumbnails/nestjs.png'
