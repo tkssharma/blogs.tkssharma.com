@@ -12,7 +12,6 @@ export default function Guides({ data, frontPage, includeTime }) {
   const link = 'http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg';
 
   const articles = pubs[0][1]
-  console.log(articles);
 
   return (
     <div className={frontPage ? 'guides front-page' : 'guides'}>

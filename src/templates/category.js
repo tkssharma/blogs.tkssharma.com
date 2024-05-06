@@ -9,8 +9,6 @@ import { getSimplifiedPosts } from '../utils/helpers'
 import config from '../utils/config'
 
 export default function CategoryTemplate({ data, pageContext }) {
-  console.log(pageContext)
-  console.log(data)
   let { category } = pageContext
   const { totalCount } = data.allMarkdownRemark
   const posts = data.allMarkdownRemark.edges

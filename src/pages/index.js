@@ -22,9 +22,6 @@ export default function BlogIndex({ data }) {
   const simplifiedPopular = useMemo(() => getSimplifiedPosts(popular), [
     popular,
   ])
-  console.log(simplifiedLatest);
-  console.log(simplifiedPopular);
-
   useEffect(() => {
     async function getGithubAPI() {
       // If you fork this and don't change this, I will find you
