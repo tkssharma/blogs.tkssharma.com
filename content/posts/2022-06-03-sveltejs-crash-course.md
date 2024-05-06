@@ -4,7 +4,6 @@ title: 'Svelte JS Crash course'
 topic: 'Svelte JS Crash course'
 description: 'Svelte JS Crash course'
 template: post
-featuredImage: '../thumbnails/sevelte-banner-beginner.png'
 thumbnail: '../thumbnails/sveltejs.png'
 slug: sveltejs-guide-for-developers
 categories:

@@ -2,7 +2,6 @@
 date: 2023-06-04
 title: 'Nest JS with Mongo DB Managing Relationships Part-4'
 template: post
-featuredImage: '../thumbnails/nestjs.png'
 thumbnail: '../thumbnails/nestjs.png'
 slug: building-nestjs-apis-with-mongodb-relationships
 categories:

@@ -4,7 +4,6 @@ title: 'Javascript Style Guide ES5 write better Code?'
 topic: 'Javascript Style Guide ES5 write better Code?'
 description: 'Javascript Style Guide ES5 write better Code?'
 template: post
-featuredImage: '../thumbnails/nestjs.png'
 thumbnail: '../thumbnails/js.png'
 slug: js-style-guide-javascript
 categories:
