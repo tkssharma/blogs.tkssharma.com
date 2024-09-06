@@ -1,6 +1,349 @@
 module.exports = {
   YouTube: [
-
+    {
+      "kind": "youtube#playlist",
+      "etag": "h-fiGwWnqETGiPqmw6IYXZ4C1uY",
+      "id": "PLIGDNOJWiL1_4oKD4yLNnT85Pstu97xrp",
+      "snippet": {
+        "publishedAt": "2024-08-30T15:48:57Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Microservices Different Authentication Methods",
+        "description": "Microservices Different Authentication Methods",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5PBMBSiubp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5PBMBSiubp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5PBMBSiubp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5PBMBSiubp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5PBMBSiubp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Microservices Different Authentication Methods",
+          "description": "Microservices Different Authentication Methods"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vs2o28I3g0VN5QQnxErMpdOKcb0",
+      "id": "PLIGDNOJWiL19UskM2cJb_CwtN5Vc_bfht",
+      "snippet": {
+        "publishedAt": "2024-07-26T02:17:10Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Nestjs Testing Tutorials || 2024",
+        "description": "Nestjs Testing Tutorials || 2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kv_pCCAmiLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kv_pCCAmiLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kv_pCCAmiLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kv_pCCAmiLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kv_pCCAmiLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Nestjs Testing Tutorials || 2024",
+          "description": "Nestjs Testing Tutorials || 2024"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rHnTEc6ZthbaVPaEbl9fEOJ2ZLY",
+      "id": "PLIGDNOJWiL18ucL7WGWeVjXmSzOVTRObE",
+      "snippet": {
+        "publishedAt": "2024-07-08T09:08:34Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Publish Packages to Github, NPM",
+        "description": "Publish Packages to Github, NPM\nhttps://github.com/tkssharma/publish-packages",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lVze5eT5DQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lVze5eT5DQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lVze5eT5DQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lVze5eT5DQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lVze5eT5DQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Publish Packages to Github, NPM",
+          "description": "Publish Packages to Github, NPM\nhttps://github.com/tkssharma/publish-packages"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "anMNOClrKZAEclk40I90IOxFaV4",
+      "id": "PLIGDNOJWiL19tboY7wTzz6_RY6h2gpNrH",
+      "snippet": {
+        "publishedAt": "2023-10-18T04:57:01Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Building Microservices and deploying for SAAS Product",
+        "description": "Building Microservices and deploying for SAAS Product",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aP55ZJNBM38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aP55ZJNBM38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aP55ZJNBM38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aP55ZJNBM38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aP55ZJNBM38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Building Microservices and deploying for SAAS Product",
+          "description": "Building Microservices and deploying for SAAS Product"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "BuveJe46sXX5eGaNs2LTBsERj5c",
+      "id": "PLIGDNOJWiL1_71ZCML1Kys3kaKVIe2vQQ",
+      "snippet": {
+        "publishedAt": "2023-09-22T10:18:06Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Udemy Clone Full Stack Application end to end",
+        "description": "Udemy Clone Full Stack Application end to end",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XbDD4hJgEX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XbDD4hJgEX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XbDD4hJgEX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XbDD4hJgEX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XbDD4hJgEX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Udemy Clone Full Stack Application end to end",
+          "description": "Udemy Clone Full Stack Application end to end"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wnRDaFyN5nHryRdnhGh4IO27NfA",
+      "id": "PLIGDNOJWiL1_0e7IoPEfyXALW9YCspfQl",
+      "snippet": {
+        "publishedAt": "2023-05-24T18:52:07Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Build Modern apps from Ground Zero to Hero",
+        "description": "Build Modern apps from Ground Zero to Hero",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mcKehVNjXw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mcKehVNjXw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mcKehVNjXw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mcKehVNjXw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mcKehVNjXw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Build Modern apps from Ground Zero to Hero",
+          "description": "Build Modern apps from Ground Zero to Hero"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "h33wkEUeSCpWCbCxJN0yxBc_Ku0",
+      "id": "PLIGDNOJWiL1-yZICTOl87RGTmWOULINfK",
+      "snippet": {
+        "publishedAt": "2023-05-21T07:05:54Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "T3 Stack  - Modern Application Stack",
+        "description": "T3 Stack  - Modern Application Stack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kFaJ2_SvE7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kFaJ2_SvE7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kFaJ2_SvE7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kFaJ2_SvE7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kFaJ2_SvE7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "T3 Stack  - Modern Application Stack",
+          "description": "T3 Stack  - Modern Application Stack"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "4ZBgj7CiIDNL7bOCTP8CKipgZ7U",
+      "id": "PLIGDNOJWiL1-j3FlkaBO5VjJWA3T5io6g",
+      "snippet": {
+        "publishedAt": "2023-05-20T21:22:04Z",
+        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
+        "title": "Airbnb FullStack Clone Using Nex JS & Prisma",
+        "description": "Airbnb FullStack Clone Using Nex JS & Prisma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nECZn7wXNnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nECZn7wXNnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nECZn7wXNnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nECZn7wXNnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nECZn7wXNnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code with tkssharma",
+        "localized": {
+          "title": "Airbnb FullStack Clone Using Nex JS & Prisma",
+          "description": "Airbnb FullStack Clone Using Nex JS & Prisma"
+        }
+      }
+    },
     {
       "kind": "youtube#playlist",
       "etag": "oJ-PdN8KPkvJOhEDswCR1NjPRLs",
@@ -476,49 +819,6 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "BrHDN0iYGEj0e3uzyhNhF9-kSFw",
-      "id": "PLIGDNOJWiL1_AGS-CYloX_hRUe3tHc0f1",
-      "snippet": {
-        "publishedAt": "2023-01-26T07:04:10Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Code and Learn 2023",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qq28SH6TYTI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qq28SH6TYTI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qq28SH6TYTI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qq28SH6TYTI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qq28SH6TYTI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Code and Learn 2023",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "-eEVzJ6GRwxs5sQFGy3dlyQmDyQ",
       "id": "PLIGDNOJWiL188A6n7PXYOTOTJKynGhK35",
       "snippet": {
@@ -734,12 +1034,12 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "aUueSY44XGRdXsLJx3M0afMszz4",
+      "etag": "QtXakvMGMjdFlSCrWNj_h9vuOZk",
       "id": "PLIGDNOJWiL1-8hpXEDlD1UrphjmZ9aMT1",
       "snippet": {
         "publishedAt": "2021-12-23T11:26:47Z",
         "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Nest JS Advanced Course",
+        "title": "Nest JS Advanced Course 2024",
         "description": "# Nest JS Advance Series 2022\nNestJS is based heavily on Angular, and uses Angular-like modules, services, controllers, pipes, and decorators. This allows NestJS to help developers create scalable, testable, loosely coupled, and easily maintainable applications. NestJS was built with TypeScript, but it can also support pure JavaScript development.\n\nNestJS offers a level of abstraction above two very popular Node.js frameworks, either Express.js or Fastify. This means that all of the great middleware that are available for Express.js and Fastify can also be used with NestJS.\n\n- Nest JS Microservices Setup -01\n- Nest JS DTO Validation\n- Nest JS Config Module\n- Nest JS CI/CD Setup with Heroku\n- Nest JS Migration Setup with Knex\n- Nest JS API caching\n- Nest JS with External Services Like Kafka and Elastic Search, or any database or Redis\n- Nest JS with Azure or S3 for upload and download files\n- Nest JS with SQS and SNS\n- Nest JS with Redis\n- Nest JS with other Microservices\n- Nest JS Request/Response Handling.\n- Nest JS handling Middleware for Routes\n- Nest JS Custom Response Interceptor\n- Nest JS Swagger for all type of Response and Error Codes\n- Nest JS with Rabbit MQ Microservices\n- Nest JS Logging on Heroku\n- Nest JS CQRS  @nestjs/cqrs\n- Nest JS CRUD using @nestjs/crud\n- Nest JS Types of Tests cases\n- Nest JS with Graphql\n- Nest JS with Prisma and Graphql\n- Nest JS with TypeORM or Sequelize\n- Nest JS with Prisma ORM\n- Nest JS with Sequelize  ORM\n- Nest JS with External services\n- Nest JS with Dynamic Modules\n- Nest JS with Mongoose for API development\n- Nest JS with Rollbar for External error  Logging\n- Nest JS auth and authz\n- Nest JS Dynamic Modules\n- Nest JS security\n- Nest JS with Nest JS Microservices Kafka, Grp, Rabbit MQ",
         "thumbnails": {
           "default": {
@@ -770,7 +1070,7 @@ module.exports = {
         },
         "channelTitle": "Code with tkssharma",
         "localized": {
-          "title": "Nest JS Advanced Course",
+          "title": "Nest JS Advanced Course 2024",
           "description": "# Nest JS Advance Series 2022\nNestJS is based heavily on Angular, and uses Angular-like modules, services, controllers, pipes, and decorators. This allows NestJS to help developers create scalable, testable, loosely coupled, and easily maintainable applications. NestJS was built with TypeScript, but it can also support pure JavaScript development.\n\nNestJS offers a level of abstraction above two very popular Node.js frameworks, either Express.js or Fastify. This means that all of the great middleware that are available for Express.js and Fastify can also be used with NestJS.\n\n- Nest JS Microservices Setup -01\n- Nest JS DTO Validation\n- Nest JS Config Module\n- Nest JS CI/CD Setup with Heroku\n- Nest JS Migration Setup with Knex\n- Nest JS API caching\n- Nest JS with External Services Like Kafka and Elastic Search, or any database or Redis\n- Nest JS with Azure or S3 for upload and download files\n- Nest JS with SQS and SNS\n- Nest JS with Redis\n- Nest JS with other Microservices\n- Nest JS Request/Response Handling.\n- Nest JS handling Middleware for Routes\n- Nest JS Custom Response Interceptor\n- Nest JS Swagger for all type of Response and Error Codes\n- Nest JS with Rabbit MQ Microservices\n- Nest JS Logging on Heroku\n- Nest JS CQRS  @nestjs/cqrs\n- Nest JS CRUD using @nestjs/crud\n- Nest JS Types of Tests cases\n- Nest JS with Graphql\n- Nest JS with Prisma and Graphql\n- Nest JS with TypeORM or Sequelize\n- Nest JS with Prisma ORM\n- Nest JS with Sequelize  ORM\n- Nest JS with External services\n- Nest JS with Dynamic Modules\n- Nest JS with Mongoose for API development\n- Nest JS with Rollbar for External error  Logging\n- Nest JS auth and authz\n- Nest JS Dynamic Modules\n- Nest JS security\n- Nest JS with Nest JS Microservices Kafka, Grp, Rabbit MQ"
         }
       }
@@ -981,3183 +1281,6 @@ module.exports = {
         "channelTitle": "Code with tkssharma",
         "localized": {
           "title": "Node JS with Prisma ORM",
-          "description": ""
-        }
-      }
-    },
-
-    {
-      "kind": "youtube#playlist",
-      "etag": "ZMWi9G1pFUN_HvjyArMZdyNhpCc",
-      "id": "PLT5Jhb7lgSBP6IwodkXgdpfcCYRW8f9UP",
-      "snippet": {
-        "publishedAt": "2023-05-14T06:30:02Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Master Full Stack Development with Applications",
-        "description": "Master Full Stack Development with Applications",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vOmgcmtZ0-8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vOmgcmtZ0-8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vOmgcmtZ0-8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vOmgcmtZ0-8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vOmgcmtZ0-8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Master Full Stack Development with Applications",
-          "description": "Master Full Stack Development with Applications"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "sywLc0QbdN-HAgCJOW2NLmU8QN0",
-      "id": "PLT5Jhb7lgSBNujQ5kM4gr6mgTHkCL-EM3",
-      "snippet": {
-        "publishedAt": "2023-05-08T09:24:43Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Build Full Stack Clone Booking.com Application",
-        "description": "Build Full Stack Clone Booking.com Application",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Build Full Stack Clone Booking.com Application",
-          "description": "Build Full Stack Clone Booking.com Application"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "CsfAutU85CilI5eJJWJp9e3hH8k",
-      "id": "PLT5Jhb7lgSBOVgLGZGco_tTyGyHi-XMaF",
-      "snippet": {
-        "publishedAt": "2023-04-19T19:49:23Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Full Stack Clone Stack Overflow Clone",
-        "description": "Full Stack Clone Stack Overflow Clone",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Full Stack Clone Stack Overflow Clone",
-          "description": "Full Stack Clone Stack Overflow Clone"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "01PDhDNrf-8eJN5gn1Bz_cIL-_4",
-      "id": "PLT5Jhb7lgSBN7ixSwrFocSD-dM3l5crbI",
-      "snippet": {
-        "publishedAt": "2023-03-30T10:31:43Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "How to Become Ninja Pro developer",
-        "description": "How to Become Ninja Pro developer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "How to Become Ninja Pro developer",
-          "description": "How to Become Ninja Pro developer"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ai_LDqvad4XZlmaGCADALlItqvw",
-      "id": "PLT5Jhb7lgSBO5xhwHD8QLC68tuPRliHPC",
-      "snippet": {
-        "publishedAt": "2023-03-28T16:58:01Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Udemy Clone App Full Stack Development",
-        "description": "Udemy Clone App Full Stack Development",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Udemy Clone App Full Stack Development",
-          "description": "Udemy Clone App Full Stack Development"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "w0HfwQeWPKIM79kx6qV5yPYmAJ4",
-      "id": "PLT5Jhb7lgSBMuxEkXfB8AgubNHCOy-zo0",
-      "snippet": {
-        "publishedAt": "2023-03-22T15:41:24Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Nest JS Microservices with Nx Monorepo",
-        "description": "Nest JS Microservices with Nx Monorepo",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Nest JS Microservices with Nx Monorepo",
-          "description": "Nest JS Microservices with Nx Monorepo"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "7ccoczWukbqSgZ93I7qErP-iEcQ",
-      "id": "PLT5Jhb7lgSBPTzeblwMiC5XIqhzfbvztT",
-      "snippet": {
-        "publishedAt": "2023-03-15T09:52:30Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Nx Monorepo for development",
-        "description": "Nx Monorepo for development",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Nx Monorepo for development",
-          "description": "Nx Monorepo for development"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "5DHzVGeIjAR2VOx1c5gMTbcn0S4",
-      "id": "PLT5Jhb7lgSBMozp_deFN6FxogMilc-N0J",
-      "snippet": {
-        "publishedAt": "2023-03-10T10:05:30Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Channel Announcements",
-        "description": "All public Channel Announcements",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Channel Announcements",
-          "description": "All public Channel Announcements"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "-rDB0xqyEAEhaS1ceRys0ffDlD0",
-      "id": "PLT5Jhb7lgSBMyju5pwL-F7e7XVzApw2-k",
-      "snippet": {
-        "publishedAt": "2023-03-10T01:24:58Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Explore AWS CDK to Deploy Apps",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Explore AWS CDK to Deploy Apps",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "OBSJwrL4X2vUAv_GBILkhxBIhk8",
-      "id": "PLT5Jhb7lgSBOWdraDbw6lqBt041onSFSO",
-      "snippet": {
-        "publishedAt": "2023-02-28T07:53:59Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Weekend Webinar",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Weekend Webinar",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "rl_7lmyj0nk51F8tazhCbbpnrX4",
-      "id": "PLT5Jhb7lgSBOk6JI40D6p9T5K2jYzG-wU",
-      "snippet": {
-        "publishedAt": "2023-02-22T20:09:07Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Next JS 13 Server Side Rendering",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Next JS 13 Server Side Rendering",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "K71SV3-EPh1GTCinMtLHoQRfy0w",
-      "id": "PLT5Jhb7lgSBO7s-ePkDiaHoGlleOfjg9y",
-      "snippet": {
-        "publishedAt": "2023-02-14T09:10:30Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS Microservices Graphql API based #microservices Apollo Federation",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS Microservices Graphql API based #microservices Apollo Federation",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "jcxRL4MKTCu6LuXijmoWmv95lcQ",
-      "id": "PLT5Jhb7lgSBMvdxiJQZISNQzedI6pGLgs",
-      "snippet": {
-        "publishedAt": "2023-02-13T21:55:38Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS Microservices REST API based #microservices",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS Microservices REST API based #microservices",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "sotKrofoxtchNx1chzbAqaTqU6U",
-      "id": "PLT5Jhb7lgSBN5U6p_KSCtZfHYSqQUQ7hw",
-      "snippet": {
-        "publishedAt": "2023-02-13T21:55:08Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "All About Node JS Microservices #microservices",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "All About Node JS Microservices #microservices",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "gTZfGKN03ev_WqQ6t-viBct7JLw",
-      "id": "PLT5Jhb7lgSBOsHPeMm4YZkojofRxN3TBs",
-      "snippet": {
-        "publishedAt": "2023-02-02T16:05:09Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Crack Interviews Javascript",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Crack Interviews Javascript",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ZAPm7KqsNj6RVudDQBn2HxoUn_k",
-      "id": "PLT5Jhb7lgSBM-MoOjmRO7cASPvtCU_Bbc",
-      "snippet": {
-        "publishedAt": "2022-07-21T23:26:58Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "SvelteKit for Server side rendering using Sveltejs",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "SvelteKit for Server side rendering using Sveltejs",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "2o9h8i7P39kKYrG4l5otC7CSwzA",
-      "id": "PLT5Jhb7lgSBNQZXl-IXfzaw-cYVSmum-j",
-      "snippet": {
-        "publishedAt": "2022-05-21T12:59:19Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Live Streams on Node JS and Javascript",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Live Streams on Node JS and Javascript",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "OgS-D-gOEbQ2zhqD0cndwM-3XYw",
-      "id": "PLT5Jhb7lgSBMqIuNda0gGNEiMS-ahGJM1",
-      "snippet": {
-        "publishedAt": "2022-05-14T14:16:32Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Svelte JS for developers",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Svelte JS for developers",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "MnIJ_-9H1nYFYmECe5ywYgk8Fcc",
-      "id": "PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx",
-      "snippet": {
-        "publishedAt": "2022-03-12T08:16:17Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Nest JS Advanced Course [2023]",
-        "description": "# Nest JS Advance Series 2022\nNestJS is based heavily on Angular, and uses Angular-like modules, services, controllers, pipes, and decorators. This allows NestJS to help developers create scalable, testable, loosely coupled, and easily maintainable applications. NestJS was built with TypeScript, but it can also support pure JavaScript development.\n\nNestJS offers a level of abstraction above two very popular Node.js frameworks, either Express.js or Fastify. This means that all of the great middleware that are available for Express.js and Fastify can also be used with NestJS.\n\n- Nest JS Microservices Setup -01\n- Nest JS DTO Validation\n- Nest JS Config Module\n- Nest JS CI/CD Setup with Heroku\n- Nest JS Migration Setup with Knex\n- Nest JS API caching\n- Nest JS with External Services Like Kafka and Elastic Search, or any database or Redis\n- Nest JS with Azure or S3 for upload and download files\n- Nest JS with SQS and SNS\n- Nest JS with Redis\n- Nest JS with other Microservices\n- Nest JS Request/Response Handling.\n- Nest JS handling Middleware for Routes\n- Nest JS Custom Response Interceptor\n- Nest JS Swagger for all type of Response and Error Codes\n- Nest JS with Rabbit MQ Microservices\n- Nest JS Logging on Heroku\n- Nest JS CQRS @nestjs/cqrs\n- Nest JS CRUD using @nestjs/crud\n- Nest JS Types of Tests cases\n- Nest JS with Graphql\n- Nest JS with Prisma and Graphql\n- Nest JS with TypeORM or Sequelize\n- Nest JS with Prisma ORM\n- Nest JS with Sequelize ORM\n- Nest JS with External services\n- Nest JS with Dynamic Modules\n- Nest JS with Mongoose for API development\n- Nest JS with Rollbar for External error Logging\n- Nest JS auth and authz\n- Nest JS Dynamic Modules\n- Nest JS security\n- Nest JS with Nest JS Microservices Kafka, Grp, Rabbit MQ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1j0S8Ghy8EQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1j0S8Ghy8EQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1j0S8Ghy8EQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1j0S8Ghy8EQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1j0S8Ghy8EQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Nest JS Advanced Course [2023]",
-          "description": "# Nest JS Advance Series 2022\nNestJS is based heavily on Angular, and uses Angular-like modules, services, controllers, pipes, and decorators. This allows NestJS to help developers create scalable, testable, loosely coupled, and easily maintainable applications. NestJS was built with TypeScript, but it can also support pure JavaScript development.\n\nNestJS offers a level of abstraction above two very popular Node.js frameworks, either Express.js or Fastify. This means that all of the great middleware that are available for Express.js and Fastify can also be used with NestJS.\n\n- Nest JS Microservices Setup -01\n- Nest JS DTO Validation\n- Nest JS Config Module\n- Nest JS CI/CD Setup with Heroku\n- Nest JS Migration Setup with Knex\n- Nest JS API caching\n- Nest JS with External Services Like Kafka and Elastic Search, or any database or Redis\n- Nest JS with Azure or S3 for upload and download files\n- Nest JS with SQS and SNS\n- Nest JS with Redis\n- Nest JS with other Microservices\n- Nest JS Request/Response Handling.\n- Nest JS handling Middleware for Routes\n- Nest JS Custom Response Interceptor\n- Nest JS Swagger for all type of Response and Error Codes\n- Nest JS with Rabbit MQ Microservices\n- Nest JS Logging on Heroku\n- Nest JS CQRS @nestjs/cqrs\n- Nest JS CRUD using @nestjs/crud\n- Nest JS Types of Tests cases\n- Nest JS with Graphql\n- Nest JS with Prisma and Graphql\n- Nest JS with TypeORM or Sequelize\n- Nest JS with Prisma ORM\n- Nest JS with Sequelize ORM\n- Nest JS with External services\n- Nest JS with Dynamic Modules\n- Nest JS with Mongoose for API development\n- Nest JS with Rollbar for External error Logging\n- Nest JS auth and authz\n- Nest JS Dynamic Modules\n- Nest JS security\n- Nest JS with Nest JS Microservices Kafka, Grp, Rabbit MQ"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "7lPvHwQUNyyLMGgBMBQcnOCOAgY",
-      "id": "PLT5Jhb7lgSBPgWsiBZwNPBtjgPpAycAN3",
-      "snippet": {
-        "publishedAt": "2022-03-12T08:06:43Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Nest JS with Graphql APIs development",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Nest JS with Graphql APIs development",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "_GAHhiFUGEFn_rO-MbElbFBr8p8",
-      "id": "PLT5Jhb7lgSBOJsu7UkU4Es2b_zUQePAUa",
-      "snippet": {
-        "publishedAt": "2022-02-02T08:56:46Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Graphql Node JS Master Course",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Graphql Node JS Master Course",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "j9VYW-ZvrZP4zXHpdT0jGEUvDqY",
-      "id": "PLT5Jhb7lgSBPMUvkSNl5BXBECMOUWC_lm",
-      "snippet": {
-        "publishedAt": "2022-01-23T12:09:29Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Redux Toolkit for React Apps",
-        "description": "The Redux Toolkit package is intended to be the standard way to write Redux logic. It was originally created to help address three common concerns about Redux:\n\n\"Configuring a Redux store is too complicated\"\n\"I have to add a lot of packages to get Redux to do anything useful\"\n\"Redux requires too much boilerplate code\"\nWe can't solve every use case, but in the spirit of create-react-app, we can try to provide some tools that abstract over the setup process and handle the most common use cases, as well as include some useful utilities that will let the user simplify their application code.\n\n\nTo sum up, we have 6 steps to implement the Redux Toolkit to our react project:\nInstall Redux Toolkit and React-Redux Packages.\nCreate a Redux Store.\nInclude the Redux Store to App. js parent.\nCreate a Redux State Slice.\nAdd Slice Reducers to the Store.\nImplementing useSelector and useDispatch in React Components.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Redux Toolkit for React Apps",
-          "description": "The Redux Toolkit package is intended to be the standard way to write Redux logic. It was originally created to help address three common concerns about Redux:\n\n\"Configuring a Redux store is too complicated\"\n\"I have to add a lot of packages to get Redux to do anything useful\"\n\"Redux requires too much boilerplate code\"\nWe can't solve every use case, but in the spirit of create-react-app, we can try to provide some tools that abstract over the setup process and handle the most common use cases, as well as include some useful utilities that will let the user simplify their application code.\n\n\nTo sum up, we have 6 steps to implement the Redux Toolkit to our react project:\nInstall Redux Toolkit and React-Redux Packages.\nCreate a Redux Store.\nInclude the Redux Store to App. js parent.\nCreate a Redux State Slice.\nAdd Slice Reducers to the Store.\nImplementing useSelector and useDispatch in React Components."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "r_jkiwPxaq4Ak7EAWh5uyAbVucw",
-      "id": "PLT5Jhb7lgSBMF7JqIV6OZZ9LYPGhqZjfS",
-      "snippet": {
-        "publishedAt": "2022-01-23T12:07:44Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Full Stack Clone Uber Eats using Microservices",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ewD2ymPdYIU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ewD2ymPdYIU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ewD2ymPdYIU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ewD2ymPdYIU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ewD2ymPdYIU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Full Stack Clone Uber Eats using Microservices",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "6aF6gCTKmD7JIFs-HnhXIlGY8as",
-      "id": "PLT5Jhb7lgSBMWXRXI3qk6yyEM0fppaxCt",
-      "snippet": {
-        "publishedAt": "2021-11-12T20:34:49Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "HackerRank Certifications",
-        "description": "HackerRank certifications are also a great way to prepare for technical interviews. Each skill certification tests for relevant key competencies that employers expect from top candidates. Completing relevant certifications is an easy way to do a skills check before interviewing.\n\nLets explore all different skill interviews \n\n\n- react hacker rank skill certification \n- javascript hacker rank skill certification \n- nodejs hacker rank skill certification \n- java hacker rank skill certification \n- angular hacker rank skill certification \n- sql hacker rank skill certification",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "HackerRank Certifications",
-          "description": "HackerRank certifications are also a great way to prepare for technical interviews. Each skill certification tests for relevant key competencies that employers expect from top candidates. Completing relevant certifications is an easy way to do a skills check before interviewing.\n\nLets explore all different skill interviews \n\n\n- react hacker rank skill certification \n- javascript hacker rank skill certification \n- nodejs hacker rank skill certification \n- java hacker rank skill certification \n- angular hacker rank skill certification \n- sql hacker rank skill certification"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "vpUZ26y14O20QFzcBDdEle5tqIY",
-      "id": "PLT5Jhb7lgSBMymRFT4FX2vo9kwFo6ezfL",
-      "snippet": {
-        "publishedAt": "2021-11-08T07:42:38Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS with Prisma ORM with databases",
-        "description": "ORMs let us define our models as classes that map to tables in a database. Active Record and Data Mapper are two common patterns followed by ORMs. Both patterns require us to define classes to plot a connection to the database. However, there is a fundamental difference between them.\n\nActive Record closely relates an application’s in-memory representation and database table. For instance, each field in the model will correspond to a field in the database table.\n\nOn the other hand, as the name suggests, Data Mapper loosely maps in-memory representation to a database table, decoupling the database and the model.\n\nPrisma uses the Data Mapper pattern, similar to Doctrine ORM in the PHP world. With components like Prisma schema, client and migrate, it has the main bases covered.\nPrisma unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion\n\nThe Prisma schema is intuitive and lets you declare your database tables in a human-readable way — making your data modeling experience a delight. You define your models by hand or introspect them from an existing database.\n\nlets explore Prims with Node JS, Nest JS",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS with Prisma ORM with databases",
-          "description": "ORMs let us define our models as classes that map to tables in a database. Active Record and Data Mapper are two common patterns followed by ORMs. Both patterns require us to define classes to plot a connection to the database. However, there is a fundamental difference between them.\n\nActive Record closely relates an application’s in-memory representation and database table. For instance, each field in the model will correspond to a field in the database table.\n\nOn the other hand, as the name suggests, Data Mapper loosely maps in-memory representation to a database table, decoupling the database and the model.\n\nPrisma uses the Data Mapper pattern, similar to Doctrine ORM in the PHP world. With components like Prisma schema, client and migrate, it has the main bases covered.\nPrisma unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion\n\nThe Prisma schema is intuitive and lets you declare your database tables in a human-readable way — making your data modeling experience a delight. You define your models by hand or introspect them from an existing database.\n\nlets explore Prims with Node JS, Nest JS"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "qnLIH48SXxX68qiz_rZDYkySK3E",
-      "id": "PLT5Jhb7lgSBNdMMo5cbZUj1rESCzeoU0d",
-      "snippet": {
-        "publishedAt": "2021-11-08T07:42:18Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS with Mongoose ODM",
-        "description": "Mongoose is MongoDB's Object Document Mapper ( ODM ) designed to work in an asynchronous environment. MongoDB store data in JSON documents. Using Mongoose, we can map simple documents in full JS Objects with data, validations, schemas and business logics\n\n\nRelationships in MongoDB are just representations of related data. There is no mechanism that maintains the integrity of these relationships.\n\nWhat mongoose does with refs is just using the field having the ref option to query the _id field of documents in the referenced collection. This is used for operations like populate (which internally calls findById queries on the target collection and replaces the referenced field with the documents).\n\nThis being cleared, you can store one or many IDs for the referenced collection in the field, thus creating one-to-one or one-to-many “relationships”.\n\nThe videos in this Blog talks about how can we manage relationship using mongoose in the Mongo DB database to store and fetch data in a defined structure.\n\none to one\none to many\nmany to many relationships",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS with Mongoose ODM",
-          "description": "Mongoose is MongoDB's Object Document Mapper ( ODM ) designed to work in an asynchronous environment. MongoDB store data in JSON documents. Using Mongoose, we can map simple documents in full JS Objects with data, validations, schemas and business logics\n\n\nRelationships in MongoDB are just representations of related data. There is no mechanism that maintains the integrity of these relationships.\n\nWhat mongoose does with refs is just using the field having the ref option to query the _id field of documents in the referenced collection. This is used for operations like populate (which internally calls findById queries on the target collection and replaces the referenced field with the documents).\n\nThis being cleared, you can store one or many IDs for the referenced collection in the field, thus creating one-to-one or one-to-many “relationships”.\n\nThe videos in this Blog talks about how can we manage relationship using mongoose in the Mongo DB database to store and fetch data in a defined structure.\n\none to one\none to many\nmany to many relationships"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "JJ53C26BQ_EzrpFULGmIaVTUqHA",
-      "id": "PLT5Jhb7lgSBP0-4Sm40LWm5nEclx1YbYG",
-      "snippet": {
-        "publishedAt": "2021-11-07T11:19:37Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS with Knex JS Postgres",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS with Knex JS Postgres",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "11IhGHJO1Y1WDBqKhQ29oAOzoqo",
-      "id": "PLT5Jhb7lgSBP0uHdpmBmdYgfGh3i0gWIU",
-      "snippet": {
-        "publishedAt": "2021-10-16T15:28:18Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "React JS with Tailwind CSS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "React JS with Tailwind CSS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "jSi0yVcqGZALt7Anwe9K1SnxVEc",
-      "id": "PLT5Jhb7lgSBO3eYdF71uKmzqjauaTmXOH",
-      "snippet": {
-        "publishedAt": "2021-10-16T15:18:00Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Webinars Front end development",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Webinars Front end development",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "MbNxoucBDE2m4J0lza0Rb6LzOFw",
-      "id": "PLT5Jhb7lgSBNu6Ibx1DAxRk4ofXYNc8mT",
-      "snippet": {
-        "publishedAt": "2021-08-22T16:20:47Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Master Course on Nest JS Node JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Master Course on Nest JS Node JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "J_EvO9u29YWbrbTcc3zgAk0R9zw",
-      "id": "PLT5Jhb7lgSBMsAZ7SiV7qksYLQbwIDHtY",
-      "snippet": {
-        "publishedAt": "2021-07-19T10:54:04Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Microservices with Nest JS Node JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Microservices with Nest JS Node JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "weTpWsMykR5v6a7DnZ8xz6IDv8k",
-      "id": "PLT5Jhb7lgSBOxBMCt7oGJbu0Gkgd-vfAO",
-      "snippet": {
-        "publishedAt": "2021-07-19T10:46:59Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "React with Typescript",
-        "description": "JavaScript (also known as ECMAScript) started its life as a simple scripting language for browsers. At the time it was invented, it was expected to be used for short snippets of code embedded in a web page — writing more than a few dozen lines of code would have been somewhat unusual. Due to this, early web browsers executed such code pretty slowly. Over time, though, JS became more and more popular, and web developers started using it to create interactive experiences.\n\n\nCreate React App supports TypeScript out of the box. You can also add it to an existing Create React App project, as documented here.\n\nTypeScript is awesome. So is React. Let’s use them both together! Using TypeScript allows us to get the benefits of IntelliSense, as well as the ability to further reason about our code. As well as this, adopting TypeScript is low-friction, as files can be incrementally upgraded without causing issues throughout the rest of your project.\n\n\nwe will see how we can create components and building blocks of react using typescript types",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "React with Typescript",
-          "description": "JavaScript (also known as ECMAScript) started its life as a simple scripting language for browsers. At the time it was invented, it was expected to be used for short snippets of code embedded in a web page — writing more than a few dozen lines of code would have been somewhat unusual. Due to this, early web browsers executed such code pretty slowly. Over time, though, JS became more and more popular, and web developers started using it to create interactive experiences.\n\n\nCreate React App supports TypeScript out of the box. You can also add it to an existing Create React App project, as documented here.\n\nTypeScript is awesome. So is React. Let’s use them both together! Using TypeScript allows us to get the benefits of IntelliSense, as well as the ability to further reason about our code. As well as this, adopting TypeScript is low-friction, as files can be incrementally upgraded without causing issues throughout the rest of your project.\n\n\nwe will see how we can create components and building blocks of react using typescript types"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "VAeVoOIe46wLwuj35bhguRfOQHI",
-      "id": "PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv",
-      "snippet": {
-        "publishedAt": "2021-06-11T07:16:21Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Javascript top 500 Interview Questions",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nT0IOMY88gc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nT0IOMY88gc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nT0IOMY88gc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nT0IOMY88gc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nT0IOMY88gc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Javascript top 500 Interview Questions",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "bt07q_Ew0RU8RVZ_805gtKnd9kk",
-      "id": "PLT5Jhb7lgSBOrIKCE0mrPOkIg57qPDRKM",
-      "snippet": {
-        "publishedAt": "2021-05-31T17:11:30Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Testing React component with Jest",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Testing React component with Jest",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "g-_70e16RwV1DRa30u1ygSCzeeU",
-      "id": "PLT5Jhb7lgSBMTsfsgQcKQoaWCUOn_2oyC",
-      "snippet": {
-        "publishedAt": "2021-05-22T19:02:00Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Testing with React, Angular, Node JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Testing with React, Angular, Node JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Y6E5fflzgORiAIUAph9oFNzFUFE",
-      "id": "PLT5Jhb7lgSBO8igCSxF35hOSUVuOznW40",
-      "snippet": {
-        "publishedAt": "2021-05-22T19:01:26Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS with Graphql World",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wYuawauUFvs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wYuawauUFvs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wYuawauUFvs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wYuawauUFvs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wYuawauUFvs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS with Graphql World",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "k2VL0FGQeW-fVczEJtFkzY9NpkY",
-      "id": "PLT5Jhb7lgSBO_TPqc9EMHNNdNblak3GWD",
-      "snippet": {
-        "publishedAt": "2021-05-22T19:00:50Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS with Different ORM",
-        "description": "ORM is the process of mapping between objects and relational database systems. Different database systems access data in myriad ways, and ORM helps you maintain objects even when the sources and apps they access change over time.\n\nORMs are commonly used to streamline the migration of data between databases.\n\nBefore we get to the reasons why you shouldn’t use ORM with Node.js, let’s list some benefits. When used properly, ORM in Node.js enables you to:\n\nAvoid redundant code\nEasily switch from one database to another\nQuery for multiple tables (ORM converts the object-oriented query approach to SQL)\nFocus more on business logic and less on writing interfaces\n\nhttps://github.com/tkssharma/nodejs-db-orm-world\nGraphql and Node JS  with different ORM\nTypeorm, Knex, Prisma and Sequelize with Node JS API Development \nNode JS with without any ORM (MYSQL raw queries)\n\nNode JS express with Knex \nNest JS with Knex query Builder \nNode JS express with sequelize \nNest JS with sequelize ORM\nNode JS express with TypeORM \nNest JS with TypeORM orm library  \nNode JS express with Prisma \nNest JS with Prisma\n\nGitHub :\nhttps://github.com/tkssharma/Typeorm-with-NodeJS-Mysql-Tutorials\n\n► 💻👨\u200d🏫📕 Subscribe ► https://www.youtube.com/user/vibbbbbba?sub_confirmation=1\n► 💻👨\u200d🏫📕 Watch All My Playlist ► https://www.youtube.com/user/vibbbbbba/playlists?view_as=subscriber\n💻👨\u200d🏫📕 My all courses for Developer to Learn and grow 💻👨\u200d🏫📕",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/36KPipR32PI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/36KPipR32PI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/36KPipR32PI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/36KPipR32PI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/36KPipR32PI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS with Different ORM",
-          "description": "ORM is the process of mapping between objects and relational database systems. Different database systems access data in myriad ways, and ORM helps you maintain objects even when the sources and apps they access change over time.\n\nORMs are commonly used to streamline the migration of data between databases.\n\nBefore we get to the reasons why you shouldn’t use ORM with Node.js, let’s list some benefits. When used properly, ORM in Node.js enables you to:\n\nAvoid redundant code\nEasily switch from one database to another\nQuery for multiple tables (ORM converts the object-oriented query approach to SQL)\nFocus more on business logic and less on writing interfaces\n\nhttps://github.com/tkssharma/nodejs-db-orm-world\nGraphql and Node JS  with different ORM\nTypeorm, Knex, Prisma and Sequelize with Node JS API Development \nNode JS with without any ORM (MYSQL raw queries)\n\nNode JS express with Knex \nNest JS with Knex query Builder \nNode JS express with sequelize \nNest JS with sequelize ORM\nNode JS express with TypeORM \nNest JS with TypeORM orm library  \nNode JS express with Prisma \nNest JS with Prisma\n\nGitHub :\nhttps://github.com/tkssharma/Typeorm-with-NodeJS-Mysql-Tutorials\n\n► 💻👨\u200d🏫📕 Subscribe ► https://www.youtube.com/user/vibbbbbba?sub_confirmation=1\n► 💻👨\u200d🏫📕 Watch All My Playlist ► https://www.youtube.com/user/vibbbbbba/playlists?view_as=subscriber\n💻👨\u200d🏫📕 My all courses for Developer to Learn and grow 💻👨\u200d🏫📕"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "hAmmK6Y-Dtl_-Esou98L7QYScbo",
-      "id": "PLT5Jhb7lgSBNJotAH9a-YP3nNx7NJLEwf",
-      "snippet": {
-        "publishedAt": "2021-05-22T17:45:14Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Javascript Quiz to Crack Jobs",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_LC6bSUOfag/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_LC6bSUOfag/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_LC6bSUOfag/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_LC6bSUOfag/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_LC6bSUOfag/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Javascript Quiz to Crack Jobs",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "2Qqz6JInBGovwLohCXzSnVXYww4",
-      "id": "PLT5Jhb7lgSBNXAttmlavkTB5F47Yp8tgw",
-      "snippet": {
-        "publishedAt": "2021-05-22T17:26:34Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Javascript Interview Questions Crack Jobs",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IpBMe_86ph4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IpBMe_86ph4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IpBMe_86ph4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IpBMe_86ph4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IpBMe_86ph4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Javascript Interview Questions Crack Jobs",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Qsdy_0n9XeqIdD3K5iJUhnrbXzE",
-      "id": "PLT5Jhb7lgSBPrL1Qz2XXVtzvgxrYp7ms9",
-      "snippet": {
-        "publishedAt": "2021-05-22T16:59:54Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Full Stack Swiggy Clone | React | Nest JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Full Stack Swiggy Clone | React | Nest JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "JjDr9WX5I4vVdYxzwEIHdtaK_WA",
-      "id": "PLT5Jhb7lgSBNfKC3_8iGcjMEWV5C1yorr",
-      "snippet": {
-        "publishedAt": "2021-05-22T15:21:01Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Build Full-Stack Applications Vue JS with NestJS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NqLyKJZBTm4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NqLyKJZBTm4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NqLyKJZBTm4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NqLyKJZBTm4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NqLyKJZBTm4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Build Full-Stack Applications Vue JS with NestJS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "S0m3TVsh5R-BLHNh7hYja6PkFGE",
-      "id": "PLT5Jhb7lgSBOyezMu6Anso-jIcxeSobzH",
-      "snippet": {
-        "publishedAt": "2021-05-22T15:18:12Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Vue JS Development",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DIoFpIyU6vA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DIoFpIyU6vA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DIoFpIyU6vA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DIoFpIyU6vA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DIoFpIyU6vA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Vue JS Development",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "k0ufw5mzwiPpuka4NZsX-896aj4",
-      "id": "PLT5Jhb7lgSBO45K76DK3CvKIbGD_2UYAM",
-      "snippet": {
-        "publishedAt": "2021-05-22T13:20:11Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Camunda Workflow Engine for Microservices",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Camunda Workflow Engine for Microservices",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "u-aDARtyz6-o85MM4Avok6EWVE4",
-      "id": "PLT5Jhb7lgSBPJluRMbNWFA4pAJ1ifmFta",
-      "snippet": {
-        "publishedAt": "2021-05-22T12:56:02Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Understand Graphql with Apollo",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Understand Graphql with Apollo",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "o3gGGew2zBQsqS3wPy6UB8-F0tU",
-      "id": "PLT5Jhb7lgSBNc2cC7Umr-ha_ZTvMypDay",
-      "snippet": {
-        "publishedAt": "2021-05-22T12:48:01Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Hacker Rank Node JS,  React, Angular Questions",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Hacker Rank Node JS,  React, Angular Questions",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "i2njc4yI5r0YUVuo1CLiVDqtb2s",
-      "id": "PLT5Jhb7lgSBPkaSsfU649ZBM2jAYdl3Ij",
-      "snippet": {
-        "publishedAt": "2021-05-22T12:38:20Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Crack Jobs Angular, React, Node JS Interview Questions",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5FhNZ20t3Is/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5FhNZ20t3Is/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5FhNZ20t3Is/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5FhNZ20t3Is/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5FhNZ20t3Is/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Crack Jobs Angular, React, Node JS Interview Questions",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Kr5a5nPTYWmjgL-JntgwZ7sctxE",
-      "id": "PLT5Jhb7lgSBMh5zkYVDfyQvb_OmiIiQfe",
-      "snippet": {
-        "publishedAt": "2021-05-22T11:54:48Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Serverless Framework for Lambda & API Gateway",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Serverless Framework for Lambda & API Gateway",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "AeCQn0OqBNc904FnR1yGXvQ6HQY",
-      "id": "PLT5Jhb7lgSBObvlkg6j2GxiU2_b_OPONX",
-      "snippet": {
-        "publishedAt": "2021-05-22T11:39:03Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "AWS Lambda and API Gateway",
-        "description": "In this tutorial, you create a REST API through which you invoke a Lambda function using an HTTP request. Your Lambda function will perform create, read, update, and delete (CRUD) operations on a DynamoDB table. This function is provided here for demonstration, but you will learn to configure an API Gateway REST API that can invoke any Lambda function.\n\nServices and resources used in this tutorial\n    \nUsing API Gateway provides users with a secure HTTP endpoint to invoke your Lambda function and can help manage large volumes of calls to your function by throttling traffic and automatically validating and authorizing API calls.\n\n API Gateway also provides flexible security controls using AWS Identity and Access Management (IAM) and Amazon Cognito. This is useful for use cases where advance authorization is required for calls to your application.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "AWS Lambda and API Gateway",
-          "description": "In this tutorial, you create a REST API through which you invoke a Lambda function using an HTTP request. Your Lambda function will perform create, read, update, and delete (CRUD) operations on a DynamoDB table. This function is provided here for demonstration, but you will learn to configure an API Gateway REST API that can invoke any Lambda function.\n\nServices and resources used in this tutorial\n    \nUsing API Gateway provides users with a secure HTTP endpoint to invoke your Lambda function and can help manage large volumes of calls to your function by throttling traffic and automatically validating and authorizing API calls.\n\n API Gateway also provides flexible security controls using AWS Identity and Access Management (IAM) and Amazon Cognito. This is useful for use cases where advance authorization is required for calls to your application."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "hy6KXXMl5ptHakl2LsW__5MY2UE",
-      "id": "PLT5Jhb7lgSBPEnrvuLyUntMTCujMOdpyi",
-      "snippet": {
-        "publishedAt": "2021-05-22T11:21:51Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "AWS Practitioner Certification Mock Tests",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xAfjrUispn4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xAfjrUispn4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xAfjrUispn4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xAfjrUispn4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xAfjrUispn4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "AWS Practitioner Certification Mock Tests",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "BSOtyK7bZ0qaY0WcJ7BPJqNsbK0",
-      "id": "PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7",
-      "snippet": {
-        "publishedAt": "2021-05-22T05:25:29Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Learn Advance Nest JS || Course || Training",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Learn Advance Nest JS || Course || Training",
-          "description": ""
-        }
-      }
-    },
-
-    {
-      "kind": "youtube#playlist",
-      "etag": "GyYk1leyGegd1fXkyQQW-fV-vSg",
-      "id": "PLT5Jhb7lgSBOeHyaBbzYTrnw8N5nxrOyB",
-      "snippet": {
-        "publishedAt": "2020-09-22T11:15:48Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Microservices with Node JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Microservices with Node JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "nMGhAz9yF3VdVnT8s52EvlTdIwQ",
-      "id": "PLT5Jhb7lgSBOnV6hdYBZ-AnJe1e5-2x-N",
-      "snippet": {
-        "publishedAt": "2020-09-22T11:15:17Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Microservices Patterns",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Microservices Patterns",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "nP1wZQC2tKzuju4HzuaQRHrP4WQ",
-      "id": "PLT5Jhb7lgSBOqEaS_2uu1qw-OooWmd_On",
-      "snippet": {
-        "publishedAt": "2020-09-10T16:43:19Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "NextJS with React JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "NextJS with React JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "jkFLpMb3dqx-jnT3QOAoa3LLVI8",
-      "id": "PLT5Jhb7lgSBMB89vczmKPBLvqzHsLUCQI",
-      "snippet": {
-        "publishedAt": "2020-08-29T18:33:13Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Prepare Javascript Interviews",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Prepare Javascript Interviews",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "0DIlN3mStmJsijg7fy-B4V9aLEM",
-      "id": "PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il",
-      "snippet": {
-        "publishedAt": "2020-08-29T12:11:32Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Daily Javascript Lessons",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Daily Javascript Lessons",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "vNhZVz2KobBsH_AzeZ0jXQFMHaA",
-      "id": "PLT5Jhb7lgSBMTu9PthgSGurRUr0JZRYQ4",
-      "snippet": {
-        "publishedAt": "2020-08-25T09:52:41Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Mastering Node JS",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Mastering Node JS",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "KVhQ1hfG3hJraZYt53UVKmwU8aM",
-      "id": "PLT5Jhb7lgSBPpfFioxHx1ApiU2v7eKEZx",
-      "snippet": {
-        "publishedAt": "2020-08-18T04:27:48Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "React Redux for Managing State",
-        "description": "This is the tutorial you've been looking for to take your React and Redux skills to the next level.\n\nAuthentication with Express/Mongo?  Yes!  Middleware/Higher Order Components? We got it.  Testing with Mocha/Chai?  It's here!\n\nThis course wastes no time diving right into interesting topics, and teaches you the core knowledge you need to deeply understand and build React components and structure applications with Redux.\n\nMastering React and Redux can get you a position in web development or help you build that personal project you've been dreaming of. It's a skill that will put you more in demand in the modern web development industry, especially with the release of Redux and ReactNative.\n\nThere are dozens of great tutorials online for React and Redux, but none of them teach the challenging, core features of these two fantastic libraries.  I created this course to push you beyond \"just getting started.\"\n\n    Learn how to thoroughly test React and Redux code, including tests for action creators and reducers\n\n    Get familiar with Higher Order Components.  Don't know what they are?  No problem, you have been using them without even knowing it!\n\n    Rewrite a popular Redux Middleware from scratch to handle asynchronous actions\n\n    Become a master of the trickiest topic in Javascript: authentication.  You will write a server with enterprise-grade authentication from scratch that can scale to hundreds of thousands of users.  No shortcuts, no dummy data.\n\nI have built the course that I would have wanted to take when I was learning React and Redux.  A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "React Redux for Managing State",
-          "description": "This is the tutorial you've been looking for to take your React and Redux skills to the next level.\n\nAuthentication with Express/Mongo?  Yes!  Middleware/Higher Order Components? We got it.  Testing with Mocha/Chai?  It's here!\n\nThis course wastes no time diving right into interesting topics, and teaches you the core knowledge you need to deeply understand and build React components and structure applications with Redux.\n\nMastering React and Redux can get you a position in web development or help you build that personal project you've been dreaming of. It's a skill that will put you more in demand in the modern web development industry, especially with the release of Redux and ReactNative.\n\nThere are dozens of great tutorials online for React and Redux, but none of them teach the challenging, core features of these two fantastic libraries.  I created this course to push you beyond \"just getting started.\"\n\n    Learn how to thoroughly test React and Redux code, including tests for action creators and reducers\n\n    Get familiar with Higher Order Components.  Don't know what they are?  No problem, you have been using them without even knowing it!\n\n    Rewrite a popular Redux Middleware from scratch to handle asynchronous actions\n\n    Become a master of the trickiest topic in Javascript: authentication.  You will write a server with enterprise-grade authentication from scratch that can scale to hundreds of thousands of users.  No shortcuts, no dummy data.\n\nI have built the course that I would have wanted to take when I was learning React and Redux.  A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "VQuk1e3PoDJNaQDa6LO4M-EbDnM",
-      "id": "PLT5Jhb7lgSBM4VCbfJAAch3G6XioJXuFX",
-      "snippet": {
-        "publishedAt": "2020-08-16T17:23:10Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "React Forms using Formik",
-        "description": "This course was created for those without experience in react Formik. By watching these videos, you'll go from knowing nothing about React Formik to building a working web forms. You'll see how far just knowing basic React can get you when using React Formik to build a web forms.\n\nThe app built in this course is a signup form.\n\nThis course assumes basic understanding of React, Javascript and HTML.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "React Forms using Formik",
-          "description": "This course was created for those without experience in react Formik. By watching these videos, you'll go from knowing nothing about React Formik to building a working web forms. You'll see how far just knowing basic React can get you when using React Formik to build a web forms.\n\nThe app built in this course is a signup form.\n\nThis course assumes basic understanding of React, Javascript and HTML."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "mvDq7VuHHJNuYxIlDeS3ABNQWh0",
-      "id": "PLT5Jhb7lgSBM4_Pid_xTcS5-1MsyP2cwB",
-      "snippet": {
-        "publishedAt": "2020-07-31T15:04:26Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Building React Apps",
-        "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Building React Apps",
-          "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ni4R8QcYxPezFPHYyCkEP9WSsuI",
-      "id": "PLT5Jhb7lgSBNOdz6OpYyT0sGVnYSHFQtU",
-      "snippet": {
-        "publishedAt": "2020-07-25T14:07:39Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "React Hooks Crash Course",
-        "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "React Hooks Crash Course",
-          "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "4REI4ZPiMs7dCC4EkorxhLb40WA",
-      "id": "PLT5Jhb7lgSBOEFW-ZS3Xt3pPwKCyz3rSI",
-      "snippet": {
-        "publishedAt": "2020-07-25T14:07:23Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "React Full Training | 30 Hourse | Training",
-        "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "React Full Training | 30 Hourse | Training",
-          "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "za4SVlDuqluyTx5ThL5nzi8hxTM",
-      "id": "PLT5Jhb7lgSBOwPV-wTy7P2eZImtpOYLcB",
-      "snippet": {
-        "publishedAt": "2020-07-25T14:06:40Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "MERN Stack React & Node JS Course",
-        "description": "What you will Learn \nUnderstand Modern JavaScript\nUnderstand Node Js from Scratch\nUnderstand React Js from Scratch\nLearn Node JS API Development from Scratch\nLearn Frontend Web Development with React\nUnderstand JavaScript in the Browser Environment\nUnderstand JavaScript in the Node JS Environment\nHow Node JS Event Loop works\nSynchronous vs Asynchronous programming\nBlocking vs Non-Blocking code\nUsing Core Node JS Modules\nUsing your own Modules\nUsing NPM Modules\nMVC Design Pattern\nLearn Mongo DB\nLearn to implement CRUD (create, read, update, delete) on users/posts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "MERN Stack React & Node JS Course",
-          "description": "What you will Learn \nUnderstand Modern JavaScript\nUnderstand Node Js from Scratch\nUnderstand React Js from Scratch\nLearn Node JS API Development from Scratch\nLearn Frontend Web Development with React\nUnderstand JavaScript in the Browser Environment\nUnderstand JavaScript in the Node JS Environment\nHow Node JS Event Loop works\nSynchronous vs Asynchronous programming\nBlocking vs Non-Blocking code\nUsing Core Node JS Modules\nUsing your own Modules\nUsing NPM Modules\nMVC Design Pattern\nLearn Mongo DB\nLearn to implement CRUD (create, read, update, delete) on users/posts"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "x1J5LqGThxZzzs02RaE1ICrEwlQ",
-      "id": "PLT5Jhb7lgSBOxHMZnfDtEmDCHiendfz67",
-      "snippet": {
-        "publishedAt": "2020-07-17T16:56:49Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Docker Crash Course",
-        "description": "Docker containers are a flexible platform that allows you to easily build ship and run your applications in scalable and distributed environments. Pluralsight’s training dives deep into different deployment options and how to build scalable Docker solutions.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Docker Crash Course",
-          "description": "Docker containers are a flexible platform that allows you to easily build ship and run your applications in scalable and distributed environments. Pluralsight’s training dives deep into different deployment options and how to build scalable Docker solutions."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "O_owLCUvLLebzoL8RPS983_NX5c",
-      "id": "PLT5Jhb7lgSBNllzyUDYupx5aah8P00i2Y",
-      "snippet": {
-        "publishedAt": "2020-07-17T15:47:59Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS Crash Course",
-        "description": "Node.js is a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine.It is used to develop web and mobile applications.. Node.js is open source, completely free, and used by thousands of developers around the world. Node was built with JavaScript so it helps if you have some understanding of how JavaScript actually works.Also having some understanding of other web technologies such as HTML, CSS, AJAX is useful.This course is an absolute beginners course that will teach you some Node .js basic fundamentals.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS Crash Course",
-          "description": "Node.js is a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine.It is used to develop web and mobile applications.. Node.js is open source, completely free, and used by thousands of developers around the world. Node was built with JavaScript so it helps if you have some understanding of how JavaScript actually works.Also having some understanding of other web technologies such as HTML, CSS, AJAX is useful.This course is an absolute beginners course that will teach you some Node .js basic fundamentals."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "-5SWdFynHj8f6KNaq6K7Xq0vEyg",
-      "id": "PLT5Jhb7lgSBNg2x2aKmvHNpAWwGZZIgl8",
-      "snippet": {
-        "publishedAt": "2020-07-14T11:27:11Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Nestjs Crash Course and Tutorials",
-        "description": "Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with and fully supports TypeScript (yet still enables developers to code in pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).\n\nUnder the hood, Nest makes use of robust HTTP Server frameworks like Express (the default) and optionally can be configured to use Fastify as well!\n\nNest provides a level of abstraction above these common Node.js frameworks (Express/Fastify), but also exposes their APIs directly to the developer. This allows developers the freedom to use the myriad of third-party modules which are available for the underlying platform.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Nestjs Crash Course and Tutorials",
-          "description": "Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with and fully supports TypeScript (yet still enables developers to code in pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).\n\nUnder the hood, Nest makes use of robust HTTP Server frameworks like Express (the default) and optionally can be configured to use Fastify as well!\n\nNest provides a level of abstraction above these common Node.js frameworks (Express/Fastify), but also exposes their APIs directly to the developer. This allows developers the freedom to use the myriad of third-party modules which are available for the underlying platform."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "FHuY0BERa9Uiilm9op8MP_CCwls",
-      "id": "PLT5Jhb7lgSBPbQ7Ae0JFY9ErjMO5VEoIG",
-      "snippet": {
-        "publishedAt": "2020-06-26T14:14:40Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Javascript Webinars & Talks (Weekend Learning)",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/u6z-Q5EU8JA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/u6z-Q5EU8JA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/u6z-Q5EU8JA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/u6z-Q5EU8JA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/u6z-Q5EU8JA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Javascript Webinars & Talks (Weekend Learning)",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "cxTp5393GLbe47Rq1AbGFppF4Ik",
-      "id": "PLT5Jhb7lgSBOnwyukLUZb6X-WnliySCUL",
-      "snippet": {
-        "publishedAt": "2020-06-20T20:40:49Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Nodejs Graphql (Apollo Graphql Server with Sequelize & Mysql)",
-        "description": "What is GraphQL?\nGraphQL is a declarative data fetching specification and query language for APIs. It was created by Facebook. GraphQL is an effective alternative to REST, as it was created to overcome some of the shortcomings of REST like under/over fetching.\n\nUnlike REST, GraphQL uses one endpoint. This means we make one request to the endpoint and we’ll get one response as JSON. This JSON response can contain as little or as much data as we want. Like REST, GraphQL can be operated over HTTP, though GraphQL is protocol agnostic.\n\nA typical GraphQL server is comprised of schema and resolvers. A schema (or GraphQL schema) contains type definitions that would make up a GraphQL API. A type definition contains field(s), each with what it is expected to return. Each field is mapped to a function on the GraphQL server called a resolver. Resolvers contain the implementation logic and return data for a field. In other words, schemas contain type definitions, while resolvers contain the actual implementations.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Nodejs Graphql (Apollo Graphql Server with Sequelize & Mysql)",
-          "description": "What is GraphQL?\nGraphQL is a declarative data fetching specification and query language for APIs. It was created by Facebook. GraphQL is an effective alternative to REST, as it was created to overcome some of the shortcomings of REST like under/over fetching.\n\nUnlike REST, GraphQL uses one endpoint. This means we make one request to the endpoint and we’ll get one response as JSON. This JSON response can contain as little or as much data as we want. Like REST, GraphQL can be operated over HTTP, though GraphQL is protocol agnostic.\n\nA typical GraphQL server is comprised of schema and resolvers. A schema (or GraphQL schema) contains type definitions that would make up a GraphQL API. A type definition contains field(s), each with what it is expected to return. Each field is mapped to a function on the GraphQL server called a resolver. Resolvers contain the implementation logic and return data for a field. In other words, schemas contain type definitions, while resolvers contain the actual implementations."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "BVq8l3RPo_f9ccT6CoHvxGE3liA",
-      "id": "PLT5Jhb7lgSBNmwHVnjEY7uwTv9_lDV1_s",
-      "snippet": {
-        "publishedAt": "2020-06-20T05:57:17Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS Typescript with TypeORM",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS Typescript with TypeORM",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "2NilIMQpAjFpUbqdAzIOWIwUGzU",
-      "id": "PLT5Jhb7lgSBPe8gEcbT65pPtX5L0UNTSM",
-      "snippet": {
-        "publishedAt": "2020-06-20T03:53:56Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "FullStack Application development",
-        "description": "Full Stack JavaScript Developer\nA full stack JavaScript developer is a person who can develop both client and server software.\n\nIn addition to mastering HTML and CSS, he/she also knows how to:\n\nProgram a browser (like using JavaScript, jQuery, Angular, or Vue)\nProgram a server (like using Node.js)\nProgram a database (like using MongoDB)\nLets learn Full Stack development Together and become full stack developer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_qvWgM-aJkw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_qvWgM-aJkw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_qvWgM-aJkw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_qvWgM-aJkw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_qvWgM-aJkw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "FullStack Application development",
-          "description": "Full Stack JavaScript Developer\nA full stack JavaScript developer is a person who can develop both client and server software.\n\nIn addition to mastering HTML and CSS, he/she also knows how to:\n\nProgram a browser (like using JavaScript, jQuery, Angular, or Vue)\nProgram a server (like using Node.js)\nProgram a database (like using MongoDB)\nLets learn Full Stack development Together and become full stack developer"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "9QWKt3FWPbI-vHF9bbh39zb7MpQ",
-      "id": "PLT5Jhb7lgSBPOU6Oik1PwtQb1yUmnRygY",
-      "snippet": {
-        "publishedAt": "2020-06-02T02:09:00Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Learn Nestjs for API development",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Learn Nestjs for API development",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "XSWfpJoG_UCA6yDQbT5KPGsF1RA",
-      "id": "PLT5Jhb7lgSBP6DgaKw_M2RKEJJ5DyQvV1",
-      "snippet": {
-        "publishedAt": "2019-03-28T04:48:27Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Webinar &  Talks",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UvSWZJGmzS0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UvSWZJGmzS0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UvSWZJGmzS0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Webinar &  Talks",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "nHbXz0aTlj-GkSNt-e-bcM3ZAEk",
-      "id": "PLT5Jhb7lgSBMPrqdq6927wH059h3DiHXg",
-      "snippet": {
-        "publishedAt": "2019-03-19T08:32:31Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Node JS with ORM Sequelize",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Node JS with ORM Sequelize",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "sHPZe60nMWZSNUpT6H4m24oAJHY",
-      "id": "PLT5Jhb7lgSBNFL8xjP1IcZDiSTLjVQyw2",
-      "snippet": {
-        "publishedAt": "2018-08-06T12:42:47Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Javascript Interview Questions",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/F6-BdEZ_sW0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/F6-BdEZ_sW0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/F6-BdEZ_sW0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/F6-BdEZ_sW0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/F6-BdEZ_sW0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Javascript Interview Questions",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Xx5vA0aEiVTWc0oRpApEak0tqkY",
-      "id": "PLT5Jhb7lgSBM0iXRIK7hLQe27wTeY5hhr",
-      "snippet": {
-        "publishedAt": "2016-11-28T13:21:32Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Angular 2.0 Final Training",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Angular 2.0 Final Training",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "BzCDgpjNKaO4Esbaj4A9Ddo4PK8",
-      "id": "PLT5Jhb7lgSBPRulJhn7fI0Fz86GGxY89S",
-      "snippet": {
-        "publishedAt": "2016-11-28T12:39:57Z",
-        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
-        "title": "Learn React JS from Bottom to Top",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CodeStudio",
-        "localized": {
-          "title": "Learn React JS from Bottom to Top",
           "description": ""
         }
       }
@@ -4723,12 +1846,12 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "ccr2AhD8ErEPVFftfcoj6R7e7tw",
+      "etag": "e51smEEgUmgedN_e_t0qb0Tsdy4",
       "id": "PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr",
       "snippet": {
         "publishedAt": "2021-03-20T04:16:00Z",
         "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Nest JS Advanced Course 2023",
+        "title": "Nest JS Advanced Course [Latest]",
         "description": "",
         "thumbnails": {
           "default": {
@@ -4759,7 +1882,7 @@ module.exports = {
         },
         "channelTitle": "Code with tkssharma",
         "localized": {
-          "title": "Nest JS Advanced Course 2023",
+          "title": "Nest JS Advanced Course [Latest]",
           "description": ""
         }
       }
@@ -4846,49 +1969,6 @@ module.exports = {
         "channelTitle": "Code with tkssharma",
         "localized": {
           "title": "Learn Graphql for API development",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "wkOFp-6KsjDpQs_-ak4vVOZ1cF8",
-      "id": "PLIGDNOJWiL1-e4wk0r143yKcu56XUJzgZ",
-      "snippet": {
-        "publishedAt": "2021-02-11T05:12:17Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Vue JS Development",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QUMFlnoCWm0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QUMFlnoCWm0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QUMFlnoCWm0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QUMFlnoCWm0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QUMFlnoCWm0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Vue JS Development",
           "description": ""
         }
       }
@@ -5196,49 +2276,6 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "tWuEs2-3A3tkJwFsQ0h95q-34kM",
-      "id": "PLIGDNOJWiL19_dRVWKwwT9C-M1xXge3Tn",
-      "snippet": {
-        "publishedAt": "2020-11-30T16:42:12Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Full Stack App Architecture and Development",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9g1Vw2QwgE0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9g1Vw2QwgE0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9g1Vw2QwgE0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9g1Vw2QwgE0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9g1Vw2QwgE0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Full Stack App Architecture and Development",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "9aV4kj7ymn1Q0_s6vuRkuXNIMJo",
       "id": "PLIGDNOJWiL1-SjzoNPx3ziFfS8wrwFmW2",
       "snippet": {
@@ -5280,50 +2317,6 @@ module.exports = {
         }
       }
     },
-    {
-      "kind": "youtube#playlist",
-      "etag": "xbFux9CEwfLUCIuJfZ_4eZ7-7t8",
-      "id": "PLIGDNOJWiL18gpsr_lwLwpITrQBBa_2JF",
-      "snippet": {
-        "publishedAt": "2020-09-29T16:21:09Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "DevOps For Developers",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zJK0yb5ahhs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zJK0yb5ahhs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zJK0yb5ahhs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zJK0yb5ahhs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zJK0yb5ahhs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "DevOps For Developers",
-          "description": ""
-        }
-      }
-    },
-
     {
       "kind": "youtube#playlist",
       "etag": "aOG08n7mn5GZ61swhcJQRUwL9EI",
@@ -5412,7 +2405,7 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "zbvM9DN5xkJPccdKAtwgLMHrwrA",
+      "etag": "k6Fd6EGRB4qB_R8P7cdcb7iK-Q0",
       "id": "PLIGDNOJWiL1_uSRapGDJw02sSTwzzKIbk",
       "snippet": {
         "publishedAt": "2020-09-08T04:49:01Z",
@@ -5421,27 +2414,27 @@ module.exports = {
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NiPO1v_SCTo/default.jpg",
+            "url": "https://i.ytimg.com/vi/DfXMkD4AmAQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NiPO1v_SCTo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DfXMkD4AmAQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NiPO1v_SCTo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DfXMkD4AmAQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/NiPO1v_SCTo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/DfXMkD4AmAQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/NiPO1v_SCTo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DfXMkD4AmAQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -5956,7 +2949,7 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "nfFGgSk9nFIyq7vA-CM8xv0WfCk",
+      "etag": "VAEDZ4FNHJgfG-tiL_Tt7Mue-mU",
       "id": "PLIGDNOJWiL1_-i0DjC69qr4gRUOkpTvRQ",
       "snippet": {
         "publishedAt": "2020-06-21T19:02:53Z",
@@ -5965,27 +2958,27 @@ module.exports = {
         "description": "Microservices are developed with an idea on developers mind to create small services, with each having their own functionality. But, breaking an application into small autonomous units has to be done logically. So, to decompose a small or big application into small services, you can use the Decomposition patterns",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yyFymWl0xn0/default.jpg",
+            "url": "https://i.ytimg.com/vi/0_S_QfSC9Yg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yyFymWl0xn0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0_S_QfSC9Yg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yyFymWl0xn0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0_S_QfSC9Yg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/yyFymWl0xn0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0_S_QfSC9Yg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/yyFymWl0xn0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0_S_QfSC9Yg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -5994,49 +2987,6 @@ module.exports = {
         "localized": {
           "title": "Understanding Microservices Patterns",
           "description": "Microservices are developed with an idea on developers mind to create small services, with each having their own functionality. But, breaking an application into small autonomous units has to be done logically. So, to decompose a small or big application into small services, you can use the Decomposition patterns"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "sK5zlNyOAwgvS-8HKj_v8OTMM5Q",
-      "id": "PLIGDNOJWiL199L4vixrgMgmvLJXA-n_0q",
-      "snippet": {
-        "publishedAt": "2020-05-31T11:30:04Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Full Stack Application Development",
-        "description": "A full-stack developer is an engineer who can handle all the work of databases, servers, systems engineering, and clients. Depending on the project, what customers need may be a mobile stack, a Web stack, or a native application stack.\n\nThis video series will help you to become Full Stack Developer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ac7Ir7-1Czg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ac7Ir7-1Czg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ac7Ir7-1Czg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ac7Ir7-1Czg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ac7Ir7-1Czg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Full Stack Application Development",
-          "description": "A full-stack developer is an engineer who can handle all the work of databases, servers, systems engineering, and clients. Depending on the project, what customers need may be a mobile stack, a Web stack, or a native application stack.\n\nThis video series will help you to become Full Stack Developer"
         }
       }
     },
@@ -6085,7 +3035,7 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "4iDbRuTAD_a39WLXWMtzfh6nv70",
+      "etag": "l1hXAv1TrfRX15RGBKoqXwObLtI",
       "id": "PLIGDNOJWiL1_AhUGgmwz7RhyXwX5aVLj4",
       "snippet": {
         "publishedAt": "2020-05-26T07:12:33Z",
@@ -6094,27 +3044,27 @@ module.exports = {
         "description": "NestJS is a server-side (backend) application framework beautifully crafted to support developers productivity and make their lives happier. Well, it's not only a framework, it's an enabler of entering the world of advanced engineering concepts such as Domain Driven Design, Event Sourcing, Microservices architecture",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RJ7iK7V2Q7U/default.jpg",
+            "url": "https://i.ytimg.com/vi/8d75-sTi4UI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RJ7iK7V2Q7U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8d75-sTi4UI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RJ7iK7V2Q7U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8d75-sTi4UI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RJ7iK7V2Q7U/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8d75-sTi4UI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RJ7iK7V2Q7U/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8d75-sTi4UI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -6171,56 +3121,13 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "DIxEJJHxdx1ETQR9JUPRVXmyisI",
-      "id": "PLIGDNOJWiL18nmstvsa12vXoKE3YcwGpg",
+      "etag": "xMIw9sBcevOJ1wUOOgprM6xNOuE",
+      "id": "PLIGDNOJWiL18KaYJnBXDCqf8C2tW-nURD",
       "snippet": {
-        "publishedAt": "2020-05-09T04:50:04Z",
+        "publishedAt": "2020-05-09T04:36:18Z",
         "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
-        "description": "Web Development Webinars | Webcasts | UI/UX | Styling",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QCEfgQGU_xs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Web Development Webinars | Webcasts | UI/UX | Styling",
-          "description": "Web Development Webinars | Webcasts | UI/UX | Styling"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "TclkzsJuBNkev8cpx2k9r6FByzA",
-      "id": "PLIGDNOJWiL1_NGrjLWqXNupsRnsdsAo-9",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:47:10Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Application Architecture and Micro-services | Webinar | Webcasts",
-        "description": "Application architecture is a map of how an organization's software applications are assembled as part of its overarching enterprise architecture and how those applications interact with each other to meet business or user requirements.",
+        "title": "Node JS Webinars | Webcasts",
+        "description": "I will be adding all different webinars on Node JS and  API Development",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/oaz4blE_WQU/default.jpg",
@@ -6250,223 +3157,8 @@ module.exports = {
         },
         "channelTitle": "Code with tkssharma",
         "localized": {
-          "title": "Application Architecture and Micro-services | Webinar | Webcasts",
-          "description": "Application architecture is a map of how an organization's software applications are assembled as part of its overarching enterprise architecture and how those applications interact with each other to meet business or user requirements."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "vPLQpSwFr64sQydZpa4gf8gT-A0",
-      "id": "PLIGDNOJWiL193FJoXjtDQHH3Gejl-imVI",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:40:40Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Javascript Webinars | Weekend Webcasts | Javascript World",
-        "description": "I do have a session every weekend on Javascript, I will keep adding More VideoS here",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/01Hs9Nkcup8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Javascript Webinars | Weekend Webcasts | Javascript World",
-          "description": "I do have a session every weekend on Javascript, I will keep adding More VideoS here"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "knzx_24EOzZCHUM5bp-lKByWnz0",
-      "id": "PLIGDNOJWiL18y43xxYj3y2Hx7v4Yo5aCo",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:38:42Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React JS Weekend Webinars | Webcasts",
-        "description": "I will be adding More webinars on React JS",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/K99LmhNbJ5c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "React JS Weekend Webinars | Webcasts",
-          "description": "I will be adding More webinars on React JS"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "4eo94HVEDSxW3jKfVVQlzh9RlTk",
-      "id": "PLIGDNOJWiL18KaYJnBXDCqf8C2tW-nURD",
-      "snippet": {
-        "publishedAt": "2020-05-09T04:36:18Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Webinars | Webcasts",
-        "description": "I will be adding all different webinars on Node JS and  API Development",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/g3qX9eQSog4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
           "title": "Node JS Webinars | Webcasts",
           "description": "I will be adding all different webinars on Node JS and  API Development"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "zEINlCTI8QiTfwG1ZG0fcRz8bXY",
-      "id": "PLIGDNOJWiL1-gNIfWht3OJxD0Iw2WgbMZ",
-      "snippet": {
-        "publishedAt": "2020-02-20T02:48:38Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React Advance | Hooks | Context APIs",
-        "description": "Hooks are functions that let you “hook into” React state and lifecycle features from function components. Hooks don't work inside classes — they let you use React without classes. (We don't recommend rewriting your existing components overnight but you can start using Hooks in the new ones if you'd like.)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/z9I2g2aUUAE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "React Advance | Hooks | Context APIs",
-          "description": "Hooks are functions that let you “hook into” React state and lifecycle features from function components. Hooks don't work inside classes — they let you use React without classes. (We don't recommend rewriting your existing components overnight but you can start using Hooks in the new ones if you'd like.)"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Frv2hDSYo1p-F3H1OKQOHo5gP5g",
-      "id": "PLIGDNOJWiL197a76oG1PE-5z8MYJwzHLg",
-      "snippet": {
-        "publishedAt": "2019-05-05T06:29:23Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Javascript Hacks with ES6-ES7",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/AvJskB54Q20/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Javascript Hacks with ES6-ES7",
-          "description": ""
         }
       }
     },
@@ -6634,49 +3326,6 @@ module.exports = {
         "localized": {
           "title": "Design Pattern in Javascript",
           "description": "In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "6uE8vpncm46dlp_ILu7eLYzWHHs",
-      "id": "PLIGDNOJWiL1_sgonvGpUwv93MOz0dmcnY",
-      "snippet": {
-        "publishedAt": "2018-10-16T13:33:58Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 5 Interview Questions",
-        "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TCwkP19pGaQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 5 Interview Questions",
-          "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS"
         }
       }
     },
@@ -6940,93 +3589,7 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "zEoi1zb4yQANkb9fDkRVGnnXxVA",
-      "id": "PLIGDNOJWiL19EaWIeLExtZG0FK6VGjk3U",
-      "snippet": {
-        "publishedAt": "2018-07-17T09:18:56Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React JS in 30 Hours",
-        "description": "React is a library for building composite user interfaces. It encourages the creation of reusable UI components which present data those changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding. Development. Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Redux is majorly used with React.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6tCjFRaAKGM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "React JS in 30 Hours",
-          "description": "React is a library for building composite user interfaces. It encourages the creation of reusable UI components which present data those changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding. Development. Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. Redux is majorly used with React."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "3k3bUpXxe-OxhOaVNpKevtqDF68",
-      "id": "PLIGDNOJWiL1_ih6ThFDEVBchiAXuoXgFx",
-      "snippet": {
-        "publishedAt": "2018-07-09T04:32:57Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular  Webinar Series | Weekend webcasts",
-        "description": "Angular  brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cW-Sxjs5KFY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular  Webinar Series | Weekend webcasts",
-          "description": "Angular  brings some new features to the popular JavaScript framework for building mobile, desktop and web applications.  Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "6cpLldttGlzW7P_D9Ae00sDBOqs",
+      "etag": "9-KFTHBlL83hGuvGqOmCSpFkmSU",
       "id": "PLIGDNOJWiL1-yXldxEX7eKuhgg-gLy0J-",
       "snippet": {
         "publishedAt": "2018-07-08T09:59:17Z",
@@ -7035,27 +3598,27 @@ module.exports = {
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/default.jpg",
+            "url": "https://i.ytimg.com/vi/46xAQUEq6qc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/46xAQUEq6qc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/46xAQUEq6qc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/46xAQUEq6qc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/G_cXC-XHKtU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/46xAQUEq6qc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -7064,135 +3627,6 @@ module.exports = {
         "localized": {
           "title": "Node JS Webinar Series",
           "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "uUoSF-FdztElEzUVGczcQS5EQxs",
-      "id": "PLIGDNOJWiL1_u4QyI0WAqiTUzt8HgpdRT",
-      "snippet": {
-        "publishedAt": "2018-06-04T02:47:39Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "webpack 4 with Angular 6",
-        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uqJcnpUfaPk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "webpack 4 with Angular 6",
-          "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "VHDwv4dk4sEK6g3OtGlbV--AV3Q",
-      "id": "PLIGDNOJWiL1_Sqmx9Oxr6PLyUHi5cg4S0",
-      "snippet": {
-        "publishedAt": "2018-05-14T08:37:48Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Advance Training",
-        "description": "Hello, and welcome to Advanced Node.js, part of the Node.js Learning Path here at Pluralsight. My name is Samer Buna, and I’m looking forward to helping you understand how the Node runtime work and learn about all the powerful built-in features that you can use in every Node process. Along the way, you’re going to be learning about things like modules management, V8, concurrency and event loop, streams, child processes, and clusters. You’ll also be using npm and Node's event-driven modules for networking and HTTP web servers. You’ll want to make sure you’re already up to speed on modern JavaScript and the basics of Node.js. So if you’re ready to get started, Advanced Node.js is waiting for you.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zTAVQIz9Oyg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Node JS Advance Training",
-          "description": "Hello, and welcome to Advanced Node.js, part of the Node.js Learning Path here at Pluralsight. My name is Samer Buna, and I’m looking forward to helping you understand how the Node runtime work and learn about all the powerful built-in features that you can use in every Node process. Along the way, you’re going to be learning about things like modules management, V8, concurrency and event loop, streams, child processes, and clusters. You’ll also be using npm and Node's event-driven modules for networking and HTTP web servers. You’ll want to make sure you’re already up to speed on modern JavaScript and the basics of Node.js. So if you’re ready to get started, Advanced Node.js is waiting for you."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "5sK8tPIgmJaq_sFmuiErIVHXTvE",
-      "id": "PLIGDNOJWiL1_16CP3lI0YfErRmRIVGktG",
-      "snippet": {
-        "publishedAt": "2018-05-11T03:50:20Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "ELK Stack-Elastic Search Kibana & Logstash",
-        "description": "So, what is the ELK Stack? \"ELK\" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a \"stash\" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aUT1i21pZD4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "ELK Stack-Elastic Search Kibana & Logstash",
-          "description": "So, what is the ELK Stack? \"ELK\" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a \"stash\" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch."
         }
       }
     },
@@ -7241,49 +3675,6 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "2LofAN9PTTeq6PXTNf3MZGRWh1Q",
-      "id": "PLIGDNOJWiL19ZQzdF7JvWoYuqeZgk_Bgf",
-      "snippet": {
-        "publishedAt": "2018-03-03T15:59:57Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 5 complete Training Program",
-        "description": "QuickStart\nGood tools make application development quicker and easier to maintain than if you did everything by hand.\n\nThe Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.\n\nThe goal in this guide is to build and run a simple Angular application in TypeScript, using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.\n\nBy the end of the chapter, you'll have a basic understanding of development with the CLI and a foundation for both these documentation samples and for real world applications.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TphWB-QrayA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 5 complete Training Program",
-          "description": "QuickStart\nGood tools make application development quicker and easier to maintain than if you did everything by hand.\n\nThe Angular CLI is a command line interface tool that can create a project, add files, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.\n\nThe goal in this guide is to build and run a simple Angular application in TypeScript, using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.\n\nBy the end of the chapter, you'll have a basic understanding of development with the CLI and a foundation for both these documentation samples and for real world applications."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
       "etag": "wTwg7QB6qtkf0_LsIzVArK8NYfs",
       "id": "PLIGDNOJWiL1--PkxBwF8ghr0Oc0hXVJi7",
       "snippet": {
@@ -7322,912 +3713,6 @@ module.exports = {
         "localized": {
           "title": "Crack Node JS Interview",
           "description": "Node.js Interview Questions to Crack interviews\n\nWhat is an error-first callback?\nHow can you avoid callback hells?\nWhat are Promises?\nWhen should you npm and when yarn?\nWhat's a test pyramid? Give an example!\nWhat's your favorite HTTP framework and why?\nHow can you secure your HTTP cookies against XSS attacks?"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "TOaohznQ6UheVaCcSuM9YqX3lsY",
-      "id": "PLIGDNOJWiL1_YYoljCssnpcC1xXHNWm4s",
-      "snippet": {
-        "publishedAt": "2018-02-13T04:16:49Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Vue JS Learning Beginners",
-        "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1iNn4TQSvZw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Vue JS Learning Beginners",
-          "description": "Vue.js is an open-source progressive JavaScript framework for building user interfaces. Integration into projects that use other JavaScript libraries is made easy with Vue because it is designed to be incrementally adoptable"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "IEO1rCVpqW2n5ul4w8-16CPno9I",
-      "id": "PLIGDNOJWiL18mTeG1sM4uDHTcTYEHG_rn",
-      "snippet": {
-        "publishedAt": "2018-02-12T05:27:10Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 5 Advance Topics",
-        "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications. ... TL;DR: Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hyCSnSestFs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 5 Advance Topics",
-          "description": "Angular 5 brings some new features to the popular JavaScript framework for building mobile, desktop and web applications. ... TL;DR: Angular is an all-encompassing JavaScript framework that is frequently used by developers all over the world for building web, desktop, and mobile applications"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "To5GJVTwAeFaRIDvqrfgHmTmLv4",
-      "id": "PLIGDNOJWiL1_JOOm6MU2prB30eVzwyKPe",
-      "snippet": {
-        "publishedAt": "2017-07-17T04:45:51Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "JavaScript Interview Question",
-        "description": "JavaScript interview questions and answers for provides a list of top 100  interview questions. The frequently asked JavaScript interview questions with answers for beginners and professionals are given below.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NDLVyqVoY40/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "JavaScript Interview Question",
-          "description": "JavaScript interview questions and answers for provides a list of top 100  interview questions. The frequently asked JavaScript interview questions with answers for beginners and professionals are given below."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "AQFJE1Q7xgnSX_Wbk-nEeVwOmSo",
-      "id": "PLIGDNOJWiL1-CV9jbdl9cpp4LH48owUBY",
-      "snippet": {
-        "publishedAt": "2017-07-16T01:17:15Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Ionic App with Firebase",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jrlIMi7mm40/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Ionic App with Firebase",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "R4d0tJNBg0cW12wo3yE29SxjlGw",
-      "id": "PLIGDNOJWiL1_Oy59tu4r4q_pOQ5T3RUCu",
-      "snippet": {
-        "publishedAt": "2017-07-15T03:18:38Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "DevOps Training : Tools",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QXFHCGlFLoE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "DevOps Training : Tools",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "3xpZhBf4tn5tk557GCOY9fLS2W0",
-      "id": "PLIGDNOJWiL18V2lVD2guCbPY9Q0E0NwMf",
-      "snippet": {
-        "publishedAt": "2017-06-12T12:10:41Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Learn Angular 2.0",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yKfxPKl6IYY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Learn Angular 2.0",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "cBgng3TDOB-WfN6mTDKhUC_8VGM",
-      "id": "PLIGDNOJWiL18CKY0UMae_pGgesBTlhW_Q",
-      "snippet": {
-        "publishedAt": "2017-04-16T03:47:56Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Learn in 2017",
-        "description": "Things to Learn 2017 :)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/smaezmo0yXk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Learn in 2017",
-          "description": "Things to Learn 2017 :)"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ZhmOL5yf6g9MjL3ZjHyHXHUODSs",
-      "id": "PLIGDNOJWiL1__hSiOYwxtr3X2WWY9j2zg",
-      "snippet": {
-        "publishedAt": "2017-04-09T12:16:08Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular JS Testing",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uCL_sANg9Xs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular JS Testing",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Tb0NQuqQz0lZx14khcaZItiYxqM",
-      "id": "PLIGDNOJWiL1-SALMYwNWxWZUGcPjhhSRs",
-      "snippet": {
-        "publishedAt": "2017-04-04T09:45:28Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 1.5 With ES6 Features",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Q2GXFwNINWc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 1.5 With ES6 Features",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "_M6OSX8Ct8VcEphhxtqd68mC8Vc",
-      "id": "PLIGDNOJWiL19nAuqIbJOUcXqxRnSn6IGD",
-      "snippet": {
-        "publishedAt": "2017-03-26T03:23:44Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular js Hacks",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ob_vxTF7rHA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular js Hacks",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "3bvd0OC7NsXy2z0MZb3c8BO8f0k",
-      "id": "PLIGDNOJWiL18YPRskrNOqqSarHlzTYoIC",
-      "snippet": {
-        "publishedAt": "2017-03-20T11:09:02Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS for Intermediate  Level - Part 02",
-        "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vga4mSPjFkY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Node JS for Intermediate  Level - Part 02",
-          "description": "Node JS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node JS uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices so If you can do it in JavaScript you can do it in node.\n\nFirst there's JaveScript, Node JS is a complete JavaScript environment, so familiarity with the language is essential. Next, we will be using the command line in every lecture. The Node JS interpreter is invoked as a command line tool. I'll be typing the exact commands you'll need to use, but general familiarity with command line interfaces will be helpful."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "fSe_1-ilt53LlAcFOvnKIRGy888",
-      "id": "PLIGDNOJWiL19KUzIYt6Ctgy0eOEQUeICC",
-      "snippet": {
-        "publishedAt": "2017-03-20T09:14:49Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node js absolute  beginners -Recorded Training sessions",
-        "description": "Node JS a powerful tool for controlling web servers, building applications, and creating event-driven programming and it brings JavaScript, a language familiar to all web developers, into an environment independent of web browsers. Learn all about Node JS and start creating JavaScript applications in this course with me. I show how to install Node JS on Mac, Windows, and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.\n\nNode JS makes it possible to write JavaScript applications without a web browser. In this course, I will be showing you how to install Node JS on Mac, Windows, how to use frameworks to start web servers and generate HTML output, how to unit test your code to reduce bugs and errors. We will also learn how to stream data and create command line tools in node.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5NpXZtXxxHE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Node js absolute  beginners -Recorded Training sessions",
-          "description": "Node JS a powerful tool for controlling web servers, building applications, and creating event-driven programming and it brings JavaScript, a language familiar to all web developers, into an environment independent of web browsers. Learn all about Node JS and start creating JavaScript applications in this course with me. I show how to install Node JS on Mac, Windows, and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.\n\nNode JS makes it possible to write JavaScript applications without a web browser. In this course, I will be showing you how to install Node JS on Mac, Windows, how to use frameworks to start web servers and generate HTML output, how to unit test your code to reduce bugs and errors. We will also learn how to stream data and create command line tools in node."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "4NDb7CVfwgz3XhA73yvmLGKSNZc",
-      "id": "PLIGDNOJWiL1_57jPiF6K-j9kHOnMw5tAp",
-      "snippet": {
-        "publishedAt": "2017-03-17T05:21:04Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS API Testing Mocha",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fBsyKGk4DlA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Node JS API Testing Mocha",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "HA5aR_8RVOWVj63yps8bkiMG9CU",
-      "id": "PLIGDNOJWiL1-5bgZ7IUPXRQkyBNkD5W5S",
-      "snippet": {
-        "publishedAt": "2017-02-20T07:58:12Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 1.5 Components",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hcmHJeplkfg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 1.5 Components",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "IZxb64toyxX4WftKUdyDd6vQN_M",
-      "id": "PLIGDNOJWiL189T2ypOkMr-54AHMNI_Vfq",
-      "snippet": {
-        "publishedAt": "2017-02-19T11:17:09Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "NPM Scripts and NPM Package Manager",
-        "description": "npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rlb4C1D77Rc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "NPM Scripts and NPM Package Manager",
-          "description": "npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Sq_Hq9pfLPX4niPbJozSuZPyzto",
-      "id": "PLIGDNOJWiL1-VE00DZABx1D-4oPIGcjeD",
-      "snippet": {
-        "publishedAt": "2017-02-19T08:57:41Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Webpack Bundler Tool",
-        "description": "webpack takes modules with dependencies and generates static assets representing those modules and work as universal bundler to bundle css, fonts,js,typescript and many more..\n\nWhy another module bundler?\n\nExisting module bundlers are not well suited for big projects (big single page applications). The most pressing reason for developing another module bundler was Code Splitting and that static assets should fit seamlessly together through modularization.\n\n\nLets Do Deep dive with Webpack",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/schixSOiM5M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Webpack Bundler Tool",
-          "description": "webpack takes modules with dependencies and generates static assets representing those modules and work as universal bundler to bundle css, fonts,js,typescript and many more..\n\nWhy another module bundler?\n\nExisting module bundlers are not well suited for big projects (big single page applications). The most pressing reason for developing another module bundler was Code Splitting and that static assets should fit seamlessly together through modularization.\n\n\nLets Do Deep dive with Webpack"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Np5elQoqQLUgzNrtm-1B_nRvAAo",
-      "id": "PLIGDNOJWiL1_qj1G0CI11OAscfHHHYr2g",
-      "snippet": {
-        "publishedAt": "2016-11-26T15:02:05Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Progressive Web Apps PWA WorkShop",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uJgH_8KuUq8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Progressive Web Apps PWA WorkShop",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "niXVOE1w4lgwtrGMR3U9Ei3aYjw",
-      "id": "PLIGDNOJWiL1-Il08Frlt32wYlwnjRLoEK",
-      "snippet": {
-        "publishedAt": "2016-11-16T15:52:38Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node js Debugging.Deploying.securing.Logging App",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bbdqy7oCCVM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Node js Debugging.Deploying.securing.Logging App",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "h8NLxI7f19p2DFujCysaoVv5c3E",
-      "id": "PLIGDNOJWiL19ik9k_nfeXnGUCpjDOA5Pq",
-      "snippet": {
-        "publishedAt": "2016-11-16T06:37:44Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Understanding Angular",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/d2CWav4xGUY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Understanding Angular",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Bd9oFEF96SkZ7mfnL_I-Twym8q4",
-      "id": "PLIGDNOJWiL1_gIZasAU1JyPN4ObLvLTv2",
-      "snippet": {
-        "publishedAt": "2016-11-16T01:56:42Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 2.0",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/j0VSUSbNEi0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/j0VSUSbNEi0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/j0VSUSbNEi0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/j0VSUSbNEi0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/j0VSUSbNEi0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 2.0",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "PuTyMoMkt3hdwsX783JCeDNRILA",
-      "id": "PLIGDNOJWiL1-UlFz9yHzKMzbJtFGQbKM9",
-      "snippet": {
-        "publishedAt": "2016-09-26T15:18:38Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular  Crash Course",
-        "description": "Why Angular 2?\n\nThere are many front-end JavaScript frameworks to choose from today, each with its own set of trade-offs. Many people were happy with the functionality that Angular 1.x afforded them. Angular 2 improved on that functionality and made it faster, more scalable and more modern. Organizations that found value in Angular 1.x will find more value in Angular 2.\nAngular 2's Advantages\n\nThe first release of Angular provided programmers with the tools to develop and architect large scale JavaScript applications, but its age has revealed a number of flaws and sharp edges. Angular 2 was built on five years of community feedback.\nAngular 2 Is Easier\n\nThe new Angular 2 codebase is more modern, more capable and easier for new programmers to learn than Angular 1.x, while also being easier for project veterans to work with.\nWith Angular 1, programmers had to understand the differences between Controllers, Services, Factories, Providers and other concepts that could be confusing, especially for new programmers.\nAngular 2 is a more streamlined framework that allows programmers to focus on simply building JavaScript classes. Views and controllers are replaced with components, which can be described as a refined version of directives. Even experienced Angular programmers are not always aware of all the capabilities of Angular 1.x directives. Angular 2 components are considerably easier to read, and their API features less jargon than Angular 1.x's directives. Additionally, to help ease the transition to Angular 2, the Angular team has added a .component method to Angular 1.5, which has been back-ported by community member Todd Motto to v1.3.\nTypeScript\n\nAngular 2 was written in TypeScript, a superset of JavaScript that implements many new ES2016+ features.\nBy focusing on making the framework easier for computers to process, Angular 2 allows for a much richer development ecosystem. Programmers using sophisticated text editors (or IDEs) will notice dramatic improvements with auto-completion and type suggestions. These improvements help to reduce the cognitive burden of learning Angular 2. Fortunately for traditional ES5 JavaScript programmers this does not mean that development must be done in TypeScript or ES2015: programmers can still write vanilla JavaScript that runs without transpilation.\nFamiliarity\n\nDespite being a complete rewrite, Angular 2 has retained many of its core concepts and conventions with Angular 1.x, e.g. a streamlined, \"native JS\" implementation of dependency injection. This means that programmers who are already proficient with Angular will have an easier time migrating to Angular 2 than another library like React or framework like Ember.\nPerformance and Mobile\n\nAngular 2 was designed for mobile from the ground up. Aside from limited processing power, mobile devices have other features and limitations that separate them from traditional computers. Touch interfaces, limited screen real estate and mobile hardware have all been considered in Angular 2.\nDesktop computers will also see dramatic improvements in performance and responsiveness.\nAngular 2, like React and other modern frameworks, can leverage performance gains by rendering HTML on the server or even in a web worker. Depending on application/site design this isomorphic rendering can make a user's experience feel even more instantaneous.\nThe quest for performance does not end with pre-rendering. Angular 2 makes itself portable to native mobile by integrating with NativeScript, an open source library that bridges JavaScript and mobile. Additionally, the Ionic team is working on an Angular 2 version of their product, providing another way to leverage native device features with Angular 2.\nProject Architecture and Maintenance\n\nThe first iteration of Angular provided web programmers with a highly flexible framework for developing applications. This was a dramatic shift for many web programmers, and while that framework was helpful, it became evident that it was often too flexible. Over time, best practices evolved, and a community-driven structure was endorsed.\nAngular 1.x tried to work around various browser limitations related to JavaScript. This was done by introducing a module system that made use of dependency injection. This system was novel, but unfortunately had issues with tooling, notably minification and static analysis.\nAngular 2.x makes use of the ES2015 module system, and modern packaging tools like webpack or SystemJS. Modules are far less coupled to the \"Angular way\", and it's easier to write more generic JavaScript and plug it into Angular. The removal of minification workarounds and the addition of rigid prescriptions make maintaining existing applications simpler. The new module system also makes it easier to develop effective tooling that can reason better about larger projects.\nNew Features\n\nSome of the other interesting features in Angular 2 are:\nForm Builder\nChange Detection\nTemplatin",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zT_kNw5lMqI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zT_kNw5lMqI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zT_kNw5lMqI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zT_kNw5lMqI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zT_kNw5lMqI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular  Crash Course",
-          "description": "Why Angular 2?\n\nThere are many front-end JavaScript frameworks to choose from today, each with its own set of trade-offs. Many people were happy with the functionality that Angular 1.x afforded them. Angular 2 improved on that functionality and made it faster, more scalable and more modern. Organizations that found value in Angular 1.x will find more value in Angular 2.\nAngular 2's Advantages\n\nThe first release of Angular provided programmers with the tools to develop and architect large scale JavaScript applications, but its age has revealed a number of flaws and sharp edges. Angular 2 was built on five years of community feedback.\nAngular 2 Is Easier\n\nThe new Angular 2 codebase is more modern, more capable and easier for new programmers to learn than Angular 1.x, while also being easier for project veterans to work with.\nWith Angular 1, programmers had to understand the differences between Controllers, Services, Factories, Providers and other concepts that could be confusing, especially for new programmers.\nAngular 2 is a more streamlined framework that allows programmers to focus on simply building JavaScript classes. Views and controllers are replaced with components, which can be described as a refined version of directives. Even experienced Angular programmers are not always aware of all the capabilities of Angular 1.x directives. Angular 2 components are considerably easier to read, and their API features less jargon than Angular 1.x's directives. Additionally, to help ease the transition to Angular 2, the Angular team has added a .component method to Angular 1.5, which has been back-ported by community member Todd Motto to v1.3.\nTypeScript\n\nAngular 2 was written in TypeScript, a superset of JavaScript that implements many new ES2016+ features.\nBy focusing on making the framework easier for computers to process, Angular 2 allows for a much richer development ecosystem. Programmers using sophisticated text editors (or IDEs) will notice dramatic improvements with auto-completion and type suggestions. These improvements help to reduce the cognitive burden of learning Angular 2. Fortunately for traditional ES5 JavaScript programmers this does not mean that development must be done in TypeScript or ES2015: programmers can still write vanilla JavaScript that runs without transpilation.\nFamiliarity\n\nDespite being a complete rewrite, Angular 2 has retained many of its core concepts and conventions with Angular 1.x, e.g. a streamlined, \"native JS\" implementation of dependency injection. This means that programmers who are already proficient with Angular will have an easier time migrating to Angular 2 than another library like React or framework like Ember.\nPerformance and Mobile\n\nAngular 2 was designed for mobile from the ground up. Aside from limited processing power, mobile devices have other features and limitations that separate them from traditional computers. Touch interfaces, limited screen real estate and mobile hardware have all been considered in Angular 2.\nDesktop computers will also see dramatic improvements in performance and responsiveness.\nAngular 2, like React and other modern frameworks, can leverage performance gains by rendering HTML on the server or even in a web worker. Depending on application/site design this isomorphic rendering can make a user's experience feel even more instantaneous.\nThe quest for performance does not end with pre-rendering. Angular 2 makes itself portable to native mobile by integrating with NativeScript, an open source library that bridges JavaScript and mobile. Additionally, the Ionic team is working on an Angular 2 version of their product, providing another way to leverage native device features with Angular 2.\nProject Architecture and Maintenance\n\nThe first iteration of Angular provided web programmers with a highly flexible framework for developing applications. This was a dramatic shift for many web programmers, and while that framework was helpful, it became evident that it was often too flexible. Over time, best practices evolved, and a community-driven structure was endorsed.\nAngular 1.x tried to work around various browser limitations related to JavaScript. This was done by introducing a module system that made use of dependency injection. This system was novel, but unfortunately had issues with tooling, notably minification and static analysis.\nAngular 2.x makes use of the ES2015 module system, and modern packaging tools like webpack or SystemJS. Modules are far less coupled to the \"Angular way\", and it's easier to write more generic JavaScript and plug it into Angular. The removal of minification workarounds and the addition of rigid prescriptions make maintaining existing applications simpler. The new module system also makes it easier to develop effective tooling that can reason better about larger projects.\nNew Features\n\nSome of the other interesting features in Angular 2 are:\nForm Builder\nChange Detection\nTemplatin"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "i1ifSAN9wiajdv3jfORuRmEkCjo",
-      "id": "PLIGDNOJWiL1-GFpM1Jmt-3UimEvL3aXEU",
-      "snippet": {
-        "publishedAt": "2016-08-29T10:20:54Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Daily Talks on React",
-        "description": "React - a JS library that helps you divide your app into multiple components. But it doesn’t clearly specify how to keep track of the data (aka State), and how to deal with all the events (aka Actions) properly.\n \nRedux is a complimentary library to React, that provides a way to easily manage the State and the Actions. Essentially Redux allows you to build a React app whose state is managed by redux container. It seems clear that future web applications are all about this sweet couple: React with Redux. \n\nWatch this playlist  and get a headstart on Redux, focussing on components like action creators, reducers, store and middlewares, and how they fit with React components",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HI4eZAz21Bc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HI4eZAz21Bc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HI4eZAz21Bc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HI4eZAz21Bc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HI4eZAz21Bc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Daily Talks on React",
-          "description": "React - a JS library that helps you divide your app into multiple components. But it doesn’t clearly specify how to keep track of the data (aka State), and how to deal with all the events (aka Actions) properly.\n \nRedux is a complimentary library to React, that provides a way to easily manage the State and the Actions. Essentially Redux allows you to build a React app whose state is managed by redux container. It seems clear that future web applications are all about this sweet couple: React with Redux. \n\nWatch this playlist  and get a headstart on Redux, focussing on components like action creators, reducers, store and middlewares, and how they fit with React components"
         }
       }
     },
@@ -8276,691 +3761,3152 @@ module.exports = {
     },
     {
       "kind": "youtube#playlist",
-      "etag": "JrfT-a_Y0yfASmg5GQmDVlLZx8c",
-      "id": "PLIGDNOJWiL1-bN8FPZ6xnD6ljL_ZtyXTT",
+      "etag": "IKiKxdAQovU01cdszYcE9M6Q49I",
+      "id": "PLT5Jhb7lgSBOApSRFALpyEkKYLhyrurvt",
       "snippet": {
-        "publishedAt": "2016-08-15T11:49:13Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "JavaScript for developers",
-        "description": "You can practice JavaScript in your web browser! Take advantage of Google Chrome developer tools to put the JavaScript you have learned during our whiteboard lesson into practice with further examples and challenges. This is our JavaScript playground.\n\nLearning JavaScript is like learning a language. This course won't make a false promise of saying you will master JavaScript overnight. However, this course will immerse you into the world's most popular programming language.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lNhHzg0P4G8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lNhHzg0P4G8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lNhHzg0P4G8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lNhHzg0P4G8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lNhHzg0P4G8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "JavaScript for developers",
-          "description": "You can practice JavaScript in your web browser! Take advantage of Google Chrome developer tools to put the JavaScript you have learned during our whiteboard lesson into practice with further examples and challenges. This is our JavaScript playground.\n\nLearning JavaScript is like learning a language. This course won't make a false promise of saying you will master JavaScript overnight. However, this course will immerse you into the world's most popular programming language."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "FCUzf0X8fNkpUkgSDuJoSez16qo",
-      "id": "PLIGDNOJWiL1-jHUquJ5LMhuOFzkNIF-I8",
-      "snippet": {
-        "publishedAt": "2016-08-08T05:56:36Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React Redux Training | Training | Workshop",
+        "publishedAt": "2024-07-26T01:16:41Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "NestJS Testing Tutorials 2024",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/f4c50AHvQDE/default.jpg",
+            "url": "https://i.ytimg.com/vi/FIF0sMK9K8k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/f4c50AHvQDE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FIF0sMK9K8k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/f4c50AHvQDE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FIF0sMK9K8k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/f4c50AHvQDE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/FIF0sMK9K8k/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/f4c50AHvQDE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FIF0sMK9K8k/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "React Redux Training | Training | Workshop",
+          "title": "NestJS Testing Tutorials 2024",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "GQI61whUcobzKKKBj_F5PvjUBAE",
-      "id": "PLIGDNOJWiL18YzChKBVtz_Ta4Ffqn1dFu",
+      "etag": "V5sooBcBI69Fs2M9Q_f5vt0qKlo",
+      "id": "PLT5Jhb7lgSBPsBLSXbN57ZVeI-rhR3Z4L",
       "snippet": {
-        "publishedAt": "2016-08-08T05:30:59Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Hapi JS Training",
-        "description": "A rich framework for building applications and services\nhapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure.\nLets learn it",
+        "publishedAt": "2024-07-17T02:02:59Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Publish NPM Package to Github for React, Node and Nest JS",
+        "description": "Publish NPM Package to Github for React, Node and Nest JS",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LpMQhFaHLHM/default.jpg",
+            "url": "https://i.ytimg.com/vi/N8fQgyB18PU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LpMQhFaHLHM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8fQgyB18PU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LpMQhFaHLHM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8fQgyB18PU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/LpMQhFaHLHM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8fQgyB18PU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/LpMQhFaHLHM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/N8fQgyB18PU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "Hapi JS Training",
-          "description": "A rich framework for building applications and services\nhapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure.\nLets learn it"
+          "title": "Publish NPM Package to Github for React, Node and Nest JS",
+          "description": "Publish NPM Package to Github for React, Node and Nest JS"
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "eMfh4sLsifMJRCzXZOeJyQ9Hs1w",
-      "id": "PLIGDNOJWiL19GEjetecZC86TpVr9iVgYX",
+      "etag": "XE1t7Qzss7VEINNh_70prCY-3Os",
+      "id": "PLT5Jhb7lgSBMHMbscUTeBhlIyu9PBaBP1",
       "snippet": {
-        "publishedAt": "2016-07-12T06:41:31Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Screencast for Understanding Angular 2.0",
-        "description": "Why Angular 2.0?\nBefore getting into further discussion about Angular 2.0 (which has an estimated release date of the end of 2015), let’s briefly consider the philosophy behind the new version. Angular 2.0 development was started to address the following concerns:\n\nMobile\nThe new Angular version will be focused on the development of mobile apps. The rationale is that it’s easier to handle the desktop aspect of things, once the challenges related to mobile (performance, load time, etc.) have been addressed.\n\nModular\nVarious modules will be removed from Angular’s core, resulting in better performance. These will find their way into Angular’s ever-growing ecosystem of modules, meaning you’ll be able to pick and choose the parts you need.\n\nModern\nAngular 2.0 will target ES6 and “evergreen” modern browsers (those automatically updated to the latest version). Building for these browsers means that various hacks and workarounds that make Angular harder to develop can be eliminated allowing developers to focus on the code related to their business domain.",
+        "publishedAt": "2024-02-03T12:05:24Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Build Microservices in 2024",
+        "description": "Build Microservices in 2024",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/q22rYsznCoc/default.jpg",
+            "url": "https://i.ytimg.com/vi/8ZLmohy5oI0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/q22rYsznCoc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ZLmohy5oI0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/q22rYsznCoc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ZLmohy5oI0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/q22rYsznCoc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ZLmohy5oI0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/q22rYsznCoc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ZLmohy5oI0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "Screencast for Understanding Angular 2.0",
-          "description": "Why Angular 2.0?\nBefore getting into further discussion about Angular 2.0 (which has an estimated release date of the end of 2015), let’s briefly consider the philosophy behind the new version. Angular 2.0 development was started to address the following concerns:\n\nMobile\nThe new Angular version will be focused on the development of mobile apps. The rationale is that it’s easier to handle the desktop aspect of things, once the challenges related to mobile (performance, load time, etc.) have been addressed.\n\nModular\nVarious modules will be removed from Angular’s core, resulting in better performance. These will find their way into Angular’s ever-growing ecosystem of modules, meaning you’ll be able to pick and choose the parts you need.\n\nModern\nAngular 2.0 will target ES6 and “evergreen” modern browsers (those automatically updated to the latest version). Building for these browsers means that various hacks and workarounds that make Angular harder to develop can be eliminated allowing developers to focus on the code related to their business domain."
+          "title": "Build Microservices in 2024",
+          "description": "Build Microservices in 2024"
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "yKJkoSKtTUmpwyS_51QbnbP3Ip4",
-      "id": "PLIGDNOJWiL18H4M4rRGgXajpIr5r9A418",
+      "etag": "U67DIH903qtIHkAWn_xZg90srgw",
+      "id": "PLT5Jhb7lgSBN34ub_gstqkVB_MEzrSciD",
       "snippet": {
-        "publishedAt": "2016-07-11T16:51:25Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Screencast  for Understanding  JavaScript ES5 ES6/7",
+        "publishedAt": "2023-12-08T02:07:33Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Tech Random Topics for Blogs",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZdaOUIX0gI8/default.jpg",
+            "url": "https://i.ytimg.com/vi/-z-MxwLwrj4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZdaOUIX0gI8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-z-MxwLwrj4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZdaOUIX0gI8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-z-MxwLwrj4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ZdaOUIX0gI8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-z-MxwLwrj4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ZdaOUIX0gI8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-z-MxwLwrj4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "Screencast  for Understanding  JavaScript ES5 ES6/7",
+          "title": "Tech Random Topics for Blogs",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "OvZ5MUNaH2_AE3eZwXr3ZTIjRg8",
-      "id": "PLIGDNOJWiL198PkdexY3NC3XllVUFFRjw",
+      "etag": "o1FwEBiuqNwSzdIfSIeHKltKrfY",
+      "id": "PLT5Jhb7lgSBOSNX_Pc_fewKV001IbHa2n",
       "snippet": {
-        "publishedAt": "2016-07-07T05:12:31Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Understanding JavaScript Promises",
-        "description": "A Promise represents a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers to an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of the final value, the asynchronous method returns a promise of having a value at some point in the future.\n\nA Promise is in one of these states:\n\npending: initial state, not fulfilled or rejected.\nfulfilled: meaning that the operation completed successfully.\nrejected: meaning that the operation failed.\n\nLets do deep dive in this with Node angular and ES6",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xf9_WGhY9Kg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xf9_WGhY9Kg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xf9_WGhY9Kg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xf9_WGhY9Kg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Understanding JavaScript Promises",
-          "description": "A Promise represents a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers to an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of the final value, the asynchronous method returns a promise of having a value at some point in the future.\n\nA Promise is in one of these states:\n\npending: initial state, not fulfilled or rejected.\nfulfilled: meaning that the operation completed successfully.\nrejected: meaning that the operation failed.\n\nLets do deep dive in this with Node angular and ES6"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "CBhdqQv2jJpXJcka8iNjUfK8n0Y",
-      "id": "PLIGDNOJWiL1_EDIrIG2fzXz3nRV2yJ2eA",
-      "snippet": {
-        "publishedAt": "2016-07-05T05:29:17Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React Component Testing",
+        "publishedAt": "2023-11-04T10:27:08Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Become Pro developer in 2024",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4UQ1beAJL7o/default.jpg",
+            "url": "https://i.ytimg.com/vi/LEaYbN6UPa8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4UQ1beAJL7o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LEaYbN6UPa8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4UQ1beAJL7o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LEaYbN6UPa8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4UQ1beAJL7o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/LEaYbN6UPa8/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LEaYbN6UPa8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "React Component Testing",
+          "title": "Become Pro developer in 2024",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "07rj3Xxi70dGGHtquP--jSYPSio",
-      "id": "PLIGDNOJWiL1_LspqZH8S8FD_tv664o6Jb",
+      "etag": "SGbmn8QlMj4hdltcWG8qhFNr-xU",
+      "id": "PLT5Jhb7lgSBNl46W_y6sOb_W54C9_L6Ml",
       "snippet": {
-        "publishedAt": "2016-07-04T05:01:31Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React development with Redux",
-        "description": "",
+        "publishedAt": "2023-10-01T04:34:26Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "The Frontend Developer Bootcamp || 80 hours Course",
+        "description": "The Frontend Developer Bootcamp || 80 hours Course",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cnJPIAhhNcI/default.jpg",
+            "url": "https://i.ytimg.com/vi/ypsJ1soPIvY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cnJPIAhhNcI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ypsJ1soPIvY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cnJPIAhhNcI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ypsJ1soPIvY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cnJPIAhhNcI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ypsJ1soPIvY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cnJPIAhhNcI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ypsJ1soPIvY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "React development with Redux",
+          "title": "The Frontend Developer Bootcamp || 80 hours Course",
+          "description": "The Frontend Developer Bootcamp || 80 hours Course"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0M8meD03-swjrxnPyr8opnhqGw0",
+      "id": "PLT5Jhb7lgSBPnQrc6YSQmj1w9-uPgI0DJ",
+      "snippet": {
+        "publishedAt": "2023-09-22T10:16:45Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Airbnb FullStack Clone Application",
+        "description": "Airbnb FullStack Clone Application",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzZ4F5IpAno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzZ4F5IpAno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzZ4F5IpAno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PzZ4F5IpAno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PzZ4F5IpAno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Airbnb FullStack Clone Application",
+          "description": "Airbnb FullStack Clone Application"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kjyGFLvyKZBvDYAE633dZsst6iQ",
+      "id": "PLT5Jhb7lgSBMAPSRZee5DZ_d7CksN3oyC",
+      "snippet": {
+        "publishedAt": "2023-06-06T13:01:37Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Build Modern Application Using T3 Stack",
+        "description": "Build Modern Application Using T3 Stack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1WP5HsTUEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1WP5HsTUEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1WP5HsTUEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K1WP5HsTUEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K1WP5HsTUEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Build Modern Application Using T3 Stack",
+          "description": "Build Modern Application Using T3 Stack"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "u58eJj7xKgD3B1wXUpYho3KCCuw",
+      "id": "PLT5Jhb7lgSBP6IwodkXgdpfcCYRW8f9UP",
+      "snippet": {
+        "publishedAt": "2023-05-14T06:30:02Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Master Full Stack Development with Applications",
+        "description": "Master Full Stack Development with Applications",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXqkJARfWiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXqkJARfWiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXqkJARfWiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jXqkJARfWiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Master Full Stack Development with Applications",
+          "description": "Master Full Stack Development with Applications"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3zxlIf6rHW6kS4VeHCu38VU3vqg",
+      "id": "PLT5Jhb7lgSBNujQ5kM4gr6mgTHkCL-EM3",
+      "snippet": {
+        "publishedAt": "2023-05-08T09:24:43Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Build Full Stack Clone Booking.com Application",
+        "description": "Build Full Stack Clone Booking.com Application",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U4pE4y8xbmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Build Full Stack Clone Booking.com Application",
+          "description": "Build Full Stack Clone Booking.com Application"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jBcibxewZ975yqxEDrCIIN5qcMw",
+      "id": "PLT5Jhb7lgSBOVgLGZGco_tTyGyHi-XMaF",
+      "snippet": {
+        "publishedAt": "2023-04-19T19:49:23Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Full Stack Clone Stack Overflow Clone",
+        "description": "Full Stack Clone Stack Overflow Clone",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j3pXbuCiEU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Full Stack Clone Stack Overflow Clone",
+          "description": "Full Stack Clone Stack Overflow Clone"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OyHDLrwVG0DM3p1IFpEFr_2NvSA",
+      "id": "PLT5Jhb7lgSBN7ixSwrFocSD-dM3l5crbI",
+      "snippet": {
+        "publishedAt": "2023-03-30T10:31:43Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "How to Become Ninja Pro developer",
+        "description": "How to Become Ninja Pro developer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7eFbrUrufcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "How to Become Ninja Pro developer",
+          "description": "How to Become Ninja Pro developer"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "p8IMyuQH1VSVytHdav6mcV8b6Kg",
+      "id": "PLT5Jhb7lgSBO5xhwHD8QLC68tuPRliHPC",
+      "snippet": {
+        "publishedAt": "2023-03-28T16:58:01Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Udemy Clone App Full Stack Development",
+        "description": "Udemy Clone App Full Stack Development",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eWobvqLYgTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Udemy Clone App Full Stack Development",
+          "description": "Udemy Clone App Full Stack Development"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "K-tyj-59RY-59-Jit93v2j0EEqE",
+      "id": "PLT5Jhb7lgSBMuxEkXfB8AgubNHCOy-zo0",
+      "snippet": {
+        "publishedAt": "2023-03-22T15:41:24Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Nest JS Microservices with Nx Monorepo",
+        "description": "Nest JS Microservices with Nx Monorepo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u7DxsiR881o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u7DxsiR881o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u7DxsiR881o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u7DxsiR881o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u7DxsiR881o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Nest JS Microservices with Nx Monorepo",
+          "description": "Nest JS Microservices with Nx Monorepo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "HYBd0llxxWu6bozFaRPe8YlesUc",
+      "id": "PLT5Jhb7lgSBPTzeblwMiC5XIqhzfbvztT",
+      "snippet": {
+        "publishedAt": "2023-03-15T09:52:30Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Nx Monorepo for development",
+        "description": "Nx Monorepo for development",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NtdGXeiP9mE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Nx Monorepo for development",
+          "description": "Nx Monorepo for development"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SbxDW-yuCmIlVedlvjh1sL_xe5w",
+      "id": "PLT5Jhb7lgSBMozp_deFN6FxogMilc-N0J",
+      "snippet": {
+        "publishedAt": "2023-03-10T10:05:30Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Channel Announcements",
+        "description": "All public Channel Announcements",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B1Kyb7kG5m8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Channel Announcements",
+          "description": "All public Channel Announcements"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pE9WBoL0mU7VY4yc20JwonEsCqk",
+      "id": "PLT5Jhb7lgSBMyju5pwL-F7e7XVzApw2-k",
+      "snippet": {
+        "publishedAt": "2023-03-10T01:24:58Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Explore AWS CDK to Deploy Apps",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A_9FlZXM-u0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Explore AWS CDK to Deploy Apps",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "bH4dCEhNJvQjU1t_SsXK5DRCgX0",
-      "id": "PLIGDNOJWiL1-L6rJVpbpsxbLDm7j5qOOi",
+      "etag": "KnYXbU-xz2NeOhjeaj0hAX81fgs",
+      "id": "PLT5Jhb7lgSBOWdraDbw6lqBt041onSFSO",
       "snippet": {
-        "publishedAt": "2016-07-03T18:48:34Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React js development with Flux",
+        "publishedAt": "2023-02-28T07:53:59Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Weekend Webinar",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cHbLGRuKm9M/default.jpg",
+            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cHbLGRuKm9M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cHbLGRuKm9M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cHbLGRuKm9M/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v5s4y8io-hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "React js development with Flux",
+          "title": "Weekend Webinar",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "QPG4st6T0F5Al5V1qonwIXBddT8",
-      "id": "PLIGDNOJWiL18kSA2x_PRt7l0CyysyRC81",
+      "etag": "lnn1wDCto_l4gafgORKArUqFnfM",
+      "id": "PLT5Jhb7lgSBOk6JI40D6p9T5K2jYzG-wU",
       "snippet": {
-        "publishedAt": "2016-07-03T18:20:40Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React js Development with ES6",
+        "publishedAt": "2023-02-22T20:09:07Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Next JS 13 Server Side Rendering",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jAmE4xDwBSA/default.jpg",
+            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jAmE4xDwBSA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jAmE4xDwBSA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/jAmE4xDwBSA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6qX-ft9Mo98/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "React js Development with ES6",
+          "title": "Next JS 13 Server Side Rendering",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "M09nysHqLx223KlH61Kn4COa-Ck",
-      "id": "PLIGDNOJWiL18sprMVE4h0AH-VnSGGOct7",
+      "etag": "VNtG9SLdcfW1N9q_meIpaNMYPkc",
+      "id": "PLT5Jhb7lgSBO7s-ePkDiaHoGlleOfjg9y",
       "snippet": {
-        "publishedAt": "2016-05-10T16:19:36Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Understanding ES6 Javascript know as  es2015",
-        "description": "JavaScript has come a long ways in its 20 years of existence. It’s grown from a language used to define a few variables and functions to one that can be used to build robust applications on the client-side and server-side. Although it’s popularity continues to grow in large part due to its dynamic nature and ability to run anywhere, JavaScript as a language is still missing many key features that could help increase developer productivity and provide a more maintainable code base. Fortunately, ECMAScript 6 (ES6) adds many new features that will take the language to the next level.\n\nThis is the first post in a series I’ll be writing that will walk through key features in ES6 and explain how they can be used. I’ll also introduce tools and other languages along the way that can be used to work with ES6 in different browsers as well as on the server-side with frameworks like Node.js. The goal of this first post is to discuss the viability of using ES6 today and point out resources that can help you get started using it. Let’s kick things off by talking about a few of the key features in ES6.\n\n \n\nKey Features in ES6\nSo what are some of the key features in ES6? Here’s a list of some of my favorites:\n\nArrow functions – A short-hand version of an anonymous function.\nBlock-level scope – ES6 now supports scoping variables to blocks (if, for, while, etc.) using the let keyword.\nClasses – ES6 classes provide a way to encapsulate and extend code.\nConstants – You can now define constants in ES6 code using the const keyword.\nDefault parameters – Ever wished that a function parameter could be assigned a default value? You can do that now in ES6.\nDestructuring – A succinct and flexible way to assign values from arrays or objects into variables.\nGenerators – Specialized functions that create iterators using function* and the yield keyword.\nMap – Dictionary type object that can be used to store key/value pairs.\nModules – Provides a modular way of organizing and loading code.\nPromises – Used with async operations.\nRest parameters – Replaces the need for using arguments to access functions arguments. Allows you to get to an array representing “the rest of the parameters”.\nSet – A collection object that can be used to store a list of data values.\nTemplate Strings – Clean way to build up string values.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/p_ks0FzrcnI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/p_ks0FzrcnI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/p_ks0FzrcnI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/p_ks0FzrcnI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Understanding ES6 Javascript know as  es2015",
-          "description": "JavaScript has come a long ways in its 20 years of existence. It’s grown from a language used to define a few variables and functions to one that can be used to build robust applications on the client-side and server-side. Although it’s popularity continues to grow in large part due to its dynamic nature and ability to run anywhere, JavaScript as a language is still missing many key features that could help increase developer productivity and provide a more maintainable code base. Fortunately, ECMAScript 6 (ES6) adds many new features that will take the language to the next level.\n\nThis is the first post in a series I’ll be writing that will walk through key features in ES6 and explain how they can be used. I’ll also introduce tools and other languages along the way that can be used to work with ES6 in different browsers as well as on the server-side with frameworks like Node.js. The goal of this first post is to discuss the viability of using ES6 today and point out resources that can help you get started using it. Let’s kick things off by talking about a few of the key features in ES6.\n\n \n\nKey Features in ES6\nSo what are some of the key features in ES6? Here’s a list of some of my favorites:\n\nArrow functions – A short-hand version of an anonymous function.\nBlock-level scope – ES6 now supports scoping variables to blocks (if, for, while, etc.) using the let keyword.\nClasses – ES6 classes provide a way to encapsulate and extend code.\nConstants – You can now define constants in ES6 code using the const keyword.\nDefault parameters – Ever wished that a function parameter could be assigned a default value? You can do that now in ES6.\nDestructuring – A succinct and flexible way to assign values from arrays or objects into variables.\nGenerators – Specialized functions that create iterators using function* and the yield keyword.\nMap – Dictionary type object that can be used to store key/value pairs.\nModules – Provides a modular way of organizing and loading code.\nPromises – Used with async operations.\nRest parameters – Replaces the need for using arguments to access functions arguments. Allows you to get to an array representing “the rest of the parameters”.\nSet – A collection object that can be used to store a list of data values.\nTemplate Strings – Clean way to build up string values."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "dYxRLNKwYr7ZHe1D6-3maXCRKeg",
-      "id": "PLIGDNOJWiL1_AqgDvtNv2jiyG3PwZUBP2",
-      "snippet": {
-        "publishedAt": "2016-05-07T17:07:11Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Understanding JavaScript Promises and RX JS Observables",
+        "publishedAt": "2023-02-14T09:10:30Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS Microservices Graphql API based #microservices Apollo Federation",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OgFGKHjeQRc/default.jpg",
+            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OgFGKHjeQRc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OgFGKHjeQRc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/OgFGKHjeQRc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/OgFGKHjeQRc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ee-zskHMKnk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "Understanding JavaScript Promises and RX JS Observables",
+          "title": "Node JS Microservices Graphql API based #microservices Apollo Federation",
           "description": ""
         }
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "vO2x9pWIPHhD5myQNeNI_BNx3YA",
-      "id": "PLIGDNOJWiL18FF0_8WHcpb3zY__eIW0G7",
+      "etag": "oWwFZUb33SzJnjf9J6WJ6Sq-mQo",
+      "id": "PLT5Jhb7lgSBMvdxiJQZISNQzedI6pGLgs",
       "snippet": {
-        "publishedAt": "2016-05-05T07:06:22Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Node JS Training series",
-        "description": "NodeJS is a rapidy growing web server technology, and Node developers are among the highest paid in the industry. Knowing NodeJS well will get you a job or improve your current one by enabling you to build high quality, robust web applications.\nIn this course you will gain a deep understanding of Node, learn how NodeJS works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.\nIn this course we'll look at how the C++ written V8 Javascript engine works and how NodeJS uses it to expand the abilities of Javascript. You'll learn how to structure your code for reuse and to be easier to understand, manage, and expand using modules and understand how modules really work.\n\nYou'll learn how asynchronous code works in Node and the Node event loop, as well as how to use the event emitter, streams, buffers, pipes, and work with files. We'll see how that leads to building a web server in Node.\n\nWe'll dive into web sites, web apps and APIs with Express and learn how Express can save us time as Node developers.\n\nYou'll also gain an understanding of npm, connecting to databases, and the MEAN stack!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2aQEn3trbas/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2aQEn3trbas/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2aQEn3trbas/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2aQEn3trbas/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2aQEn3trbas/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Node JS Training series",
-          "description": "NodeJS is a rapidy growing web server technology, and Node developers are among the highest paid in the industry. Knowing NodeJS well will get you a job or improve your current one by enabling you to build high quality, robust web applications.\nIn this course you will gain a deep understanding of Node, learn how NodeJS works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.\nIn this course we'll look at how the C++ written V8 Javascript engine works and how NodeJS uses it to expand the abilities of Javascript. You'll learn how to structure your code for reuse and to be easier to understand, manage, and expand using modules and understand how modules really work.\n\nYou'll learn how asynchronous code works in Node and the Node event loop, as well as how to use the event emitter, streams, buffers, pipes, and work with files. We'll see how that leads to building a web server in Node.\n\nWe'll dive into web sites, web apps and APIs with Express and learn how Express can save us time as Node developers.\n\nYou'll also gain an understanding of npm, connecting to databases, and the MEAN stack!"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ZAkRqDYqXYQh0kaHdvgBoiVgcGs",
-      "id": "PLIGDNOJWiL1_2CpDKGg4-jNPqoirutxc5",
-      "snippet": {
-        "publishedAt": "2016-04-30T18:15:22Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "React JS Training program",
-        "description": "React is a library developed by Facebook, and it is designed to build large applications with data that changes over time. Developers can use ReactJS to create user interfaces (UI) with high performance, where React would automatically manage all UI updates. React is all about building reusable web components, and it also renders on the server using Node.js. Learn ReactJS through online Learning Center, where you can find tutorials, videos, guides, and ReactJS tips & tricks from experienced ReactJS developers.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7hcfHyG0Inw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7hcfHyG0Inw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7hcfHyG0Inw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7hcfHyG0Inw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "React JS Training program",
-          "description": "React is a library developed by Facebook, and it is designed to build large applications with data that changes over time. Developers can use ReactJS to create user interfaces (UI) with high performance, where React would automatically manage all UI updates. React is all about building reusable web components, and it also renders on the server using Node.js. Learn ReactJS through online Learning Center, where you can find tutorials, videos, guides, and ReactJS tips & tricks from experienced ReactJS developers."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "p_zWqLqpuArr_CzwzArLqZuzc6Y",
-      "id": "PLIGDNOJWiL18kc871H8_u4p1NYgpXXF0p",
-      "snippet": {
-        "publishedAt": "2016-04-30T18:15:00Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Angular 2.0 Final  Training  Series",
-        "description": "Why Angular 2.0?\nBefore getting into further discussion about Angular 2.0 (which has an estimated release date of the end of 2015), let’s briefly consider the philosophy behind the new version. Angular 2.0 development was started to address the following concerns:\n\nhttps://github.com/tkssharma/Angular-2-Tutorial-series-\n\nMobile\nThe new Angular version will be focused on the development of mobile apps. The rationale is that it’s easier to handle the desktop aspect of things, once the challenges related to mobile (performance, load time, etc.) have been addressed.\n\nModular\nVarious modules will be removed from Angular’s core, resulting in better performance. These will find their way into Angular’s ever-growing ecosystem of modules, meaning you’ll be able to pick and choose the parts you need.\n\nModern\nAngular 2.0 will target ES6 and “evergreen” modern browsers (those automatically updated to the latest version). Building for these browsers means that various hacks and workarounds that make Angular harder to develop can be eliminated allowing developers to focus on the code related to their business domain.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oc_Aet6_80M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oc_Aet6_80M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oc_Aet6_80M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oc_Aet6_80M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oc_Aet6_80M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Angular 2.0 Final  Training  Series",
-          "description": "Why Angular 2.0?\nBefore getting into further discussion about Angular 2.0 (which has an estimated release date of the end of 2015), let’s briefly consider the philosophy behind the new version. Angular 2.0 development was started to address the following concerns:\n\nhttps://github.com/tkssharma/Angular-2-Tutorial-series-\n\nMobile\nThe new Angular version will be focused on the development of mobile apps. The rationale is that it’s easier to handle the desktop aspect of things, once the challenges related to mobile (performance, load time, etc.) have been addressed.\n\nModular\nVarious modules will be removed from Angular’s core, resulting in better performance. These will find their way into Angular’s ever-growing ecosystem of modules, meaning you’ll be able to pick and choose the parts you need.\n\nModern\nAngular 2.0 will target ES6 and “evergreen” modern browsers (those automatically updated to the latest version). Building for these browsers means that various hacks and workarounds that make Angular harder to develop can be eliminated allowing developers to focus on the code related to their business domain."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "yosOO30jsB-jaOI0Z2DR6ge7ncw",
-      "id": "PLIGDNOJWiL18dVcKSrsqA8HzmwiBxrHYu",
-      "snippet": {
-        "publishedAt": "2015-11-01T11:56:39Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Elastic Search",
-        "description": "Elastic provides a growing platform of open source projects and commercial products designed to search, analyze, and visualize your data, allowing you to get actionable insight in real time. Our products are architected to seamlessly work together as a standalone solution or easily integrate into your existing infrastructure.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9NEYA15n2n8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9NEYA15n2n8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9NEYA15n2n8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9NEYA15n2n8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9NEYA15n2n8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Code with tkssharma",
-        "localized": {
-          "title": "Elastic Search",
-          "description": "Elastic provides a growing platform of open source projects and commercial products designed to search, analyze, and visualize your data, allowing you to get actionable insight in real time. Our products are architected to seamlessly work together as a standalone solution or easily integrate into your existing infrastructure."
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "j7IbfrOHzJ5B59vD9MhK-AcPAFs",
-      "id": "PLIGDNOJWiL18N92FUi5-UdYet9km0PKHF",
-      "snippet": {
-        "publishedAt": "2015-03-01T05:39:04Z",
-        "channelId": "UCS1NeZF0Or2E1RAV9hQJz3g",
-        "title": "Maven Training",
+        "publishedAt": "2023-02-13T21:55:38Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS Microservices REST API based #microservices",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rV6J-lOKpsw/default.jpg",
+            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rV6J-lOKpsw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rV6J-lOKpsw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cy1ShU5TGxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Code with tkssharma",
+        "channelTitle": "IndiTechCoder",
         "localized": {
-          "title": "Maven Training",
+          "title": "Node JS Microservices REST API based #microservices",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "WBuo3mKX8YBljPBlDiKq0re2mV0",
+      "id": "PLT5Jhb7lgSBN5U6p_KSCtZfHYSqQUQ7hw",
+      "snippet": {
+        "publishedAt": "2023-02-13T21:55:08Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "All About Node JS Microservices #microservices",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bd6RZl3GhmI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "All About Node JS Microservices #microservices",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6EcekKymWZ-O3-azNqxtaZojWxA",
+      "id": "PLT5Jhb7lgSBOsHPeMm4YZkojofRxN3TBs",
+      "snippet": {
+        "publishedAt": "2023-02-02T16:05:09Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Crack Interviews Javascript",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ilORNaoAR3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Crack Interviews Javascript",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7vU7P-PrXow0120f-dQVGp2m3oc",
+      "id": "PLT5Jhb7lgSBM-MoOjmRO7cASPvtCU_Bbc",
+      "snippet": {
+        "publishedAt": "2022-07-21T23:26:58Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "SvelteKit for Server side rendering using Sveltejs",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8b2igO_zpiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "SvelteKit for Server side rendering using Sveltejs",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lHvMDGoqXHd3YxsMYyU7470mEPA",
+      "id": "PLT5Jhb7lgSBNQZXl-IXfzaw-cYVSmum-j",
+      "snippet": {
+        "publishedAt": "2022-05-21T12:59:19Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Live Streams on Node JS and Javascript",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0dzh4o_ruYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Live Streams on Node JS and Javascript",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "63LCN-ORx1OIrxgjSqCDJzmSUaQ",
+      "id": "PLT5Jhb7lgSBMqIuNda0gGNEiMS-ahGJM1",
+      "snippet": {
+        "publishedAt": "2022-05-14T14:16:32Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Svelte JS for developers",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lxzyI4WoffM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Svelte JS for developers",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "85l2c5cWX1hBYozMQBt6RzqiqGc",
+      "id": "PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx",
+      "snippet": {
+        "publishedAt": "2022-03-12T08:16:17Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Nest JS Advanced Course for developers [2024]",
+        "description": "# Nest JS Advance Series 2024\nNestJS offers a level of abstraction above two very popular Node.js frameworks, either Express.js or Fastify. This means that all of the great middleware that are available for Express.js and Fastify can also be used with NestJS.\n\nNestJS is based heavily on Angular, and uses Angular-like modules, services, controllers, pipes, and decorators. This allows NestJS to help developers create scalable, testable, loosely coupled, and easily maintainable applications. NestJS was built with TypeScript, but it can also support pure JavaScript development.\n\n- Nest JS Microservices Setup -01\n- Nest JS DTO Validation\n- Nest JS Config Module\n- Nest JS CI/CD Setup with Heroku\n- Nest JS Migration Setup with Knex\n- Nest JS API caching\n- Nest JS with External Services Like Kafka and Elastic Search, or any database or Redis\n- Nest JS with Azure or S3 for upload and download files\n- Nest JS with SQS and SNS\n- Nest JS with Redis\n- Nest JS with other Microservices\n- Nest JS Request/Response Handling.\n- Nest JS handling Middleware for Routes\n- Nest JS Custom Response Interceptor\n- Nest JS Swagger for all type of Response and Error Codes\n- Nest JS with Rabbit MQ Microservices\n- Nest JS Logging on Heroku\n- Nest JS CQRS @nestjs/cqrs\n- Nest JS CRUD using @nestjs/crud\n- Nest JS Types of Tests cases\n- Nest JS with Graphql\n- Nest JS with Prisma and Graphql\n- Nest JS with TypeORM or Sequelize\n- Nest JS with Prisma ORM\n- Nest JS with Sequelize ORM\n- Nest JS with External services\n- Nest JS with Dynamic Modules\n- Nest JS with Mongoose for API development\n- Nest JS with Rollbar for External error Logging\n- Nest JS auth and authz\n- Nest JS Dynamic Modules\n- Nest JS security\n- Nest JS with Nest JS Microservices Kafka, Grp, Rabbit MQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/azFo6p4CRIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/azFo6p4CRIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/azFo6p4CRIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/azFo6p4CRIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/azFo6p4CRIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Nest JS Advanced Course for developers [2024]",
+          "description": "# Nest JS Advance Series 2024\nNestJS offers a level of abstraction above two very popular Node.js frameworks, either Express.js or Fastify. This means that all of the great middleware that are available for Express.js and Fastify can also be used with NestJS.\n\nNestJS is based heavily on Angular, and uses Angular-like modules, services, controllers, pipes, and decorators. This allows NestJS to help developers create scalable, testable, loosely coupled, and easily maintainable applications. NestJS was built with TypeScript, but it can also support pure JavaScript development.\n\n- Nest JS Microservices Setup -01\n- Nest JS DTO Validation\n- Nest JS Config Module\n- Nest JS CI/CD Setup with Heroku\n- Nest JS Migration Setup with Knex\n- Nest JS API caching\n- Nest JS with External Services Like Kafka and Elastic Search, or any database or Redis\n- Nest JS with Azure or S3 for upload and download files\n- Nest JS with SQS and SNS\n- Nest JS with Redis\n- Nest JS with other Microservices\n- Nest JS Request/Response Handling.\n- Nest JS handling Middleware for Routes\n- Nest JS Custom Response Interceptor\n- Nest JS Swagger for all type of Response and Error Codes\n- Nest JS with Rabbit MQ Microservices\n- Nest JS Logging on Heroku\n- Nest JS CQRS @nestjs/cqrs\n- Nest JS CRUD using @nestjs/crud\n- Nest JS Types of Tests cases\n- Nest JS with Graphql\n- Nest JS with Prisma and Graphql\n- Nest JS with TypeORM or Sequelize\n- Nest JS with Prisma ORM\n- Nest JS with Sequelize ORM\n- Nest JS with External services\n- Nest JS with Dynamic Modules\n- Nest JS with Mongoose for API development\n- Nest JS with Rollbar for External error Logging\n- Nest JS auth and authz\n- Nest JS Dynamic Modules\n- Nest JS security\n- Nest JS with Nest JS Microservices Kafka, Grp, Rabbit MQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DeK-O-VJzaUURpQKpbB9V4ABcew",
+      "id": "PLT5Jhb7lgSBPgWsiBZwNPBtjgPpAycAN3",
+      "snippet": {
+        "publishedAt": "2022-03-12T08:06:43Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Nest JS with Graphql APIs development",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZcEWdx2exME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Nest JS with Graphql APIs development",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "o_sjmO9Ci7byaQKDntooxrLbMgY",
+      "id": "PLT5Jhb7lgSBOJsu7UkU4Es2b_zUQePAUa",
+      "snippet": {
+        "publishedAt": "2022-02-02T08:56:46Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Graphql Node JS Master Course",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Graphql Node JS Master Course",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "IoW9azv9c02jfxHRrb3oqPhbFDk",
+      "id": "PLT5Jhb7lgSBPMUvkSNl5BXBECMOUWC_lm",
+      "snippet": {
+        "publishedAt": "2022-01-23T12:09:29Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Redux Toolkit for React Apps",
+        "description": "The Redux Toolkit package is intended to be the standard way to write Redux logic. It was originally created to help address three common concerns about Redux:\n\n\"Configuring a Redux store is too complicated\"\n\"I have to add a lot of packages to get Redux to do anything useful\"\n\"Redux requires too much boilerplate code\"\nWe can't solve every use case, but in the spirit of create-react-app, we can try to provide some tools that abstract over the setup process and handle the most common use cases, as well as include some useful utilities that will let the user simplify their application code.\n\n\nTo sum up, we have 6 steps to implement the Redux Toolkit to our react project:\nInstall Redux Toolkit and React-Redux Packages.\nCreate a Redux Store.\nInclude the Redux Store to App. js parent.\nCreate a Redux State Slice.\nAdd Slice Reducers to the Store.\nImplementing useSelector and useDispatch in React Components.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bhcaEqbXrEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Redux Toolkit for React Apps",
+          "description": "The Redux Toolkit package is intended to be the standard way to write Redux logic. It was originally created to help address three common concerns about Redux:\n\n\"Configuring a Redux store is too complicated\"\n\"I have to add a lot of packages to get Redux to do anything useful\"\n\"Redux requires too much boilerplate code\"\nWe can't solve every use case, but in the spirit of create-react-app, we can try to provide some tools that abstract over the setup process and handle the most common use cases, as well as include some useful utilities that will let the user simplify their application code.\n\n\nTo sum up, we have 6 steps to implement the Redux Toolkit to our react project:\nInstall Redux Toolkit and React-Redux Packages.\nCreate a Redux Store.\nInclude the Redux Store to App. js parent.\nCreate a Redux State Slice.\nAdd Slice Reducers to the Store.\nImplementing useSelector and useDispatch in React Components."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nMj3mXXsQ7sVxyqq2_-QWdOHFrc",
+      "id": "PLT5Jhb7lgSBMF7JqIV6OZZ9LYPGhqZjfS",
+      "snippet": {
+        "publishedAt": "2022-01-23T12:07:44Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Full Stack Clone Uber Eats using Microservices",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VBqsdTiUF2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VBqsdTiUF2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VBqsdTiUF2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VBqsdTiUF2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VBqsdTiUF2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Full Stack Clone Uber Eats using Microservices",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "34OjaDERNriFDyKanozL50rjZ6I",
+      "id": "PLT5Jhb7lgSBMWXRXI3qk6yyEM0fppaxCt",
+      "snippet": {
+        "publishedAt": "2021-11-12T20:34:49Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "HackerRank Certifications",
+        "description": "HackerRank certifications are also a great way to prepare for technical interviews. Each skill certification tests for relevant key competencies that employers expect from top candidates. Completing relevant certifications is an easy way to do a skills check before interviewing.\n\nLets explore all different skill interviews \n\n\n- react hacker rank skill certification \n- javascript hacker rank skill certification \n- nodejs hacker rank skill certification \n- java hacker rank skill certification \n- angular hacker rank skill certification \n- sql hacker rank skill certification",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kgkBXX5Aw_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "HackerRank Certifications",
+          "description": "HackerRank certifications are also a great way to prepare for technical interviews. Each skill certification tests for relevant key competencies that employers expect from top candidates. Completing relevant certifications is an easy way to do a skills check before interviewing.\n\nLets explore all different skill interviews \n\n\n- react hacker rank skill certification \n- javascript hacker rank skill certification \n- nodejs hacker rank skill certification \n- java hacker rank skill certification \n- angular hacker rank skill certification \n- sql hacker rank skill certification"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yth9rfwv2LQUJwoeQbbDJM2ZHIo",
+      "id": "PLT5Jhb7lgSBMymRFT4FX2vo9kwFo6ezfL",
+      "snippet": {
+        "publishedAt": "2021-11-08T07:42:38Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS with Prisma ORM with databases",
+        "description": "ORMs let us define our models as classes that map to tables in a database. Active Record and Data Mapper are two common patterns followed by ORMs. Both patterns require us to define classes to plot a connection to the database. However, there is a fundamental difference between them.\n\nActive Record closely relates an application’s in-memory representation and database table. For instance, each field in the model will correspond to a field in the database table.\n\nOn the other hand, as the name suggests, Data Mapper loosely maps in-memory representation to a database table, decoupling the database and the model.\n\nPrisma uses the Data Mapper pattern, similar to Doctrine ORM in the PHP world. With components like Prisma schema, client and migrate, it has the main bases covered.\nPrisma unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion\n\nThe Prisma schema is intuitive and lets you declare your database tables in a human-readable way — making your data modeling experience a delight. You define your models by hand or introspect them from an existing database.\n\nlets explore Prims with Node JS, Nest JS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CR-4GycbBFU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS with Prisma ORM with databases",
+          "description": "ORMs let us define our models as classes that map to tables in a database. Active Record and Data Mapper are two common patterns followed by ORMs. Both patterns require us to define classes to plot a connection to the database. However, there is a fundamental difference between them.\n\nActive Record closely relates an application’s in-memory representation and database table. For instance, each field in the model will correspond to a field in the database table.\n\nOn the other hand, as the name suggests, Data Mapper loosely maps in-memory representation to a database table, decoupling the database and the model.\n\nPrisma uses the Data Mapper pattern, similar to Doctrine ORM in the PHP world. With components like Prisma schema, client and migrate, it has the main bases covered.\nPrisma unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion\n\nThe Prisma schema is intuitive and lets you declare your database tables in a human-readable way — making your data modeling experience a delight. You define your models by hand or introspect them from an existing database.\n\nlets explore Prims with Node JS, Nest JS"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "29aWMWMTCJ-lzS5AYvFJ8RmKE4c",
+      "id": "PLT5Jhb7lgSBNdMMo5cbZUj1rESCzeoU0d",
+      "snippet": {
+        "publishedAt": "2021-11-08T07:42:18Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS with Mongoose ODM",
+        "description": "Mongoose is MongoDB's Object Document Mapper ( ODM ) designed to work in an asynchronous environment. MongoDB store data in JSON documents. Using Mongoose, we can map simple documents in full JS Objects with data, validations, schemas and business logics\n\n\nRelationships in MongoDB are just representations of related data. There is no mechanism that maintains the integrity of these relationships.\n\nWhat mongoose does with refs is just using the field having the ref option to query the _id field of documents in the referenced collection. This is used for operations like populate (which internally calls findById queries on the target collection and replaces the referenced field with the documents).\n\nThis being cleared, you can store one or many IDs for the referenced collection in the field, thus creating one-to-one or one-to-many “relationships”.\n\nThe videos in this Blog talks about how can we manage relationship using mongoose in the Mongo DB database to store and fetch data in a defined structure.\n\none to one\none to many\nmany to many relationships",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f1O6b5oCWvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS with Mongoose ODM",
+          "description": "Mongoose is MongoDB's Object Document Mapper ( ODM ) designed to work in an asynchronous environment. MongoDB store data in JSON documents. Using Mongoose, we can map simple documents in full JS Objects with data, validations, schemas and business logics\n\n\nRelationships in MongoDB are just representations of related data. There is no mechanism that maintains the integrity of these relationships.\n\nWhat mongoose does with refs is just using the field having the ref option to query the _id field of documents in the referenced collection. This is used for operations like populate (which internally calls findById queries on the target collection and replaces the referenced field with the documents).\n\nThis being cleared, you can store one or many IDs for the referenced collection in the field, thus creating one-to-one or one-to-many “relationships”.\n\nThe videos in this Blog talks about how can we manage relationship using mongoose in the Mongo DB database to store and fetch data in a defined structure.\n\none to one\none to many\nmany to many relationships"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yU2de1rGlg95zMbzQdMH4udMkTE",
+      "id": "PLT5Jhb7lgSBP0-4Sm40LWm5nEclx1YbYG",
+      "snippet": {
+        "publishedAt": "2021-11-07T11:19:37Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS with Knex JS Postgres",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H9JBzPTzZMU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS with Knex JS Postgres",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "r2RyJR7u58_PGD6xGP3fkp7227I",
+      "id": "PLT5Jhb7lgSBP0uHdpmBmdYgfGh3i0gWIU",
+      "snippet": {
+        "publishedAt": "2021-10-16T15:28:18Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "React JS with Tailwind CSS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F8PVAbj8-Mk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "React JS with Tailwind CSS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7VaM_n1VwBHXfewIrZNLc4-be3o",
+      "id": "PLT5Jhb7lgSBO3eYdF71uKmzqjauaTmXOH",
+      "snippet": {
+        "publishedAt": "2021-10-16T15:18:00Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Webinars Front end development",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HaprVeJ1Jbw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Webinars Front end development",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "J8LnmPyd4fjSkUFsztqbp0PnyEg",
+      "id": "PLT5Jhb7lgSBNu6Ibx1DAxRk4ofXYNc8mT",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:20:47Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Master Course on Nest JS Node JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Master Course on Nest JS Node JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "F94gwHaD0pEqsrx6vlj4ommLEDg",
+      "id": "PLT5Jhb7lgSBMsAZ7SiV7qksYLQbwIDHtY",
+      "snippet": {
+        "publishedAt": "2021-07-19T10:54:04Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Microservices with Nest JS Node JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w0pfVvNLsXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Microservices with Nest JS Node JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1JK-lRjZHYKJGoDAZeFnMDm6GQk",
+      "id": "PLT5Jhb7lgSBOxBMCt7oGJbu0Gkgd-vfAO",
+      "snippet": {
+        "publishedAt": "2021-07-19T10:46:59Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "React with Typescript",
+        "description": "JavaScript (also known as ECMAScript) started its life as a simple scripting language for browsers. At the time it was invented, it was expected to be used for short snippets of code embedded in a web page — writing more than a few dozen lines of code would have been somewhat unusual. Due to this, early web browsers executed such code pretty slowly. Over time, though, JS became more and more popular, and web developers started using it to create interactive experiences.\n\n\nCreate React App supports TypeScript out of the box. You can also add it to an existing Create React App project, as documented here.\n\nTypeScript is awesome. So is React. Let’s use them both together! Using TypeScript allows us to get the benefits of IntelliSense, as well as the ability to further reason about our code. As well as this, adopting TypeScript is low-friction, as files can be incrementally upgraded without causing issues throughout the rest of your project.\n\n\nwe will see how we can create components and building blocks of react using typescript types",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xzlh4CDSsFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "React with Typescript",
+          "description": "JavaScript (also known as ECMAScript) started its life as a simple scripting language for browsers. At the time it was invented, it was expected to be used for short snippets of code embedded in a web page — writing more than a few dozen lines of code would have been somewhat unusual. Due to this, early web browsers executed such code pretty slowly. Over time, though, JS became more and more popular, and web developers started using it to create interactive experiences.\n\n\nCreate React App supports TypeScript out of the box. You can also add it to an existing Create React App project, as documented here.\n\nTypeScript is awesome. So is React. Let’s use them both together! Using TypeScript allows us to get the benefits of IntelliSense, as well as the ability to further reason about our code. As well as this, adopting TypeScript is low-friction, as files can be incrementally upgraded without causing issues throughout the rest of your project.\n\n\nwe will see how we can create components and building blocks of react using typescript types"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "q7HqJyH7PeOUeNwH1NIU1MqjdV0",
+      "id": "PLT5Jhb7lgSBPd3ibEZ8IDL8Ujd_nWzacv",
+      "snippet": {
+        "publishedAt": "2021-06-11T07:16:21Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Javascript top 500 Interview Questions",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O7loc-JGtUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O7loc-JGtUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7loc-JGtUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O7loc-JGtUA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O7loc-JGtUA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Javascript top 500 Interview Questions",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PTW_eK9B4GIVYI00wJZw2m8cKCY",
+      "id": "PLT5Jhb7lgSBOrIKCE0mrPOkIg57qPDRKM",
+      "snippet": {
+        "publishedAt": "2021-05-31T17:11:30Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Testing React component with Jest",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Testing React component with Jest",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5xdMqUuTL6UmNraTLMHwnb7n370",
+      "id": "PLT5Jhb7lgSBMTsfsgQcKQoaWCUOn_2oyC",
+      "snippet": {
+        "publishedAt": "2021-05-22T19:02:00Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Testing with React, Angular, Node JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dzz8R5d7nyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Testing with React, Angular, Node JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "KV8uCK_pfMI4epvg0u-iWbGLTxU",
+      "id": "PLT5Jhb7lgSBO8igCSxF35hOSUVuOznW40",
+      "snippet": {
+        "publishedAt": "2021-05-22T19:01:26Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS with Graphql World",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYuawauUFvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYuawauUFvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYuawauUFvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wYuawauUFvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wYuawauUFvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS with Graphql World",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QhgexESGGzVWfLxhfFS16uM4DcM",
+      "id": "PLT5Jhb7lgSBO_TPqc9EMHNNdNblak3GWD",
+      "snippet": {
+        "publishedAt": "2021-05-22T19:00:50Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS with Different ORM",
+        "description": "ORM is the process of mapping between objects and relational database systems. Different database systems access data in myriad ways, and ORM helps you maintain objects even when the sources and apps they access change over time.\n\nORMs are commonly used to streamline the migration of data between databases.\n\nBefore we get to the reasons why you shouldn’t use ORM with Node.js, let’s list some benefits. When used properly, ORM in Node.js enables you to:\n\nAvoid redundant code\nEasily switch from one database to another\nQuery for multiple tables (ORM converts the object-oriented query approach to SQL)\nFocus more on business logic and less on writing interfaces\n\nhttps://github.com/tkssharma/nodejs-db-orm-world\nGraphql and Node JS  with different ORM\nTypeorm, Knex, Prisma and Sequelize with Node JS API Development \nNode JS with without any ORM (MYSQL raw queries)\n\nNode JS express with Knex \nNest JS with Knex query Builder \nNode JS express with sequelize \nNest JS with sequelize ORM\nNode JS express with TypeORM \nNest JS with TypeORM orm library  \nNode JS express with Prisma \nNest JS with Prisma\n\nGitHub :\nhttps://github.com/tkssharma/Typeorm-with-NodeJS-Mysql-Tutorials\n\n► 💻👨\u200d🏫📕 Subscribe ► https://www.youtube.com/user/vibbbbbba?sub_confirmation=1\n► 💻👨\u200d🏫📕 Watch All My Playlist ► https://www.youtube.com/user/vibbbbbba/playlists?view_as=subscriber\n💻👨\u200d🏫📕 My all courses for Developer to Learn and grow 💻👨\u200d🏫📕",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ipuBHEq_7zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ipuBHEq_7zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ipuBHEq_7zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ipuBHEq_7zk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ipuBHEq_7zk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS with Different ORM",
+          "description": "ORM is the process of mapping between objects and relational database systems. Different database systems access data in myriad ways, and ORM helps you maintain objects even when the sources and apps they access change over time.\n\nORMs are commonly used to streamline the migration of data between databases.\n\nBefore we get to the reasons why you shouldn’t use ORM with Node.js, let’s list some benefits. When used properly, ORM in Node.js enables you to:\n\nAvoid redundant code\nEasily switch from one database to another\nQuery for multiple tables (ORM converts the object-oriented query approach to SQL)\nFocus more on business logic and less on writing interfaces\n\nhttps://github.com/tkssharma/nodejs-db-orm-world\nGraphql and Node JS  with different ORM\nTypeorm, Knex, Prisma and Sequelize with Node JS API Development \nNode JS with without any ORM (MYSQL raw queries)\n\nNode JS express with Knex \nNest JS with Knex query Builder \nNode JS express with sequelize \nNest JS with sequelize ORM\nNode JS express with TypeORM \nNest JS with TypeORM orm library  \nNode JS express with Prisma \nNest JS with Prisma\n\nGitHub :\nhttps://github.com/tkssharma/Typeorm-with-NodeJS-Mysql-Tutorials\n\n► 💻👨\u200d🏫📕 Subscribe ► https://www.youtube.com/user/vibbbbbba?sub_confirmation=1\n► 💻👨\u200d🏫📕 Watch All My Playlist ► https://www.youtube.com/user/vibbbbbba/playlists?view_as=subscriber\n💻👨\u200d🏫📕 My all courses for Developer to Learn and grow 💻👨\u200d🏫📕"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "f2lzvzfT8vf1unQ1388qSL5JBrU",
+      "id": "PLT5Jhb7lgSBPrL1Qz2XXVtzvgxrYp7ms9",
+      "snippet": {
+        "publishedAt": "2021-05-22T16:59:54Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Full Stack Swiggy Clone | React | Nest JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VJFm8XRn6AU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Full Stack Swiggy Clone | React | Nest JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xkC_hUUhSomDZv_aRLKSoUYmrt0",
+      "id": "PLT5Jhb7lgSBO45K76DK3CvKIbGD_2UYAM",
+      "snippet": {
+        "publishedAt": "2021-05-22T13:20:11Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Camunda Workflow Engine for Microservices",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fmhIcISG4vc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Camunda Workflow Engine for Microservices",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "behr5W4AM0ciAQIntQMvIp8KTJE",
+      "id": "PLT5Jhb7lgSBPJluRMbNWFA4pAJ1ifmFta",
+      "snippet": {
+        "publishedAt": "2021-05-22T12:56:02Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Understand Graphql with Apollo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZPXaZx9Sb_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Understand Graphql with Apollo",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1EXbQAm7diOB6MmiURp028PeXps",
+      "id": "PLT5Jhb7lgSBNc2cC7Umr-ha_ZTvMypDay",
+      "snippet": {
+        "publishedAt": "2021-05-22T12:48:01Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Hacker Rank Node JS,  React, Angular Questions",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9aA4M7v-MFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Hacker Rank Node JS,  React, Angular Questions",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "811v6djUwf6JzCtdb1Eoh2uCBAQ",
+      "id": "PLT5Jhb7lgSBMh5zkYVDfyQvb_OmiIiQfe",
+      "snippet": {
+        "publishedAt": "2021-05-22T11:54:48Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Serverless Framework for Lambda & API Gateway",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UZHxMBNAOCg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Serverless Framework for Lambda & API Gateway",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "B25Qecc_KOLonp85lXzhism5Xbg",
+      "id": "PLT5Jhb7lgSBObvlkg6j2GxiU2_b_OPONX",
+      "snippet": {
+        "publishedAt": "2021-05-22T11:39:03Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "AWS Lambda and API Gateway",
+        "description": "In this tutorial, you create a REST API through which you invoke a Lambda function using an HTTP request. Your Lambda function will perform create, read, update, and delete (CRUD) operations on a DynamoDB table. This function is provided here for demonstration, but you will learn to configure an API Gateway REST API that can invoke any Lambda function.\n\nServices and resources used in this tutorial\n    \nUsing API Gateway provides users with a secure HTTP endpoint to invoke your Lambda function and can help manage large volumes of calls to your function by throttling traffic and automatically validating and authorizing API calls.\n\n API Gateway also provides flexible security controls using AWS Identity and Access Management (IAM) and Amazon Cognito. This is useful for use cases where advance authorization is required for calls to your application.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ddkOADJRSbs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "AWS Lambda and API Gateway",
+          "description": "In this tutorial, you create a REST API through which you invoke a Lambda function using an HTTP request. Your Lambda function will perform create, read, update, and delete (CRUD) operations on a DynamoDB table. This function is provided here for demonstration, but you will learn to configure an API Gateway REST API that can invoke any Lambda function.\n\nServices and resources used in this tutorial\n    \nUsing API Gateway provides users with a secure HTTP endpoint to invoke your Lambda function and can help manage large volumes of calls to your function by throttling traffic and automatically validating and authorizing API calls.\n\n API Gateway also provides flexible security controls using AWS Identity and Access Management (IAM) and Amazon Cognito. This is useful for use cases where advance authorization is required for calls to your application."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wQXFEFSDm2PHnxopzO-PtsngINg",
+      "id": "PLT5Jhb7lgSBPEnrvuLyUntMTCujMOdpyi",
+      "snippet": {
+        "publishedAt": "2021-05-22T11:21:51Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "AWS Practitioner Certification Mock Tests",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAfjrUispn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAfjrUispn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAfjrUispn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xAfjrUispn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xAfjrUispn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "AWS Practitioner Certification Mock Tests",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "fb_kUw4U5EsozroVu9RrLuVLj1k",
+      "id": "PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7",
+      "snippet": {
+        "publishedAt": "2021-05-22T05:25:29Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "NestJS Advanced Course  || Course || Training",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zmz9ZuSgIro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "NestJS Advanced Course  || Course || Training",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "GKMWI_6YxYNAdZZ8zfno_xRhnvo",
+      "id": "PLT5Jhb7lgSBOeHyaBbzYTrnw8N5nxrOyB",
+      "snippet": {
+        "publishedAt": "2020-09-22T11:15:48Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Microservices with Node JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BCMNWJoKa9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Microservices with Node JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "E5LV5X3fnEDR38oxvRkTG2dNkCM",
+      "id": "PLT5Jhb7lgSBOnV6hdYBZ-AnJe1e5-2x-N",
+      "snippet": {
+        "publishedAt": "2020-09-22T11:15:17Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Microservices Architecture Patterns",
+        "description": "Understanding Microservice Architecture and Different Microservice Patterns \nPlaylist Link https://www.youtube.com/watch?v=YPnsfUQTjis&list=PLT5Jhb7lgSBN5U6p_KSCtZfHYSqQUQ7hw&index=26\n\n► Pattern: Microservice Architecture\n► CQRS : Microservice Architecture\n► Event Driven : Microservice Architecture\n► Decomposition patterns\n► The Database per Service pattern describes how each service has its own database in order to ensure loose coupling.\n► The API Gateway pattern defines how clients access the services in a microservice architecture.\n► The Client-side Discovery and Server-side Discovery patterns are used to route requests for a client to an available service instance in a microservice architecture.\n\nIn this informative video, we delve into the world of microservice architecture, exploring its core concepts and various microservice patterns. Microservice architecture is a software development approach that structures an application as a collection of small, independent, and loosely coupled services.\nThroughout the video, we'll discuss the advantages and challenges of adopting a microservice architecture, as well as the key principles that drive its design. We'll explore how microservices enable scalability, fault isolation, and independent deployment, empowering organizations to develop and maintain complex applications with agility and flexibility.\n\nMoreover, we'll delve into different microservice patterns that help address common architectural challenges. These patterns include:\n\nService Discovery:\nExplain the importance of service discovery in a microservice environment.\nDiscuss various service discovery mechanisms such as client-side discovery and server-side discovery.\nAPI Gateway:\nCircuit Breaker:\nEvent Sourcing:\nCQRS (Command Query Responsibility Segregation):\nSaga Pattern:",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oZiacEF_Lx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Microservices Architecture Patterns",
+          "description": "Understanding Microservice Architecture and Different Microservice Patterns \nPlaylist Link https://www.youtube.com/watch?v=YPnsfUQTjis&list=PLT5Jhb7lgSBN5U6p_KSCtZfHYSqQUQ7hw&index=26\n\n► Pattern: Microservice Architecture\n► CQRS : Microservice Architecture\n► Event Driven : Microservice Architecture\n► Decomposition patterns\n► The Database per Service pattern describes how each service has its own database in order to ensure loose coupling.\n► The API Gateway pattern defines how clients access the services in a microservice architecture.\n► The Client-side Discovery and Server-side Discovery patterns are used to route requests for a client to an available service instance in a microservice architecture.\n\nIn this informative video, we delve into the world of microservice architecture, exploring its core concepts and various microservice patterns. Microservice architecture is a software development approach that structures an application as a collection of small, independent, and loosely coupled services.\nThroughout the video, we'll discuss the advantages and challenges of adopting a microservice architecture, as well as the key principles that drive its design. We'll explore how microservices enable scalability, fault isolation, and independent deployment, empowering organizations to develop and maintain complex applications with agility and flexibility.\n\nMoreover, we'll delve into different microservice patterns that help address common architectural challenges. These patterns include:\n\nService Discovery:\nExplain the importance of service discovery in a microservice environment.\nDiscuss various service discovery mechanisms such as client-side discovery and server-side discovery.\nAPI Gateway:\nCircuit Breaker:\nEvent Sourcing:\nCQRS (Command Query Responsibility Segregation):\nSaga Pattern:"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rqrpVAnZYEK7uubFmLlvVaVti3k",
+      "id": "PLT5Jhb7lgSBOqEaS_2uu1qw-OooWmd_On",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:43:19Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "NextJS with React JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ohyvTInJd6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "NextJS with React JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5ngSW2lgLvr1BuOs8vrBRtmXD2Q",
+      "id": "PLT5Jhb7lgSBMB89vczmKPBLvqzHsLUCQI",
+      "snippet": {
+        "publishedAt": "2020-08-29T18:33:13Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Prepare Javascript Interviews",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BBSHOhfIGfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Prepare Javascript Interviews",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-sLNt9inemr73Mq81EiLFurYhW0",
+      "id": "PLT5Jhb7lgSBMbcbZGQPJc20dkbswRr3Il",
+      "snippet": {
+        "publishedAt": "2020-08-29T12:11:32Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Daily Javascript Lessons",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rbVzjbyGmmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Daily Javascript Lessons",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ekgB7V-QQGGByjohCygGAsmjlgs",
+      "id": "PLT5Jhb7lgSBMTu9PthgSGurRUr0JZRYQ4",
+      "snippet": {
+        "publishedAt": "2020-08-25T09:52:41Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Mastering Node JS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S1ZPZVnQyqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Mastering Node JS",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "HduaOZpT6772tiJmiqq0tgrPUWw",
+      "id": "PLT5Jhb7lgSBPpfFioxHx1ApiU2v7eKEZx",
+      "snippet": {
+        "publishedAt": "2020-08-18T04:27:48Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "React Redux for Managing State",
+        "description": "This is the tutorial you've been looking for to take your React and Redux skills to the next level.\n\nAuthentication with Express/Mongo?  Yes!  Middleware/Higher Order Components? We got it.  Testing with Mocha/Chai?  It's here!\n\nThis course wastes no time diving right into interesting topics, and teaches you the core knowledge you need to deeply understand and build React components and structure applications with Redux.\n\nMastering React and Redux can get you a position in web development or help you build that personal project you've been dreaming of. It's a skill that will put you more in demand in the modern web development industry, especially with the release of Redux and ReactNative.\n\nThere are dozens of great tutorials online for React and Redux, but none of them teach the challenging, core features of these two fantastic libraries.  I created this course to push you beyond \"just getting started.\"\n\n    Learn how to thoroughly test React and Redux code, including tests for action creators and reducers\n\n    Get familiar with Higher Order Components.  Don't know what they are?  No problem, you have been using them without even knowing it!\n\n    Rewrite a popular Redux Middleware from scratch to handle asynchronous actions\n\n    Become a master of the trickiest topic in Javascript: authentication.  You will write a server with enterprise-grade authentication from scratch that can scale to hundreds of thousands of users.  No shortcuts, no dummy data.\n\nI have built the course that I would have wanted to take when I was learning React and Redux.  A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "React Redux for Managing State",
+          "description": "This is the tutorial you've been looking for to take your React and Redux skills to the next level.\n\nAuthentication with Express/Mongo?  Yes!  Middleware/Higher Order Components? We got it.  Testing with Mocha/Chai?  It's here!\n\nThis course wastes no time diving right into interesting topics, and teaches you the core knowledge you need to deeply understand and build React components and structure applications with Redux.\n\nMastering React and Redux can get you a position in web development or help you build that personal project you've been dreaming of. It's a skill that will put you more in demand in the modern web development industry, especially with the release of Redux and ReactNative.\n\nThere are dozens of great tutorials online for React and Redux, but none of them teach the challenging, core features of these two fantastic libraries.  I created this course to push you beyond \"just getting started.\"\n\n    Learn how to thoroughly test React and Redux code, including tests for action creators and reducers\n\n    Get familiar with Higher Order Components.  Don't know what they are?  No problem, you have been using them without even knowing it!\n\n    Rewrite a popular Redux Middleware from scratch to handle asynchronous actions\n\n    Become a master of the trickiest topic in Javascript: authentication.  You will write a server with enterprise-grade authentication from scratch that can scale to hundreds of thousands of users.  No shortcuts, no dummy data.\n\nI have built the course that I would have wanted to take when I was learning React and Redux.  A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rUcxk65G41YxYJk_PiNUWg8dtgk",
+      "id": "PLT5Jhb7lgSBM4VCbfJAAch3G6XioJXuFX",
+      "snippet": {
+        "publishedAt": "2020-08-16T17:23:10Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "React Forms using Formik",
+        "description": "This course was created for those without experience in react Formik. By watching these videos, you'll go from knowing nothing about React Formik to building a working web forms. You'll see how far just knowing basic React can get you when using React Formik to build a web forms.\n\nThe app built in this course is a signup form.\n\nThis course assumes basic understanding of React, Javascript and HTML.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w746bs8zpAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "React Forms using Formik",
+          "description": "This course was created for those without experience in react Formik. By watching these videos, you'll go from knowing nothing about React Formik to building a working web forms. You'll see how far just knowing basic React can get you when using React Formik to build a web forms.\n\nThe app built in this course is a signup form.\n\nThis course assumes basic understanding of React, Javascript and HTML."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "c1Wo1SxSoBgRjo-9mX5uEg4vEgI",
+      "id": "PLT5Jhb7lgSBM4_Pid_xTcS5-1MsyP2cwB",
+      "snippet": {
+        "publishedAt": "2020-07-31T15:04:26Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Building React Apps",
+        "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WOcLkqJkPbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Building React Apps",
+          "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_yponqb3bzKeL6OBdM4vkaw3F9E",
+      "id": "PLT5Jhb7lgSBNOdz6OpYyT0sGVnYSHFQtU",
+      "snippet": {
+        "publishedAt": "2020-07-25T14:07:39Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "React Hooks Crash Course",
+        "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SWIr-t2hcmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "React Hooks Crash Course",
+          "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8n7wnE6BXeY4apuN-9gzpYELb1k",
+      "id": "PLT5Jhb7lgSBOEFW-ZS3Xt3pPwKCyz3rSI",
+      "snippet": {
+        "publishedAt": "2020-07-25T14:07:23Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "React Full Training | 30 Hourse | Training",
+        "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x7ccLKJG0PY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "React Full Training | 30 Hourse | Training",
+          "description": "What's this course about?\n\nLearn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!\n\nMore details please!\n\nJavaScript is the major driver of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.\n\nBut using JavaScript can be challenging - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.\n\nReact to the rescue! \n\nReact is all about components - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.\n\nNeed to display a list of users in your app? It's as simple as creating a \"User\" component and outputting it as often as needed.\n\nThis course will start at the very basics and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way from basic to advanced. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux. \n\nBy the end of the course, you can build amazing React (single page) applications!\n\nA detailed list with the course content can be found below."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "sGa58ebDBuODu9RlKUQm3s9hwbQ",
+      "id": "PLT5Jhb7lgSBOwPV-wTy7P2eZImtpOYLcB",
+      "snippet": {
+        "publishedAt": "2020-07-25T14:06:40Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "MERN Stack React & Node JS Course",
+        "description": "What you will Learn \nUnderstand Modern JavaScript\nUnderstand Node Js from Scratch\nUnderstand React Js from Scratch\nLearn Node JS API Development from Scratch\nLearn Frontend Web Development with React\nUnderstand JavaScript in the Browser Environment\nUnderstand JavaScript in the Node JS Environment\nHow Node JS Event Loop works\nSynchronous vs Asynchronous programming\nBlocking vs Non-Blocking code\nUsing Core Node JS Modules\nUsing your own Modules\nUsing NPM Modules\nMVC Design Pattern\nLearn Mongo DB\nLearn to implement CRUD (create, read, update, delete) on users/posts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ak7nnxmUQjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "MERN Stack React & Node JS Course",
+          "description": "What you will Learn \nUnderstand Modern JavaScript\nUnderstand Node Js from Scratch\nUnderstand React Js from Scratch\nLearn Node JS API Development from Scratch\nLearn Frontend Web Development with React\nUnderstand JavaScript in the Browser Environment\nUnderstand JavaScript in the Node JS Environment\nHow Node JS Event Loop works\nSynchronous vs Asynchronous programming\nBlocking vs Non-Blocking code\nUsing Core Node JS Modules\nUsing your own Modules\nUsing NPM Modules\nMVC Design Pattern\nLearn Mongo DB\nLearn to implement CRUD (create, read, update, delete) on users/posts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "WVqfZKkCi4Kq2I_b1JRM7j-b6iw",
+      "id": "PLT5Jhb7lgSBOxHMZnfDtEmDCHiendfz67",
+      "snippet": {
+        "publishedAt": "2020-07-17T16:56:49Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Docker Crash Course",
+        "description": "Docker containers are a flexible platform that allows you to easily build ship and run your applications in scalable and distributed environments. Pluralsight’s training dives deep into different deployment options and how to build scalable Docker solutions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dS1S12sPw1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Docker Crash Course",
+          "description": "Docker containers are a flexible platform that allows you to easily build ship and run your applications in scalable and distributed environments. Pluralsight’s training dives deep into different deployment options and how to build scalable Docker solutions."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vwEq3HrQUdFvJD_OmHdM1GXK-g4",
+      "id": "PLT5Jhb7lgSBNllzyUDYupx5aah8P00i2Y",
+      "snippet": {
+        "publishedAt": "2020-07-17T15:47:59Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS Crash Course",
+        "description": "Node.js is a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine.It is used to develop web and mobile applications.. Node.js is open source, completely free, and used by thousands of developers around the world. Node was built with JavaScript so it helps if you have some understanding of how JavaScript actually works.Also having some understanding of other web technologies such as HTML, CSS, AJAX is useful.This course is an absolute beginners course that will teach you some Node .js basic fundamentals.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8mYTQyxN_U8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS Crash Course",
+          "description": "Node.js is a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine.It is used to develop web and mobile applications.. Node.js is open source, completely free, and used by thousands of developers around the world. Node was built with JavaScript so it helps if you have some understanding of how JavaScript actually works.Also having some understanding of other web technologies such as HTML, CSS, AJAX is useful.This course is an absolute beginners course that will teach you some Node .js basic fundamentals."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XrtCWv5M0sa_Ev8Pj_YN0osqfTw",
+      "id": "PLT5Jhb7lgSBNg2x2aKmvHNpAWwGZZIgl8",
+      "snippet": {
+        "publishedAt": "2020-07-14T11:27:11Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Nestjs Crash Course and Tutorials",
+        "description": "Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with and fully supports TypeScript (yet still enables developers to code in pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).\n\nUnder the hood, Nest makes use of robust HTTP Server frameworks like Express (the default) and optionally can be configured to use Fastify as well!\n\nNest provides a level of abstraction above these common Node.js frameworks (Express/Fastify), but also exposes their APIs directly to the developer. This allows developers the freedom to use the myriad of third-party modules which are available for the underlying platform.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B80MDf_eeHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Nestjs Crash Course and Tutorials",
+          "description": "Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with and fully supports TypeScript (yet still enables developers to code in pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).\n\nUnder the hood, Nest makes use of robust HTTP Server frameworks like Express (the default) and optionally can be configured to use Fastify as well!\n\nNest provides a level of abstraction above these common Node.js frameworks (Express/Fastify), but also exposes their APIs directly to the developer. This allows developers the freedom to use the myriad of third-party modules which are available for the underlying platform."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0DSFDVJAKn3AdTBuf5gYwONZ_Io",
+      "id": "PLT5Jhb7lgSBPbQ7Ae0JFY9ErjMO5VEoIG",
+      "snippet": {
+        "publishedAt": "2020-06-26T14:14:40Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Javascript Webinars & Talks (Weekend Learning)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ruZNLrEbb6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ruZNLrEbb6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ruZNLrEbb6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ruZNLrEbb6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ruZNLrEbb6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Javascript Webinars & Talks (Weekend Learning)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "fop4quB3y5IOV3rJWhmaqpOFKYI",
+      "id": "PLT5Jhb7lgSBOnwyukLUZb6X-WnliySCUL",
+      "snippet": {
+        "publishedAt": "2020-06-20T20:40:49Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Nodejs Graphql (Apollo Graphql Server with Sequelize & Mysql)",
+        "description": "What is GraphQL?\nGraphQL is a declarative data fetching specification and query language for APIs. It was created by Facebook. GraphQL is an effective alternative to REST, as it was created to overcome some of the shortcomings of REST like under/over fetching.\n\nUnlike REST, GraphQL uses one endpoint. This means we make one request to the endpoint and we’ll get one response as JSON. This JSON response can contain as little or as much data as we want. Like REST, GraphQL can be operated over HTTP, though GraphQL is protocol agnostic.\n\nA typical GraphQL server is comprised of schema and resolvers. A schema (or GraphQL schema) contains type definitions that would make up a GraphQL API. A type definition contains field(s), each with what it is expected to return. Each field is mapped to a function on the GraphQL server called a resolver. Resolvers contain the implementation logic and return data for a field. In other words, schemas contain type definitions, while resolvers contain the actual implementations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ldXhR3KWs8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Nodejs Graphql (Apollo Graphql Server with Sequelize & Mysql)",
+          "description": "What is GraphQL?\nGraphQL is a declarative data fetching specification and query language for APIs. It was created by Facebook. GraphQL is an effective alternative to REST, as it was created to overcome some of the shortcomings of REST like under/over fetching.\n\nUnlike REST, GraphQL uses one endpoint. This means we make one request to the endpoint and we’ll get one response as JSON. This JSON response can contain as little or as much data as we want. Like REST, GraphQL can be operated over HTTP, though GraphQL is protocol agnostic.\n\nA typical GraphQL server is comprised of schema and resolvers. A schema (or GraphQL schema) contains type definitions that would make up a GraphQL API. A type definition contains field(s), each with what it is expected to return. Each field is mapped to a function on the GraphQL server called a resolver. Resolvers contain the implementation logic and return data for a field. In other words, schemas contain type definitions, while resolvers contain the actual implementations."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8l7zn4T41DECQqsBem1Txm8-8H0",
+      "id": "PLT5Jhb7lgSBNmwHVnjEY7uwTv9_lDV1_s",
+      "snippet": {
+        "publishedAt": "2020-06-20T05:57:17Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS Typescript with TypeORM",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zwlEhuN5uOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS Typescript with TypeORM",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rb3sXyo6tuI_ZshoLcttiapDgs8",
+      "id": "PLT5Jhb7lgSBPOU6Oik1PwtQb1yUmnRygY",
+      "snippet": {
+        "publishedAt": "2020-06-02T02:09:00Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Learn Nestjs for API development",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UxZ3I4cWh9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Learn Nestjs for API development",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_MW47ZJgV3aogcYdp-6IoH0Qd_c",
+      "id": "PLT5Jhb7lgSBP6DgaKw_M2RKEJJ5DyQvV1",
+      "snippet": {
+        "publishedAt": "2019-03-28T04:48:27Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Webinar &  Talks",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-kOl8lhA5XE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-kOl8lhA5XE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-kOl8lhA5XE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-kOl8lhA5XE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-kOl8lhA5XE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Webinar &  Talks",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZAIy4U1ZzvZubv0rfnCgG3QDXbs",
+      "id": "PLT5Jhb7lgSBMPrqdq6927wH059h3DiHXg",
+      "snippet": {
+        "publishedAt": "2019-03-19T08:32:31Z",
+        "channelId": "UCIgpnDfR6LMN94lqMVLPoPw",
+        "title": "Node JS with ORM Sequelize",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f_YiiF1LueA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "IndiTechCoder",
+        "localized": {
+          "title": "Node JS with ORM Sequelize",
           "description": ""
         }
       }
