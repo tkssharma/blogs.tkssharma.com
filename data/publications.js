@@ -6912,4 +6912,4 @@ module.exports = {
       }
     }
   ]
-};
+}
